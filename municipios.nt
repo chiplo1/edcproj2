@@ -1,0 +1,2204 @@
+<http://municipio/Águeda> <http://municipio/pred/idmun> "1".
+<http://municipio/Águeda> <http://municipio/pred/nome> "Águeda".
+<http://municipio/Águeda> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Águeda> <http://municipio/pred/area> "335.28".
+<http://municipio/Águeda> <http://municipio/pred/pop> "49857".
+<http://municipio/Águeda> <http://municipio/pred/denspop> "149".
+
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/idmun> "2".
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/nome> "Albergaria-a-Velha".
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/area> "158.83".
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/pop> "26279".
+<http://municipio/Albergaria-a-Velha> <http://municipio/pred/denspop> "165".
+
+<http://municipio/Anadia> <http://municipio/pred/idmun> "3".
+<http://municipio/Anadia> <http://municipio/pred/nome> "Anadia".
+<http://municipio/Anadia> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Anadia> <http://municipio/pred/area> "216.64".
+<http://municipio/Anadia> <http://municipio/pred/pop> "31422".
+<http://municipio/Anadia> <http://municipio/pred/denspop> "145".
+
+<http://municipio/Arouca> <http://municipio/pred/idmun> "4".
+<http://municipio/Arouca> <http://municipio/pred/nome> "Arouca".
+<http://municipio/Arouca> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Arouca> <http://municipio/pred/area> "327.99".
+<http://municipio/Arouca> <http://municipio/pred/pop> "23663".
+<http://municipio/Arouca> <http://municipio/pred/denspop> "72".
+<http://municipio/Arouca> <http://municipio/pred/interesse> "Passadiços do Paiva".
+
+<http://municipio/Aveiro> <http://municipio/pred/idmun> "5".
+<http://municipio/Aveiro> <http://municipio/pred/nome> "Aveiro".
+<http://municipio/Aveiro> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Aveiro> <http://municipio/pred/area> "199.77".
+<http://municipio/Aveiro> <http://municipio/pred/pop> "73100".
+<http://municipio/Aveiro> <http://municipio/pred/denspop> "366".
+<http://municipio/Aveiro> <http://municipio/pred/interesse> "Salinas de Aveiro".
+
+<http://municipio/Castelo de Paiva> <http://municipio/pred/idmun> "6".
+<http://municipio/Castelo de Paiva> <http://municipio/pred/nome> "Castelo de Paiva".
+<http://municipio/Castelo de Paiva> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Castelo de Paiva> <http://municipio/pred/area> "114.67".
+<http://municipio/Castelo de Paiva> <http://municipio/pred/pop> "16785".
+<http://municipio/Castelo de Paiva> <http://municipio/pred/denspop> "146".
+
+<http://municipio/Espinho> <http://municipio/pred/idmun> "7".
+<http://municipio/Espinho> <http://municipio/pred/nome> "Espinho".
+<http://municipio/Espinho> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Espinho> <http://municipio/pred/area> "21.11".
+<http://municipio/Espinho> <http://municipio/pred/pop> "29481".
+<http://municipio/Espinho> <http://municipio/pred/denspop> "1397".
+
+<http://municipio/Estarreja> <http://municipio/pred/idmun> "8".
+<http://municipio/Estarreja> <http://municipio/pred/nome> "Estarreja".
+<http://municipio/Estarreja> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Estarreja> <http://municipio/pred/area> "108.16".
+<http://municipio/Estarreja> <http://municipio/pred/pop> "28195".
+<http://municipio/Estarreja> <http://municipio/pred/denspop> "261".
+
+<http://municipio/Ílhavo> <http://municipio/pred/idmun> "9".
+<http://municipio/Ílhavo> <http://municipio/pred/nome> "Ílhavo".
+<http://municipio/Ílhavo> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Ílhavo> <http://municipio/pred/area> "75.05".
+<http://municipio/Ílhavo> <http://municipio/pred/pop> "41271".
+<http://municipio/Ílhavo> <http://municipio/pred/denspop> "550".
+<http://municipio/Ílhavo> <http://municipio/pred/interesse> "Museu Marítmo de Ílhavo, Navio de Santo André".
+
+<http://municipio/Mealhada> <http://municipio/pred/idmun> "10".
+<http://municipio/Mealhada> <http://municipio/pred/nome> "Mealhada".
+<http://municipio/Mealhada> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mealhada> <http://municipio/pred/area> "111.14".
+<http://municipio/Mealhada> <http://municipio/pred/pop> "22215".
+<http://municipio/Mealhada> <http://municipio/pred/denspop> "200".
+<http://municipio/Mealhada> <http://municipio/pred/interesse> "Palácio do Buçaco".
+
+<http://municipio/Murtosa> <http://municipio/pred/idmun> "11".
+<http://municipio/Murtosa> <http://municipio/pred/nome> "Murtosa".
+<http://municipio/Murtosa> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Murtosa> <http://municipio/pred/area> "73.65".
+<http://municipio/Murtosa> <http://municipio/pred/pop> "9847".
+<http://municipio/Murtosa> <http://municipio/pred/denspop> "134".
+
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/idmun> "12".
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/nome> "Oliveira de Azeméis".
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/area> "163.41".
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/pop> "71210".
+<http://municipio/Oliveira de Azeméis> <http://municipio/pred/denspop> "436".
+
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/idmun> "13".
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/nome> "Oliveira do Bairro".
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/area> "87.28".
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/pop> "23504".
+<http://municipio/Oliveira do Bairro> <http://municipio/pred/denspop> "269".
+
+<http://municipio/Ovar> <http://municipio/pred/idmun> "14".
+<http://municipio/Ovar> <http://municipio/pred/nome> "Ovar".
+<http://municipio/Ovar> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Ovar> <http://municipio/pred/area> "147.52".
+<http://municipio/Ovar> <http://municipio/pred/pop> "57983".
+<http://municipio/Ovar> <http://municipio/pred/denspop> "393".
+<http://municipio/Ovar> <http://municipio/pred/interesse> "Pão-de-ló de Ovar".
+
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/idmun> "15".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/nome> "Santa Maria da Feira".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/area> "213.45".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/pop> "147406".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/denspop> "691".
+<http://municipio/Santa Maria da Feira> <http://municipio/pred/interesse> "Castelo de Santa Maria da Feira".
+
+<http://municipio/São João da Madeira> <http://municipio/pred/idmun> "16".
+<http://municipio/São João da Madeira> <http://municipio/pred/nome> "São João da Madeira".
+<http://municipio/São João da Madeira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/São João da Madeira> <http://municipio/pred/area> "8.11".
+<http://municipio/São João da Madeira> <http://municipio/pred/pop> "21762".
+<http://municipio/São João da Madeira> <http://municipio/pred/denspop> "2683".
+
+<http://municipio/Sever do Vouga> <http://municipio/pred/idmun> "17".
+<http://municipio/Sever do Vouga> <http://municipio/pred/nome> "Sever do Vouga".
+<http://municipio/Sever do Vouga> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sever do Vouga> <http://municipio/pred/area> "129.85".
+<http://municipio/Sever do Vouga> <http://municipio/pred/pop> "12643".
+<http://municipio/Sever do Vouga> <http://municipio/pred/denspop> "97".
+
+<http://municipio/Vagos> <http://municipio/pred/idmun> "19".
+<http://municipio/Vagos> <http://municipio/pred/nome> "Vagos".
+<http://municipio/Vagos> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vagos> <http://municipio/pred/area> "165.29".
+<http://municipio/Vagos> <http://municipio/pred/pop> "24107".
+<http://municipio/Vagos> <http://municipio/pred/denspop> "146".
+
+<http://municipio/Vale de Cambra> <http://municipio/pred/idmun> "19".
+<http://municipio/Vale de Cambra> <http://municipio/pred/nome> "Vale de Cambra".
+<http://municipio/Vale de Cambra> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vale de Cambra> <http://municipio/pred/area> "146.21".
+<http://municipio/Vale de Cambra> <http://municipio/pred/pop> "24360".
+<http://municipio/Vale de Cambra> <http://municipio/pred/denspop> "167".
+
+<http://municipio/Aljustrel> <http://municipio/pred/idmun> "20".
+<http://municipio/Aljustrel> <http://municipio/pred/nome> "Aljustrel".
+<http://municipio/Aljustrel> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Aljustrel> <http://municipio/pred/area> "455.66".
+<http://municipio/Aljustrel> <http://municipio/pred/pop> "9460".
+<http://municipio/Aljustrel> <http://municipio/pred/denspop> "21".
+
+<http://municipio/Almodôvar> <http://municipio/pred/idmun> "21".
+<http://municipio/Almodôvar> <http://municipio/pred/nome> "Almodôvar".
+<http://municipio/Almodôvar> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Almodôvar> <http://municipio/pred/area> "775.88".
+<http://municipio/Almodôvar> <http://municipio/pred/pop> "7163".
+<http://municipio/Almodôvar> <http://municipio/pred/denspop> "21".
+
+<http://municipio/Alvito> <http://municipio/pred/idmun> "22".
+<http://municipio/Alvito> <http://municipio/pred/nome> "Alvito".
+<http://municipio/Alvito> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Alvito> <http://municipio/pred/area> "264.81".
+<http://municipio/Alvito> <http://municipio/pred/pop> "2720".
+<http://municipio/Alvito> <http://municipio/pred/denspop> "10".
+<http://municipio/Alvito> <http://municipio/pred/interesse> "Alvito".
+
+<http://municipio/Barrancos> <http://municipio/pred/idmun> "23".
+<http://municipio/Barrancos> <http://municipio/pred/nome> "Barrancos".
+<http://municipio/Barrancos> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Barrancos> <http://municipio/pred/area> "168.43".
+<http://municipio/Barrancos> <http://municipio/pred/pop> "1697".
+<http://municipio/Barrancos> <http://municipio/pred/denspop> "10".
+
+<http://municipio/Beja> <http://municipio/pred/idmun> "24".
+<http://municipio/Beja> <http://municipio/pred/nome> "Beja".
+<http://municipio/Beja> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Beja> <http://municipio/pred/area> "1147.14".
+<http://municipio/Beja> <http://municipio/pred/pop> "34387".
+<http://municipio/Beja> <http://municipio/pred/denspop> "30".
+<http://municipio/Beja> <http://municipio/pred/interesse> "Gaspacho".
+
+<http://municipio/Castro Verde> <http://municipio/pred/idmun> "25".
+<http://municipio/Castro Verde> <http://municipio/pred/nome> "Castro Verde".
+<http://municipio/Castro Verde> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Castro Verde> <http://municipio/pred/area> "567.31".
+<http://municipio/Castro Verde> <http://municipio/pred/pop> "7782".
+<http://municipio/Castro Verde> <http://municipio/pred/denspop> "14".
+
+<http://municipio/Cuba> <http://municipio/pred/idmun> "26".
+<http://municipio/Cuba> <http://municipio/pred/nome> "Cuba".
+<http://municipio/Cuba> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Cuba> <http://municipio/pred/area> "171.32".
+<http://municipio/Cuba> <http://municipio/pred/pop> "4674".
+<http://municipio/Cuba> <http://municipio/pred/denspop> "27".
+
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/idmun> "27".
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/nome> "Ferreira do Alentejo".
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/area> "648.45".
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/pop> "8132".
+<http://municipio/Ferreira do Alentejo> <http://municipio/pred/denspop> "13".
+
+<http://municipio/Mértola> <http://municipio/pred/idmun> "28".
+<http://municipio/Mértola> <http://municipio/pred/nome> "Mértola".
+<http://municipio/Mértola> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Mértola> <http://municipio/pred/area> "1279.40".
+<http://municipio/Mértola> <http://municipio/pred/pop> "7332".
+<http://municipio/Mértola> <http://municipio/pred/denspop> "6".
+<http://municipio/Mértola> <http://municipio/pred/interesse> "Parque Natural do Vale do Guadiana".
+
+<http://municipio/Moura> <http://municipio/pred/idmun> "29".
+<http://municipio/Moura> <http://municipio/pred/nome> "Moura".
+<http://municipio/Moura> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Moura> <http://municipio/pred/area> "957.73".
+<http://municipio/Moura> <http://municipio/pred/pop> "16120".
+<http://municipio/Moura> <http://municipio/pred/denspop> "17".
+
+<http://municipio/Odemira> <http://municipio/pred/idmun> "30".
+<http://municipio/Odemira> <http://municipio/pred/nome> "Odemira".
+<http://municipio/Odemira> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Odemira> <http://municipio/pred/area> "1719.73".
+<http://municipio/Odemira> <http://municipio/pred/pop> "25365".
+<http://municipio/Odemira> <http://municipio/pred/denspop> "15".
+<http://municipio/Odemira> <http://municipio/pred/interesse> "Praia da Zambujeira do Mar".
+
+<http://municipio/Ourique> <http://municipio/pred/idmun> "31".
+<http://municipio/Ourique> <http://municipio/pred/nome> "Ourique".
+<http://municipio/Ourique> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Ourique> <http://municipio/pred/area> "660.15".
+<http://municipio/Ourique> <http://municipio/pred/pop> "5426".
+<http://municipio/Ourique> <http://municipio/pred/denspop> "8".
+
+<http://municipio/Serpa> <http://municipio/pred/idmun> "32".
+<http://municipio/Serpa> <http://municipio/pred/nome> "Serpa".
+<http://municipio/Serpa> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Serpa> <http://municipio/pred/area> "1103.74".
+<http://municipio/Serpa> <http://municipio/pred/pop> "15455".
+<http://municipio/Serpa> <http://municipio/pred/denspop> "14".
+
+<http://municipio/Vidigueira> <http://municipio/pred/idmun> "33".
+<http://municipio/Vidigueira> <http://municipio/pred/nome> "Vidigueira".
+<http://municipio/Vidigueira> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Vidigueira> <http://municipio/pred/area> "314.20".
+<http://municipio/Vidigueira> <http://municipio/pred/pop> "5886".
+<http://municipio/Vidigueira> <http://municipio/pred/denspop> "19".
+
+<http://municipio/Amares> <http://municipio/pred/idmun> "34".
+<http://municipio/Amares> <http://municipio/pred/nome> "Amares".
+<http://municipio/Amares> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Amares> <http://municipio/pred/area> "81.95".
+<http://municipio/Amares> <http://municipio/pred/pop> "19853".
+<http://municipio/Amares> <http://municipio/pred/denspop> "242".
+
+<http://municipio/Barcelos> <http://municipio/pred/idmun> "35".
+<http://municipio/Barcelos> <http://municipio/pred/nome> "Barcelos".
+<http://municipio/Barcelos> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Barcelos> <http://municipio/pred/area> "378.90".
+<http://municipio/Barcelos> <http://municipio/pred/pop> "124555".
+<http://municipio/Barcelos> <http://municipio/pred/denspop> "329".
+<http://municipio/Barcelos> <http://municipio/pred/interesse> "Galo de Barcelos".
+
+<http://municipio/Braga> <http://municipio/pred/idmun> "36".
+<http://municipio/Braga> <http://municipio/pred/nome> "Braga".
+<http://municipio/Braga> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Braga> <http://municipio/pred/area> "183.40".
+<http://municipio/Braga> <http://municipio/pred/pop> "176154".
+<http://municipio/Braga> <http://municipio/pred/denspop> "960".
+<http://municipio/Braga> <http://municipio/pred/interesse> "Bacalhau à Narcisa".
+
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/idmun> "37".
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/nome> "Cabeceiras de Basto".
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/area> "241.82".
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/pop> "17635".
+<http://municipio/Cabeceiras de Basto> <http://municipio/pred/denspop> "73".
+
+<http://municipio/Celorico de Basto> <http://municipio/pred/idmun> "38".
+<http://municipio/Celorico de Basto> <http://municipio/pred/nome> "Celorico de Basto".
+<http://municipio/Celorico de Basto> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Celorico de Basto> <http://municipio/pred/area> "181.07".
+<http://municipio/Celorico de Basto> <http://municipio/pred/pop> "19767".
+<http://municipio/Celorico de Basto> <http://municipio/pred/denspop> "109".
+
+<http://municipio/Esposende> <http://municipio/pred/idmun> "39".
+<http://municipio/Esposende> <http://municipio/pred/nome> "Esposende".
+<http://municipio/Esposende> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Esposende> <http://municipio/pred/area> "95.41".
+<http://municipio/Esposende> <http://municipio/pred/pop> "35552".
+<http://municipio/Esposende> <http://municipio/pred/denspop> "373".
+
+<http://municipio/Fafe> <http://municipio/pred/idmun> "40".
+<http://municipio/Fafe> <http://municipio/pred/nome> "Fafe".
+<http://municipio/Fafe> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Fafe> <http://municipio/pred/area> "219.08".
+<http://municipio/Fafe> <http://municipio/pred/pop> "53600".
+<http://municipio/Fafe> <http://municipio/pred/denspop> "245".
+
+<http://municipio/Guimarães> <http://municipio/pred/idmun> "41".
+<http://municipio/Guimarães> <http://municipio/pred/nome> "Guimarães".
+<http://municipio/Guimarães> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Guimarães> <http://municipio/pred/area> "240.95".
+<http://municipio/Guimarães> <http://municipio/pred/pop> "162363".
+<http://municipio/Guimarães> <http://municipio/pred/denspop> "675".
+<http://municipio/Guimarães> <http://municipio/pred/interesse> "Paço dos Duques de Bragança".
+
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/idmun> "42".
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/nome> "Póvoa de Lanhoso".
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/area> "134.65".
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/pop> "24230".
+<http://municipio/Póvoa de Lanhoso> <http://municipio/pred/denspop> "184".
+
+<http://municipio/Terras de Bouro> <http://municipio/pred/idmun> "43".
+<http://municipio/Terras de Bouro> <http://municipio/pred/nome> "Terras de Bouro".
+<http://municipio/Terras de Bouro> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Terras de Bouro> <http://municipio/pred/area> "277.46".
+<http://municipio/Terras de Bouro> <http://municipio/pred/pop> "7506".
+<http://municipio/Terras de Bouro> <http://municipio/pred/denspop> "27".
+<http://municipio/Terras de Bouro> <http://municipio/pred/interesse> "Cascata do Arado".
+
+<http://municipio/Vieira do Minho> <http://municipio/pred/idmun> "44".
+<http://municipio/Vieira do Minho> <http://municipio/pred/nome> "Vieira do Minho".
+<http://municipio/Vieira do Minho> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vieira do Minho> <http://municipio/pred/area> "216.44".
+<http://municipio/Vieira do Minho> <http://municipio/pred/pop> "14077".
+<http://municipio/Vieira do Minho> <http://municipio/pred/denspop> "65".
+<http://municipio/Vieira do Minho> <http://municipio/pred/interesse> "Santuário Nossa Senhora da Lapa".
+
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/idmun> "45".
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/nome> "Vila Nova de Famalicão".
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/area> "201.59".
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/pop> "134969".
+<http://municipio/Vila Nova de Famalicão> <http://municipio/pred/denspop> "669".
+
+<http://municipio/Vila Verde> <http://municipio/pred/idmun> "46".
+<http://municipio/Vila Verde> <http://municipio/pred/nome> "Vila Verde".
+<http://municipio/Vila Verde> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Verde> <http://municipio/pred/area> "228.67".
+<http://municipio/Vila Verde> <http://municipio/pred/pop> "49171".
+<http://municipio/Vila Verde> <http://municipio/pred/denspop> "215".
+
+<http://municipio/Vizela> <http://municipio/pred/idmun> "47".
+<http://municipio/Vizela> <http://municipio/pred/nome> "Vizela".
+<http://municipio/Vizela> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vizela> <http://municipio/pred/area> "24.70".
+<http://municipio/Vizela> <http://municipio/pred/pop> "24477".
+<http://municipio/Vizela> <http://municipio/pred/denspop> "1023".
+
+<http://municipio/Alfândega da Fé> <http://municipio/pred/idmun> "48".
+<http://municipio/Alfândega da Fé> <http://municipio/pred/nome> "Alfândega da Fé".
+<http://municipio/Alfândega da Fé> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Alfândega da Fé> <http://municipio/pred/area> "321.96".
+<http://municipio/Alfândega da Fé> <http://municipio/pred/pop> "5368".
+<http://municipio/Alfândega da Fé> <http://municipio/pred/denspop> "17".
+
+<http://municipio/Bragança> <http://municipio/pred/idmun> "49".
+<http://municipio/Bragança> <http://municipio/pred/nome> "Bragança".
+<http://municipio/Bragança> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Bragança> <http://municipio/pred/area> "1173.6".
+<http://municipio/Bragança> <http://municipio/pred/pop> "34375".
+<http://municipio/Bragança> <http://municipio/pred/denspop> "29".
+<http://municipio/Bragança> <http://municipio/pred/interesse> "Castelo de Bragança".
+
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/idmun> "50".
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/nome> "Carrazeda de Ansiães".
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/area> "280.91".
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/pop> "6744".
+<http://municipio/Carrazeda de Ansiães> <http://municipio/pred/denspop> "24".
+
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/idmun> "51".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/nome> "Freixo de Espada à Cinta".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/area> "244.49".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/pop> "3834".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/denspop> "16".
+<http://municipio/Freixo de Espada à Cinta> <http://municipio/pred/interesse> "Gravuras Ruprestres de Mazouco".
+
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/idmun> "52".
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/nome> "Macedo de Cavaleiros".
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/area> "699.27".
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/pop> "16766".
+<http://municipio/Macedo de Cavaleiros> <http://municipio/pred/denspop> "23".
+
+<http://municipio/Miranda do Douro> <http://municipio/pred/idmun> "53".
+<http://municipio/Miranda do Douro> <http://municipio/pred/nome> "Miranda do Douro".
+<http://municipio/Miranda do Douro> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Miranda do Douro> <http://municipio/pred/area> "488.36".
+<http://municipio/Miranda do Douro> <http://municipio/pred/pop> "7295".
+<http://municipio/Miranda do Douro> <http://municipio/pred/denspop> "15".
+<http://municipio/Miranda do Douro> <http://municipio/pred/interesse> "Pauliteiros de Miranda".
+
+<http://municipio/Mirandela> <http://municipio/pred/idmun> "54".
+<http://municipio/Mirandela> <http://municipio/pred/nome> "Mirandela".
+<http://municipio/Mirandela> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Mirandela> <http://municipio/pred/area> "658.97".
+<http://municipio/Mirandela> <http://municipio/pred/pop> "25458".
+<http://municipio/Mirandela> <http://municipio/pred/denspop> "39".
+<http://municipio/Mirandela> <http://municipio/pred/interesse> "Alheira".
+
+<http://municipio/Mogadouro> <http://municipio/pred/idmun> "55".
+<http://municipio/Mogadouro> <http://municipio/pred/nome> "Mogadouro".
+<http://municipio/Mogadouro> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Mogadouro> <http://municipio/pred/area> "757.98".
+<http://municipio/Mogadouro> <http://municipio/pred/pop> "10289".
+<http://municipio/Mogadouro> <http://municipio/pred/denspop> "14".
+<http://municipio/Mogadouro> <http://municipio/pred/interesse> "Castelo de Mogadouro".
+
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/idmun> "56".
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/nome> "Torre de Moncorvo".
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/area> "532.77".
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/pop> "8829".
+<http://municipio/Torre de Moncorvo> <http://municipio/pred/denspop> "17".
+
+<http://municipio/Vila Flor> <http://municipio/pred/idmun> "57".
+<http://municipio/Vila Flor> <http://municipio/pred/nome> "Vila Flor".
+<http://municipio/Vila Flor> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Flor> <http://municipio/pred/area> "265.52".
+<http://municipio/Vila Flor> <http://municipio/pred/pop> "7432".
+<http://municipio/Vila Flor> <http://municipio/pred/denspop> "28".
+
+<http://municipio/Vimioso> <http://municipio/pred/idmun> "58".
+<http://municipio/Vimioso> <http://municipio/pred/nome> "Vimioso".
+<http://municipio/Vimioso> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vimioso> <http://municipio/pred/area> "481.47".
+<http://municipio/Vimioso> <http://municipio/pred/pop> "4857".
+<http://municipio/Vimioso> <http://municipio/pred/denspop> "10".
+
+<http://municipio/Vinhais> <http://municipio/pred/idmun> "59".
+<http://municipio/Vinhais> <http://municipio/pred/nome> "Vinhais".
+<http://municipio/Vinhais> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vinhais> <http://municipio/pred/area> "694.68".
+<http://municipio/Vinhais> <http://municipio/pred/pop> "9388".
+<http://municipio/Vinhais> <http://municipio/pred/denspop> "14".
+<http://municipio/Vinhais> <http://municipio/pred/interesse> "Butelo".
+
+<http://municipio/Belmonte> <http://municipio/pred/idmun> "60".
+<http://municipio/Belmonte> <http://municipio/pred/nome> "Belmonte".
+<http://municipio/Belmonte> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Belmonte> <http://municipio/pred/area> "114.56".
+<http://municipio/Belmonte> <http://municipio/pred/pop> "6859".
+<http://municipio/Belmonte> <http://municipio/pred/denspop> "68".
+<http://municipio/Belmonte> <http://municipio/pred/interesse> "Castelo de Belmonte".
+
+<http://municipio/Castelo Branco> <http://municipio/pred/idmun> "61".
+<http://municipio/Castelo Branco> <http://municipio/pred/nome> "Castelo Branco".
+<http://municipio/Castelo Branco> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Castelo Branco> <http://municipio/pred/area> "1438.16".
+<http://municipio/Castelo Branco> <http://municipio/pred/pop> "56109".
+<http://municipio/Castelo Branco> <http://municipio/pred/denspop> "37".
+<http://municipio/Castelo Branco> <http://municipio/pred/interesse> "Castelo de Castelo Branco".
+
+<http://municipio/Covilhã> <http://municipio/pred/idmun> "62".
+<http://municipio/Covilhã> <http://municipio/pred/nome> "Covilhã".
+<http://municipio/Covilhã> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Covilhã> <http://municipio/pred/area> "555.61".
+<http://municipio/Covilhã> <http://municipio/pred/pop> "51797".
+<http://municipio/Covilhã> <http://municipio/pred/denspop> "93".
+<http://municipio/Covilhã> <http://municipio/pred/interesse> "Aldeia de São Francisco de Assis".
+
+<http://municipio/Fundão> <http://municipio/pred/idmun> "63".
+<http://municipio/Fundão> <http://municipio/pred/nome> "Fundão".
+<http://municipio/Fundão> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Fundão> <http://municipio/pred/area> "700.13".
+<http://municipio/Fundão> <http://municipio/pred/pop> "29213".
+<http://municipio/Fundão> <http://municipio/pred/denspop> "44".
+<http://municipio/Fundão> <http://municipio/pred/interesse> "Cereija do Fundão".
+
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/idmun> "64".
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/nome> "Idanha-a-Nova".
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/area> "1412.73".
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/pop> "9716".
+<http://municipio/Idanha-a-Nova> <http://municipio/pred/denspop> "7".
+
+<http://municipio/Oleiros> <http://municipio/pred/idmun> "65".
+<http://municipio/Oleiros> <http://municipio/pred/nome> "Oleiros".
+<http://municipio/Oleiros> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Oleiros> <http://municipio/pred/area> "465.52".
+<http://municipio/Oleiros> <http://municipio/pred/pop> "5721".
+<http://municipio/Oleiros> <http://municipio/pred/denspop> "12".
+
+<http://municipio/Penamacor> <http://municipio/pred/idmun> "66".
+<http://municipio/Penamacor> <http://municipio/pred/nome> "Penamacor".
+<http://municipio/Penamacor> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Penamacor> <http://municipio/pred/area> "555.52".
+<http://municipio/Penamacor> <http://municipio/pred/pop> "5682".
+<http://municipio/Penamacor> <http://municipio/pred/denspop> "10".
+<http://municipio/Penamacor> <http://municipio/pred/interesse> "Reserva Natural da Serra da Malcata".
+
+<http://municipio/Proença-a-Nova> <http://municipio/pred/idmun> "67".
+<http://municipio/Proença-a-Nova> <http://municipio/pred/nome> "Proença-a-Nova".
+<http://municipio/Proença-a-Nova> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Proença-a-Nova> <http://municipio/pred/area> "395.26".
+<http://municipio/Proença-a-Nova> <http://municipio/pred/pop> "8314".
+<http://municipio/Proença-a-Nova> <http://municipio/pred/denspop> "22".
+
+<http://municipio/Sertã> <http://municipio/pred/idmun> "68".
+<http://municipio/Sertã> <http://municipio/pred/nome> "Sertã".
+<http://municipio/Sertã> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sertã> <http://municipio/pred/area> "446.7".
+<http://municipio/Sertã> <http://municipio/pred/pop> "15880".
+<http://municipio/Sertã> <http://municipio/pred/denspop> "35".
+<http://municipio/Sertã> <http://municipio/pred/interesse> "Castelo da Sertã".
+
+<http://municipio/Vila de Rei> <http://municipio/pred/idmun> "69".
+<http://municipio/Vila de Rei> <http://municipio/pred/nome> "Vila de Rei".
+<http://municipio/Vila de Rei> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vila de Rei> <http://municipio/pred/area> "191.26".
+<http://municipio/Vila de Rei> <http://municipio/pred/pop> "3452".
+<http://municipio/Vila de Rei> <http://municipio/pred/denspop> "16".
+
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/idmun> "70".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/nome> "Vila Velha de Ródão".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/area> "329.93".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/pop> "3521".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/denspop> "10".
+<http://municipio/Vila Velha de Ródão> <http://municipio/pred/interesse> "Postas de Ródão".
+
+<http://municipio/Arganil> <http://municipio/pred/idmun> "101".
+<http://municipio/Arganil> <http://municipio/pred/nome> "Arganil".
+<http://municipio/Arganil> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Arganil> <http://municipio/pred/area> "332.84".
+<http://municipio/Arganil> <http://municipio/pred/pop> "11596".
+<http://municipio/Arganil> <http://municipio/pred/denspop> "34.8".
+
+<http://municipio/Cantanhede> <http://municipio/pred/idmun> "102".
+<http://municipio/Cantanhede> <http://municipio/pred/nome> "Cantanhede".
+<http://municipio/Cantanhede> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Cantanhede> <http://municipio/pred/area> "390.88".
+<http://municipio/Cantanhede> <http://municipio/pred/pop> "36389".
+<http://municipio/Cantanhede> <http://municipio/pred/denspop> "34.8".
+
+<http://municipio/Coimbra> <http://municipio/pred/idmun> "103".
+<http://municipio/Coimbra> <http://municipio/pred/nome> "Coimbra".
+<http://municipio/Coimbra> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Coimbra> <http://municipio/pred/area> "319.4".
+<http://municipio/Coimbra> <http://municipio/pred/pop> "143396".
+<http://municipio/Coimbra> <http://municipio/pred/denspop> "449.0".
+
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/idmun> "104".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/nome> "Condeixa-a-Nova".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/area> "138.68".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/pop> "17078".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/denspop> "123.1".
+
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/idmun> "104".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/nome> "Condeixa-a-Nova".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/area> "138.68".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/pop> "17078".
+<http://municipio/Condeixa-a-Nova> <http://municipio/pred/denspop> "123.1".
+
+<http://municipio/Figueira da Foz> <http://municipio/pred/idmun> "105".
+<http://municipio/Figueira da Foz> <http://municipio/pred/nome> "Figueira da Foz".
+<http://municipio/Figueira da Foz> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Figueira da Foz> <http://municipio/pred/area> "379.05".
+<http://municipio/Figueira da Foz> <http://municipio/pred/pop> "62125".
+<http://municipio/Figueira da Foz> <http://municipio/pred/denspop> "163.9".
+
+<http://municipio/Góis> <http://municipio/pred/idmun> "106".
+<http://municipio/Góis> <http://municipio/pred/nome> "Góis".
+<http://municipio/Góis> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Góis> <http://municipio/pred/area> "263.30".
+<http://municipio/Góis> <http://municipio/pred/pop> "4260".
+<http://municipio/Góis> <http://municipio/pred/denspop> "16.2".
+
+<http://municipio/Lousã> <http://municipio/pred/idmun> "107".
+<http://municipio/Lousã> <http://municipio/pred/nome> "Lousã".
+<http://municipio/Lousã> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Lousã> <http://municipio/pred/area> "138.40".
+<http://municipio/Lousã> <http://municipio/pred/pop> "17604".
+<http://municipio/Lousã> <http://municipio/pred/denspop> "127.2".
+
+<http://municipio/Mira> <http://municipio/pred/idmun> "108".
+<http://municipio/Mira> <http://municipio/pred/nome> "Mira".
+<http://municipio/Mira> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mira> <http://municipio/pred/area> "124.03".
+<http://municipio/Mira> <http://municipio/pred/pop> "12465".
+<http://municipio/Mira> <http://municipio/pred/denspop> "100.5".
+
+<http://municipio/Miranda do Corvo> <http://municipio/pred/idmun> "109".
+<http://municipio/Miranda do Corvo> <http://municipio/pred/nome> "Miranda do Corvo".
+<http://municipio/Miranda do Corvo> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Miranda do Corvo> <http://municipio/pred/area> "126.38".
+<http://municipio/Miranda do Corvo> <http://municipio/pred/pop> "13098".
+<http://municipio/Miranda do Corvo> <http://municipio/pred/denspop> "103.6".
+
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/idmun> "110".
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/nome> "Montemor-o-Velho".
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/area> "228.96".
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/pop> "26171".
+<http://municipio/Montemor-o-Velho> <http://municipio/pred/denspop> "114.3".
+
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/idmun> "111".
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/nome> "Oliveira do Hospital".
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/area> "234.52".
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/pop> "20855".
+<http://municipio/Oliveira do Hospital> <http://municipio/pred/denspop> "88.9".
+
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/idmun> "112".
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/nome> "Pampilhosa da Serra".
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/area> "396.46".
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/pop> "4481".
+<http://municipio/Pampilhosa da Serra> <http://municipio/pred/denspop> "11.3".
+
+<http://municipio/Penacova> <http://municipio/pred/idmun> "113".
+<http://municipio/Penacova> <http://municipio/pred/nome> "Penacova".
+<http://municipio/Penacova> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Penacova> <http://municipio/pred/area> "216.73".
+<http://municipio/Penacova> <http://municipio/pred/pop> "15251".
+<http://municipio/Penacova> <http://municipio/pred/denspop> "70.4".
+
+<http://municipio/Penela> <http://municipio/pred/idmun> "114".
+<http://municipio/Penela> <http://municipio/pred/nome> "Penela".
+<http://municipio/Penela> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Penela> <http://municipio/pred/area> "132.49".
+<http://municipio/Penela> <http://municipio/pred/pop> "5983".
+<http://municipio/Penela> <http://municipio/pred/denspop> "45.2".
+
+<http://municipio/Soure> <http://municipio/pred/idmun> "115".
+<http://municipio/Soure> <http://municipio/pred/nome> "Soure".
+<http://municipio/Soure> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Soure> <http://municipio/pred/area> "263.91".
+<http://municipio/Soure> <http://municipio/pred/pop> "19245".
+<http://municipio/Soure> <http://municipio/pred/denspop> "72.9".
+
+<http://municipio/Tábua> <http://municipio/pred/idmun> "116".
+<http://municipio/Tábua> <http://municipio/pred/nome> "Tábua".
+<http://municipio/Tábua> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Tábua> <http://municipio/pred/area> "199.79".
+<http://municipio/Tábua> <http://municipio/pred/pop> "12071".
+<http://municipio/Tábua> <http://municipio/pred/denspop> "60.4".
+
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/idmun> "117".
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/nome> "Vila Nova de Poiares".
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/area> "84.45".
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/pop> "7281".
+<http://municipio/Vila Nova de Poiares> <http://municipio/pred/denspop> "86.2".
+
+<http://municipio/Alandroal> <http://municipio/pred/idmun> "118".
+<http://municipio/Alandroal> <http://municipio/pred/nome> "Alandroal".
+<http://municipio/Alandroal> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Alandroal> <http://municipio/pred/area> "542.68".
+<http://municipio/Alandroal> <http://municipio/pred/pop> "5843".
+<http://municipio/Alandroal> <http://municipio/pred/denspop> "10.8".
+
+<http://municipio/Arraiolos> <http://municipio/pred/idmun> "119".
+<http://municipio/Arraiolos> <http://municipio/pred/nome> "Arraiolos".
+<http://municipio/Arraiolos> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Arraiolos> <http://municipio/pred/area> "683.75".
+<http://municipio/Arraiolos> <http://municipio/pred/pop> "7363".
+<http://municipio/Arraiolos> <http://municipio/pred/denspop> "10.8".
+
+<http://municipio/Borba> <http://municipio/pred/idmun> "120".
+<http://municipio/Borba> <http://municipio/pred/nome> "Borba".
+<http://municipio/Borba> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Borba> <http://municipio/pred/area> "145.19".
+<http://municipio/Borba> <http://municipio/pred/pop> "7333".
+<http://municipio/Borba> <http://municipio/pred/denspop> "50.5".
+
+<http://municipio/Estremoz> <http://municipio/pred/idmun> "121".
+<http://municipio/Estremoz> <http://municipio/pred/nome> "Estremoz".
+<http://municipio/Estremoz> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Estremoz> <http://municipio/pred/area> "513.80".
+<http://municipio/Estremoz> <http://municipio/pred/pop> "14318".
+<http://municipio/Estremoz> <http://municipio/pred/denspop> "27.9".
+
+<http://municipio/Évora> <http://municipio/pred/idmun> "122".
+<http://municipio/Évora> <http://municipio/pred/nome> "Évora".
+<http://municipio/Évora> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Évora> <http://municipio/pred/area> "1307.08".
+<http://municipio/Évora> <http://municipio/pred/pop> "56596".
+<http://municipio/Évora> <http://municipio/pred/denspop> "43.3".
+
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/idmun> "123".
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/nome> "Montemor-o-Novo".
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/area> "1232.97".
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/pop> "17437".
+<http://municipio/Montemor-o-Novo> <http://municipio/pred/denspop> "14.1".
+
+<http://municipio/Mora> <http://municipio/pred/idmun> "124".
+<http://municipio/Mora> <http://municipio/pred/nome> "Mora".
+<http://municipio/Mora> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Mora> <http://municipio/pred/area> "443.95".
+<http://municipio/Mora> <http://municipio/pred/pop> "4978".
+<http://municipio/Mora> <http://municipio/pred/denspop> "11.2".
+
+<http://municipio/Mourão> <http://municipio/pred/idmun> "125".
+<http://municipio/Mourão> <http://municipio/pred/nome> "Mourão".
+<http://municipio/Mourão> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Mourão> <http://municipio/pred/area> "278.63".
+<http://municipio/Mourão> <http://municipio/pred/pop> "2663".
+<http://municipio/Mourão> <http://municipio/pred/denspop> "9.6".
+
+<http://municipio/Portel> <http://municipio/pred/idmun> "126".
+<http://municipio/Portel> <http://municipio/pred/nome> "Portel".
+<http://municipio/Portel> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Portel> <http://municipio/pred/area> "601.01".
+<http://municipio/Portel> <http://municipio/pred/pop> "6428".
+<http://municipio/Portel> <http://municipio/pred/denspop> "10.7".
+
+<http://municipio/Redondo> <http://municipio/pred/idmun> "127".
+<http://municipio/Redondo> <http://municipio/pred/nome> "Redondo".
+<http://municipio/Redondo> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Redondo> <http://municipio/pred/area> "369.51".
+<http://municipio/Redondo> <http://municipio/pred/pop> "7031".
+<http://municipio/Redondo> <http://municipio/pred/denspop> "19".
+
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/idmun> "128".
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/nome> "Reguengos de Monsaraz".
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/area> "464.00".
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/pop> "10828".
+<http://municipio/Reguengos de Monsaraz> <http://municipio/pred/denspop> "23.3".
+
+<http://municipio/Vendas Novas> <http://municipio/pred/idmun> "129".
+<http://municipio/Vendas Novas> <http://municipio/pred/nome> "Vendas Novas".
+<http://municipio/Vendas Novas> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Vendas Novas> <http://municipio/pred/area> "222.39".
+<http://municipio/Vendas Novas> <http://municipio/pred/pop> "11846".
+<http://municipio/Vendas Novas> <http://municipio/pred/denspop> "53.3".
+
+<http://municipio/Viana do Alentejo> <http://municipio/pred/idmun> "130".
+<http://municipio/Viana do Alentejo> <http://municipio/pred/nome> "Viana do Alentejo".
+<http://municipio/Viana do Alentejo> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Viana do Alentejo> <http://municipio/pred/area> "393.67".
+<http://municipio/Viana do Alentejo> <http://municipio/pred/pop> "5743".
+<http://municipio/Viana do Alentejo> <http://municipio/pred/denspop> "14.6".
+
+<http://municipio/Vila Viçosa> <http://municipio/pred/idmun> "131".
+<http://municipio/Vila Viçosa> <http://municipio/pred/nome> "Vila Viçosa".
+<http://municipio/Vila Viçosa> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Vila Viçosa> <http://municipio/pred/area> "194.86".
+<http://municipio/Vila Viçosa> <http://municipio/pred/pop> "6319".
+<http://municipio/Vila Viçosa> <http://municipio/pred/denspop> "32.4".
+
+<http://municipio/Albufeira> <http://municipio/pred/idmun> "132".
+<http://municipio/Albufeira> <http://municipio/pred/nome> "Albufeira".
+<http://municipio/Albufeira> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Albufeira> <http://municipio/pred/area> "140.66".
+<http://municipio/Albufeira> <http://municipio/pred/pop> "52828".
+<http://municipio/Albufeira> <http://municipio/pred/denspop> "375.6".
+
+<http://municipio/Alcoutim> <http://municipio/pred/idmun> "133".
+<http://municipio/Alcoutim> <http://municipio/pred/nome> "Alcoutim".
+<http://municipio/Alcoutim> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Alcoutim> <http://municipio/pred/area> "575.36".
+<http://municipio/Alcoutim> <http://municipio/pred/pop> "2917".
+<http://municipio/Alcoutim> <http://municipio/pred/denspop> "5.1".
+
+<http://municipio/Aljezur> <http://municipio/pred/idmun> "134".
+<http://municipio/Aljezur> <http://municipio/pred/nome> "Aljezur".
+<http://municipio/Aljezur> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Aljezur> <http://municipio/pred/area> "323.50".
+<http://municipio/Aljezur> <http://municipio/pred/pop> "5884".
+<http://municipio/Aljezur> <http://municipio/pred/denspop> "18.2".
+
+<http://municipio/Castro Marim> <http://municipio/pred/idmun> "135".
+<http://municipio/Castro Marim> <http://municipio/pred/nome> "Castro Marim".
+<http://municipio/Castro Marim> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Castro Marim> <http://municipio/pred/area> "300.84".
+<http://municipio/Castro Marim> <http://municipio/pred/pop> "6747".
+<http://municipio/Castro Marim> <http://municipio/pred/denspop> "22.4".
+
+<http://municipio/Faro> <http://municipio/pred/idmun> "136".
+<http://municipio/Faro> <http://municipio/pred/nome> "Faro".
+<http://municipio/Faro> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Faro> <http://municipio/pred/area> "202.57".
+<http://municipio/Faro> <http://municipio/pred/pop> "64560".
+<http://municipio/Faro> <http://municipio/pred/denspop> "319.8".
+
+<http://municipio/Lagoa> <http://municipio/pred/idmun> "137".
+<http://municipio/Lagoa> <http://municipio/pred/nome> "Lagoa".
+<http://municipio/Lagoa> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Lagoa> <http://municipio/pred/area> "88.25".
+<http://municipio/Lagoa> <http://municipio/pred/pop> "22975".
+<http://municipio/Lagoa> <http://municipio/pred/denspop> "260.3".
+
+<http://municipio/Lagos> <http://municipio/pred/idmun> "138".
+<http://municipio/Lagos> <http://municipio/pred/nome> "Lagos".
+<http://municipio/Lagos> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Lagos> <http://municipio/pred/area> "212.99".
+<http://municipio/Lagos> <http://municipio/pred/pop> "31049".
+<http://municipio/Lagos> <http://municipio/pred/denspop> "145.8".
+
+<http://municipio/Loulé> <http://municipio/pred/idmun> "139".
+<http://municipio/Loulé> <http://municipio/pred/nome> "Loulé".
+<http://municipio/Loulé> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Loulé> <http://municipio/pred/area> "763.67".
+<http://municipio/Loulé> <http://municipio/pred/pop> "70622".
+<http://municipio/Loulé> <http://municipio/pred/denspop> "92.5".
+
+<http://municipio/Monchique> <http://municipio/pred/idmun> "140".
+<http://municipio/Monchique> <http://municipio/pred/nome> "Monchique".
+<http://municipio/Monchique> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Monchique> <http://municipio/pred/area> "395.30".
+<http://municipio/Monchique> <http://municipio/pred/pop> "6045".
+<http://municipio/Monchique> <http://municipio/pred/denspop> "15.3".
+
+<http://municipio/Olhão> <http://municipio/pred/idmun> "141".
+<http://municipio/Olhão> <http://municipio/pred/nome> "Olhão".
+<http://municipio/Olhão> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Olhão> <http://municipio/pred/area> "130.86".
+<http://municipio/Olhão> <http://municipio/pred/pop> "45396".
+<http://municipio/Olhão> <http://municipio/pred/denspop> "346.9".
+
+<http://municipio/Portimão> <http://municipio/pred/idmun> "142".
+<http://municipio/Portimão> <http://municipio/pred/nome> "Portimão".
+<http://municipio/Portimão> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Portimão> <http://municipio/pred/area> "182.06".
+<http://municipio/Portimão> <http://municipio/pred/pop> "55614".
+<http://municipio/Portimão> <http://municipio/pred/denspop> "305.5".
+
+<http://municipio/São Brás de Alportel> <http://municipio/pred/idmun> "143".
+<http://municipio/São Brás de Alportel> <http://municipio/pred/nome> "São Brás de Alportel".
+<http://municipio/São Brás de Alportel> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/São Brás de Alportel> <http://municipio/pred/area> "153.37".
+<http://municipio/São Brás de Alportel> <http://municipio/pred/pop> "10662".
+<http://municipio/São Brás de Alportel> <http://municipio/pred/denspop> "69.52".
+
+<http://municipio/Silves> <http://municipio/pred/idmun> "144".
+<http://municipio/Silves> <http://municipio/pred/nome> "Silves".
+<http://municipio/Silves> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Silves> <http://municipio/pred/area> "680.06".
+<http://municipio/Silves> <http://municipio/pred/pop> "37126".
+<http://municipio/Silves> <http://municipio/pred/denspop> "54.6".
+
+<http://municipio/Tavira> <http://municipio/pred/idmun> "145".
+<http://municipio/Tavira> <http://municipio/pred/nome> "Tavira".
+<http://municipio/Tavira> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Tavira> <http://municipio/pred/area> "606.97".
+<http://municipio/Tavira> <http://municipio/pred/pop> "26167".
+<http://municipio/Tavira> <http://municipio/pred/denspop> "43.1".
+
+<http://municipio/Vila do Bispo> <http://municipio/pred/idmun> "146".
+<http://municipio/Vila do Bispo> <http://municipio/pred/nome> "Vila do Bispo".
+<http://municipio/Vila do Bispo> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Vila do Bispo> <http://municipio/pred/area> "179.06".
+<http://municipio/Vila do Bispo> <http://municipio/pred/pop> "5258".
+<http://municipio/Vila do Bispo> <http://municipio/pred/denspop> "29.4".
+
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/idmun> "147".
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/nome> "Vila Real de Santo António".
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/regiao> "Algarve".
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/area> "61.25".
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/pop> "19156".
+<http://municipio/Vila Real de Santo António> <http://municipio/pred/denspop> "312.8".
+
+<http://municipio/Aguiar da Beira> <http://municipio/pred/idmun> "148".
+<http://municipio/Aguiar da Beira> <http://municipio/pred/nome> "Aguiar da Beira".
+<http://municipio/Aguiar da Beira> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Aguiar da Beira> <http://municipio/pred/area> "206.77".
+<http://municipio/Aguiar da Beira> <http://municipio/pred/pop> "5473".
+<http://municipio/Aguiar da Beira> <http://municipio/pred/denspop> "26.5".
+
+<http://municipio/Almeida> <http://municipio/pred/idmun> "149".
+<http://municipio/Almeida> <http://municipio/pred/nome> "Almeida".
+<http://municipio/Almeida> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Almeida> <http://municipio/pred/area> "517.99".
+<http://municipio/Almeida> <http://municipio/pred/pop> "7242".
+<http://municipio/Almeida> <http://municipio/pred/denspop> "14".
+
+<http://municipio/Celorico da Beira> <http://municipio/pred/idmun> "150".
+<http://municipio/Celorico da Beira> <http://municipio/pred/nome> "Celorico da Beira".
+<http://municipio/Celorico da Beira> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Celorico da Beira> <http://municipio/pred/area> "247.22".
+<http://municipio/Celorico da Beira> <http://municipio/pred/pop> "7693".
+<http://municipio/Celorico da Beira> <http://municipio/pred/denspop> "31.1".
+
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/idmun> "151".
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/nome> "Figueira de Castelo Rodrigo".
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/area> "508.58".
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/pop> "6260".
+<http://municipio/Figueira de Castelo Rodrigo> <http://municipio/pred/denspop> "12.3".
+
+<http://municipio/Fornos de Algodres> <http://municipio/pred/idmun> "152".
+<http://municipio/Fornos de Algodres> <http://municipio/pred/nome> "Fornos de Algodres".
+<http://municipio/Fornos de Algodres> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Fornos de Algodres> <http://municipio/pred/area> "131.45".
+<http://municipio/Fornos de Algodres> <http://municipio/pred/pop> "4989".
+<http://municipio/Fornos de Algodres> <http://municipio/pred/denspop> "38".
+
+<http://municipio/Gouveia> <http://municipio/pred/idmun> "153".
+<http://municipio/Gouveia> <http://municipio/pred/nome> "Gouveia".
+<http://municipio/Gouveia> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Gouveia> <http://municipio/pred/area> "300.61".
+<http://municipio/Gouveia> <http://municipio/pred/pop> "14046".
+<http://municipio/Gouveia> <http://municipio/pred/denspop> "46.7".
+
+<http://municipio/Guarda> <http://municipio/pred/idmun> "154".
+<http://municipio/Guarda> <http://municipio/pred/nome> "Guarda".
+<http://municipio/Guarda> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Guarda> <http://municipio/pred/area> "712.1".
+<http://municipio/Guarda> <http://municipio/pred/pop> "42541".
+<http://municipio/Guarda> <http://municipio/pred/denspop> "59.7".
+
+<http://municipio/Manteigas> <http://municipio/pred/idmun> "155".
+<http://municipio/Manteigas> <http://municipio/pred/nome> "Manteigas".
+<http://municipio/Manteigas> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Manteigas> <http://municipio/pred/area> "121.98".
+<http://municipio/Manteigas> <http://municipio/pred/pop> "3430".
+<http://municipio/Manteigas> <http://municipio/pred/denspop> "28.1".
+
+<http://municipio/Mêda> <http://municipio/pred/idmun> "156".
+<http://municipio/Mêda> <http://municipio/pred/nome> "Mêda".
+<http://municipio/Mêda> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mêda> <http://municipio/pred/area> "286.05".
+<http://municipio/Mêda> <http://municipio/pred/pop> "5202".
+<http://municipio/Mêda> <http://municipio/pred/denspop> "18.2".
+
+<http://municipio/Pinhel> <http://municipio/pred/idmun> "157".
+<http://municipio/Pinhel> <http://municipio/pred/nome> "Pinhel".
+<http://municipio/Pinhel> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Pinhel> <http://municipio/pred/area> "484.52".
+<http://municipio/Pinhel> <http://municipio/pred/pop> "9627".
+<http://municipio/Pinhel> <http://municipio/pred/denspop> "19.9".
+
+<http://municipio/Sabugal> <http://municipio/pred/idmun> "158".
+<http://municipio/Sabugal> <http://municipio/pred/nome> "Sabugal".
+<http://municipio/Sabugal> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sabugal> <http://municipio/pred/area> "822.70".
+<http://municipio/Sabugal> <http://municipio/pred/pop> "12544".
+<http://municipio/Sabugal> <http://municipio/pred/denspop> "15.2".
+
+<http://municipio/Seia> <http://municipio/pred/idmun> "159".
+<http://municipio/Seia> <http://municipio/pred/nome> "Seia".
+<http://municipio/Seia> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Seia> <http://municipio/pred/area> "435.69".
+<http://municipio/Seia> <http://municipio/pred/pop> "24702".
+<http://municipio/Seia> <http://municipio/pred/denspop> "56.7".
+
+<http://municipio/Trancoso> <http://municipio/pred/idmun> "160".
+<http://municipio/Trancoso> <http://municipio/pred/nome> "Trancoso".
+<http://municipio/Trancoso> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Trancoso> <http://municipio/pred/area> "361.52".
+<http://municipio/Trancoso> <http://municipio/pred/pop> "9878".
+<http://municipio/Trancoso> <http://municipio/pred/denspop> "27.3".
+
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/idmun> "161".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/nome> "Vila Nova de Foz Côa".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/area> "398.15".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/pop> "7312".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/denspop> "18.4".
+
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/idmun> "161".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/nome> "Vila Nova de Foz Côa".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/area> "398.15".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/pop> "7312".
+<http://municipio/Vila Nova de Foz Côa> <http://municipio/pred/denspop> "18.4".
+
+<http://municipio/Alcobaça> <http://municipio/pred/idmun> "162".
+<http://municipio/Alcobaça> <http://municipio/pred/nome> "Alcobaça".
+<http://municipio/Alcobaça> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Alcobaça> <http://municipio/pred/area> "408.14".
+<http://municipio/Alcobaça> <http://municipio/pred/pop> "56693".
+<http://municipio/Alcobaça> <http://municipio/pred/denspop> "138.9".
+
+<http://municipio/Alvaiázere> <http://municipio/pred/idmun> "163".
+<http://municipio/Alvaiázere> <http://municipio/pred/nome> "Alvaiázere".
+<http://municipio/Alvaiázere> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Alvaiázere> <http://municipio/pred/area> "160.48".
+<http://municipio/Alvaiázere> <http://municipio/pred/pop> "7287".
+<http://municipio/Alvaiázere> <http://municipio/pred/denspop> "45.4".
+
+<http://municipio/Ansião> <http://municipio/pred/idmun> "164".
+<http://municipio/Ansião> <http://municipio/pred/nome> "Ansião".
+<http://municipio/Ansião> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Ansião> <http://municipio/pred/area> "176.09".
+<http://municipio/Ansião> <http://municipio/pred/pop> "13128".
+<http://municipio/Ansião> <http://municipio/pred/denspop> "74.6".
+
+<http://municipio/Batalha> <http://municipio/pred/idmun> "165".
+<http://municipio/Batalha> <http://municipio/pred/nome> "Batalha".
+<http://municipio/Batalha> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Batalha> <http://municipio/pred/area> "103.42".
+<http://municipio/Batalha> <http://municipio/pred/pop> "15805".
+<http://municipio/Batalha> <http://municipio/pred/denspop> "152.8".
+
+<http://municipio/Bombarral> <http://municipio/pred/idmun> "166".
+<http://municipio/Bombarral> <http://municipio/pred/nome> "Bombarral".
+<http://municipio/Bombarral> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Bombarral> <http://municipio/pred/area> "91.29".
+<http://municipio/Bombarral> <http://municipio/pred/pop> "13193".
+<http://municipio/Bombarral> <http://municipio/pred/denspop> "144.5".
+
+<http://municipio/Bombarral> <http://municipio/pred/idmun> "167".
+<http://municipio/Bombarral> <http://municipio/pred/nome> "Bombarral".
+<http://municipio/Bombarral> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Bombarral> <http://municipio/pred/area> "91.29".
+<http://municipio/Bombarral> <http://municipio/pred/pop> "13193".
+<http://municipio/Bombarral> <http://municipio/pred/denspop> "144.5".
+
+<http://municipio/Caldas da Rainha> <http://municipio/pred/idmun> "168".
+<http://municipio/Caldas da Rainha> <http://municipio/pred/nome> "Caldas da Rainha".
+<http://municipio/Caldas da Rainha> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Caldas da Rainha> <http://municipio/pred/area> "255.69".
+<http://municipio/Caldas da Rainha> <http://municipio/pred/pop> "51729".
+<http://municipio/Caldas da Rainha> <http://municipio/pred/denspop> "202.3".
+
+<http://municipio/Castanheira de Pera> <http://municipio/pred/idmun> "169".
+<http://municipio/Castanheira de Pera> <http://municipio/pred/nome> "Castanheira de Pera".
+<http://municipio/Castanheira de Pera> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Castanheira de Pera> <http://municipio/pred/area> "66.78".
+<http://municipio/Castanheira de Pera> <http://municipio/pred/pop> "3191".
+<http://municipio/Castanheira de Pera> <http://municipio/pred/denspop> "47.8".
+
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/idmun> "170".
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/nome> "Figueiró dos Vinhos".
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/area> "173.44".
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/pop> "6169".
+<http://municipio/Figueiró dos Vinhos> <http://municipio/pred/denspop> "35.6".
+
+<http://municipio/Leiria> <http://municipio/pred/idmun> "171".
+<http://municipio/Leiria> <http://municipio/pred/nome> "Leiria".
+<http://municipio/Leiria> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Leiria> <http://municipio/pred/area> "565.09".
+<http://municipio/Leiria> <http://municipio/pred/pop> "126897".
+<http://municipio/Leiria> <http://municipio/pred/denspop> "224.6".
+
+<http://municipio/Marinha Grande> <http://municipio/pred/idmun> "172".
+<http://municipio/Marinha Grande> <http://municipio/pred/nome> "Marinha Grande".
+<http://municipio/Marinha Grande> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Marinha Grande> <http://municipio/pred/area> "187.25".
+<http://municipio/Marinha Grande> <http://municipio/pred/pop> "38681".
+<http://municipio/Marinha Grande> <http://municipio/pred/denspop> "206.6".
+
+<http://municipio/Nazaré> <http://municipio/pred/idmun> "173".
+<http://municipio/Nazaré> <http://municipio/pred/nome> "Nazaré".
+<http://municipio/Nazaré> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Nazaré> <http://municipio/pred/area> "82.43".
+<http://municipio/Nazaré> <http://municipio/pred/pop> "15158".
+<http://municipio/Nazaré> <http://municipio/pred/denspop> "183.9".
+
+<http://municipio/Óbidos> <http://municipio/pred/idmun> "174".
+<http://municipio/Óbidos> <http://municipio/pred/nome> "Óbidos".
+<http://municipio/Óbidos> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Óbidos> <http://municipio/pred/area> "141.55".
+<http://municipio/Óbidos> <http://municipio/pred/pop> "11772".
+<http://municipio/Óbidos> <http://municipio/pred/denspop> "83.2".
+
+<http://municipio/Pedrógão Grande> <http://municipio/pred/idmun> "175".
+<http://municipio/Pedrógão Grande> <http://municipio/pred/nome> "Pedrógão Grande".
+<http://municipio/Pedrógão Grande> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Pedrógão Grande> <http://municipio/pred/area> "128.75".
+<http://municipio/Pedrógão Grande> <http://municipio/pred/pop> "3915".
+<http://municipio/Pedrógão Grande> <http://municipio/pred/denspop> "30.4".
+
+<http://municipio/Peniche> <http://municipio/pred/idmun> "175".
+<http://municipio/Peniche> <http://municipio/pred/nome> "Peniche".
+<http://municipio/Peniche> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Peniche> <http://municipio/pred/area> "77.55".
+<http://municipio/Peniche> <http://municipio/pred/pop> "27753".
+<http://municipio/Peniche> <http://municipio/pred/denspop> "357.9".
+
+<http://municipio/Pombal> <http://municipio/pred/idmun> "176".
+<http://municipio/Pombal> <http://municipio/pred/nome> "Pombal".
+<http://municipio/Pombal> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Pombal> <http://municipio/pred/area> "626.00".
+<http://municipio/Pombal> <http://municipio/pred/pop> "55217".
+<http://municipio/Pombal> <http://municipio/pred/denspop> "88.2".
+
+<http://municipio/Porto de Mós> <http://municipio/pred/idmun> "177".
+<http://municipio/Porto de Mós> <http://municipio/pred/nome> "Porto de Mós".
+<http://municipio/Porto de Mós> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Porto de Mós> <http://municipio/pred/area> "261.83".
+<http://municipio/Porto de Mós> <http://municipio/pred/pop> "24342".
+<http://municipio/Porto de Mós> <http://municipio/pred/denspop> "93".
+
+<http://municipio/Alenquer> <http://municipio/pred/idmun> "201".
+<http://municipio/Alenquer> <http://municipio/pred/nome> "Alenquer".
+<http://municipio/Alenquer> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Alenquer> <http://municipio/pred/area> "304.22".
+<http://municipio/Alenquer> <http://municipio/pred/pop> "43267".
+<http://municipio/Alenquer> <http://municipio/pred/denspop> "142.2".
+
+<http://municipio/Amadora> <http://municipio/pred/idmun> "202".
+<http://municipio/Amadora> <http://municipio/pred/nome> "Amadora".
+<http://municipio/Amadora> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Amadora> <http://municipio/pred/area> "23.79".
+<http://municipio/Amadora> <http://municipio/pred/pop> "175136".
+<http://municipio/Amadora> <http://municipio/pred/denspop> "7361.7".
+
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/idmun> "203".
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/nome> "Arruada dos Vinhos".
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/area> "77.96".
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/pop> "13391".
+<http://municipio/Arruada dos Vinhos> <http://municipio/pred/denspop> "171.8".
+
+<http://municipio/Azambuja> <http://municipio/pred/idmun> "204".
+<http://municipio/Azambuja> <http://municipio/pred/nome> "Azambuja".
+<http://municipio/Azambuja> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Azambuja> <http://municipio/pred/area> "262.66".
+<http://municipio/Azambuja> <http://municipio/pred/pop> "21814".
+<http://municipio/Azambuja> <http://municipio/pred/denspop> "83.1".
+
+<http://municipio/Cadaval> <http://municipio/pred/idmun> "205".
+<http://municipio/Cadaval> <http://municipio/pred/nome> "Cadaval".
+<http://municipio/Cadaval> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Cadaval> <http://municipio/pred/area> "174.89".
+<http://municipio/Cadaval> <http://municipio/pred/pop> "14228".
+<http://municipio/Cadaval> <http://municipio/pred/denspop> "81.4".
+
+<http://municipio/Cascais> <http://municipio/pred/idmun> "206".
+<http://municipio/Cascais> <http://municipio/pred/nome> "Cascais".
+<http://municipio/Cascais> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Cascais> <http://municipio/pred/area> "97.40".
+<http://municipio/Cascais> <http://municipio/pred/pop> "210889".
+<http://municipio/Cascais> <http://municipio/pred/denspop> "2165.18".
+
+<http://municipio/Lisboa> <http://municipio/pred/idmun> "207".
+<http://municipio/Lisboa> <http://municipio/pred/nome> "Lisboa".
+<http://municipio/Lisboa> <http://municipio/pred/regiao> "Lisboa".
+<http://municipio/Lisboa> <http://municipio/pred/area> "100.05".
+<http://municipio/Lisboa> <http://municipio/pred/pop> "506892".
+<http://municipio/Lisboa> <http://municipio/pred/denspop> "5066.4".
+
+<http://municipio/Loures> <http://municipio/pred/idmun> "208".
+<http://municipio/Loures> <http://municipio/pred/nome> "Loures".
+<http://municipio/Loures> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Loures> <http://municipio/pred/area> "167.24".
+<http://municipio/Loures> <http://municipio/pred/pop> "205054".
+<http://municipio/Loures> <http://municipio/pred/denspop> "1226.10".
+
+<http://municipio/Lourinhã> <http://municipio/pred/idmun> "209".
+<http://municipio/Lourinhã> <http://municipio/pred/nome> "Lourinhã".
+<http://municipio/Lourinhã> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Lourinhã> <http://municipio/pred/area> "147.17".
+<http://municipio/Lourinhã> <http://municipio/pred/pop> "25735".
+<http://municipio/Lourinhã> <http://municipio/pred/denspop> "174.9".
+
+<http://municipio/Mafra> <http://municipio/pred/idmun> "210".
+<http://municipio/Mafra> <http://municipio/pred/nome> "Mafra".
+<http://municipio/Mafra> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Mafra> <http://municipio/pred/area> "291.66".
+<http://municipio/Mafra> <http://municipio/pred/pop> "76685".
+<http://municipio/Mafra> <http://municipio/pred/denspop> "262.9".
+
+<http://municipio/Odivelas> <http://municipio/pred/idmun> "211".
+<http://municipio/Odivelas> <http://municipio/pred/nome> "Odivelas".
+<http://municipio/Odivelas> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Odivelas> <http://municipio/pred/area> "26.54".
+<http://municipio/Odivelas> <http://municipio/pred/pop> "144549".
+<http://municipio/Odivelas> <http://municipio/pred/denspop> "446.5".
+
+<http://municipio/Oeiras> <http://municipio/pred/idmun> "212".
+<http://municipio/Oeiras> <http://municipio/pred/nome> "Oeiras".
+<http://municipio/Oeiras> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Oeiras> <http://municipio/pred/area> "45.88".
+<http://municipio/Oeiras> <http://municipio/pred/pop> "173149".
+<http://municipio/Oeiras> <http://municipio/pred/denspop> "3773.95".
+
+<http://municipio/Sintra> <http://municipio/pred/idmun> "213".
+<http://municipio/Sintra> <http://municipio/pred/nome> "Sintra".
+<http://municipio/Sintra> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Sintra> <http://municipio/pred/area> "319.23".
+<http://municipio/Sintra> <http://municipio/pred/pop> "381728".
+<http://municipio/Sintra> <http://municipio/pred/denspop> "1195.77".
+
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/idmun> "214".
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/nome> "Sobral de Monte Agraço".
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/area> "52.10".
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/pop> "10156".
+<http://municipio/Sobral de Monte Agraço> <http://municipio/pred/denspop> "194.9".
+
+<http://municipio/Torres Vedras> <http://municipio/pred/idmun> "215".
+<http://municipio/Torres Vedras> <http://municipio/pred/nome> "Torres Vedras".
+<http://municipio/Torres Vedras> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Torres Vedras> <http://municipio/pred/area> "407.15".
+<http://municipio/Torres Vedras> <http://municipio/pred/pop> "79465".
+<http://municipio/Torres Vedras> <http://municipio/pred/denspop> "195.2".
+
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/idmun> "216".
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/nome> "Vila Franca de Xira".
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/area> "318.19".
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/pop> "136886".
+<http://municipio/Vila Franca de Xira> <http://municipio/pred/denspop> "430.2".
+
+<http://municipio/Alter do Chão> <http://municipio/pred/idmun> "217".
+<http://municipio/Alter do Chão> <http://municipio/pred/nome> "Alter do Chão".
+<http://municipio/Alter do Chão> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Alter do Chão> <http://municipio/pred/area> "362.07".
+<http://municipio/Alter do Chão> <http://municipio/pred/pop> "3562".
+<http://municipio/Alter do Chão> <http://municipio/pred/denspop> "9.8".
+
+<http://municipio/Arronches> <http://municipio/pred/idmun> "218".
+<http://municipio/Arronches> <http://municipio/pred/nome> "Arronches".
+<http://municipio/Arronches> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Arronches> <http://municipio/pred/area> "314.65".
+<http://municipio/Arronches> <http://municipio/pred/pop> "3165".
+<http://municipio/Arronches> <http://municipio/pred/denspop> "10.1".
+
+<http://municipio/Avis> <http://municipio/pred/idmun> "219".
+<http://municipio/Avis> <http://municipio/pred/nome> "Avis".
+<http://municipio/Avis> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Avis> <http://municipio/pred/area> "605.97".
+<http://municipio/Avis> <http://municipio/pred/pop> "4571".
+<http://municipio/Avis> <http://municipio/pred/denspop> "7.5".
+
+<http://municipio/Campo Maior> <http://municipio/pred/idmun> "220".
+<http://municipio/Campo Maior> <http://municipio/pred/nome> "Campo Maior".
+<http://municipio/Campo Maior> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Campo Maior> <http://municipio/pred/area> "247.20".
+<http://municipio/Campo Maior> <http://municipio/pred/pop> "8456".
+<http://municipio/Campo Maior> <http://municipio/pred/denspop> "34.2".
+
+<http://municipio/Castelo de Vide> <http://municipio/pred/idmun> "221".
+<http://municipio/Castelo de Vide> <http://municipio/pred/nome> "Castelo de Vide".
+<http://municipio/Castelo de Vide> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Castelo de Vide> <http://municipio/pred/area> "264.91".
+<http://municipio/Castelo de Vide> <http://municipio/pred/pop> "3407".
+<http://municipio/Castelo de Vide> <http://municipio/pred/denspop> "12.9".
+
+<http://municipio/Crato> <http://municipio/pred/idmun> "222".
+<http://municipio/Crato> <http://municipio/pred/nome> "Crato".
+<http://municipio/Crato> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Crato> <http://municipio/pred/area> "398.07".
+<http://municipio/Crato> <http://municipio/pred/pop> "3708".
+<http://municipio/Crato> <http://municipio/pred/denspop> "9.3".
+
+<http://municipio/Elvas> <http://municipio/pred/idmun> "223".
+<http://municipio/Elvas> <http://municipio/pred/nome> "Elvas".
+<http://municipio/Elvas> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Elvas> <http://municipio/pred/area> "631.29".
+<http://municipio/Elvas> <http://municipio/pred/pop> "23078".
+<http://municipio/Elvas> <http://municipio/pred/denspop> "36.6".
+
+<http://municipio/Fronteira> <http://municipio/pred/idmun> "224".
+<http://municipio/Fronteira> <http://municipio/pred/nome> "Fronteira".
+<http://municipio/Fronteira> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Fronteira> <http://municipio/pred/area> "248.60".
+<http://municipio/Fronteira> <http://municipio/pred/pop> "3410".
+<http://municipio/Fronteira> <http://municipio/pred/denspop> "13.7".
+
+<http://municipio/Gavião> <http://municipio/pred/idmun> "225".
+<http://municipio/Gavião> <http://municipio/pred/nome> "Gavião".
+<http://municipio/Gavião> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Gavião> <http://municipio/pred/area> "294.59".
+<http://municipio/Gavião> <http://municipio/pred/pop> "4132".
+<http://municipio/Gavião> <http://municipio/pred/denspop> "14".
+
+<http://municipio/Marvão> <http://municipio/pred/idmun> "226".
+<http://municipio/Marvão> <http://municipio/pred/nome> "Marvão".
+<http://municipio/Marvão> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Marvão> <http://municipio/pred/area> "154.90".
+<http://municipio/Marvão> <http://municipio/pred/pop> "35125".
+<http://municipio/Marvão> <http://municipio/pred/denspop> "22.7".
+
+<http://municipio/Monforte> <http://municipio/pred/idmun> "227".
+<http://municipio/Monforte> <http://municipio/pred/nome> "Monforte".
+<http://municipio/Monforte> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Monforte> <http://municipio/pred/area> "420.25".
+<http://municipio/Monforte> <http://municipio/pred/pop> "3329".
+<http://municipio/Monforte> <http://municipio/pred/denspop> "7.9".
+
+<http://municipio/Nisa> <http://municipio/pred/idmun> "228".
+<http://municipio/Nisa> <http://municipio/pred/nome> "Nisa".
+<http://municipio/Nisa> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Nisa> <http://municipio/pred/area> "575.68".
+<http://municipio/Nisa> <http://municipio/pred/pop> "7450".
+<http://municipio/Nisa> <http://municipio/pred/denspop> "12.9".
+
+<http://municipio/Ponte de Sor> <http://municipio/pred/idmun> "229".
+<http://municipio/Ponte de Sor> <http://municipio/pred/nome> "Ponte de Sor".
+<http://municipio/Ponte de Sor> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Ponte de Sor> <http://municipio/pred/area> "839.71".
+<http://municipio/Ponte de Sor> <http://municipio/pred/pop> "16722".
+<http://municipio/Ponte de Sor> <http://municipio/pred/denspop> "19.9".
+
+<http://municipio/Portalegre> <http://municipio/pred/idmun> "230".
+<http://municipio/Portalegre> <http://municipio/pred/nome> "Portalegre".
+<http://municipio/Portalegre> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Portalegre> <http://municipio/pred/area> "447.14".
+<http://municipio/Portalegre> <http://municipio/pred/pop> "24930".
+<http://municipio/Portalegre> <http://municipio/pred/denspop> "55.8".
+
+<http://municipio/Sousel> <http://municipio/pred/idmun> "231".
+<http://municipio/Sousel> <http://municipio/pred/nome> "Sousel".
+<http://municipio/Sousel> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Sousel> <http://municipio/pred/area> "279.32".
+<http://municipio/Sousel> <http://municipio/pred/pop> "5762".
+<http://municipio/Sousel> <http://municipio/pred/denspop> "20.6".
+
+<http://municipio/Amarante> <http://municipio/pred/idmun> "232".
+<http://municipio/Amarante> <http://municipio/pred/nome> "Amarante".
+<http://municipio/Amarante> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Amarante> <http://municipio/pred/area> "301.33".
+<http://municipio/Amarante> <http://municipio/pred/pop> "56264".
+<http://municipio/Amarante> <http://municipio/pred/denspop> "186.7".
+
+<http://municipio/Baião> <http://municipio/pred/idmun> "233".
+<http://municipio/Baião> <http://municipio/pred/nome> "Baião".
+<http://municipio/Baião> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Baião> <http://municipio/pred/area> "174.53".
+<http://municipio/Baião> <http://municipio/pred/pop> "20522".
+<http://municipio/Baião> <http://municipio/pred/denspop> "117.6".
+
+<http://municipio/Felgueiras> <http://municipio/pred/idmun> "234".
+<http://municipio/Felgueiras> <http://municipio/pred/nome> "Felgueiras".
+<http://municipio/Felgueiras> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Felgueiras> <http://municipio/pred/area> "115.74".
+<http://municipio/Felgueiras> <http://municipio/pred/pop> "58065".
+<http://municipio/Felgueiras> <http://municipio/pred/denspop> "501.7".
+
+<http://municipio/Gondomar> <http://municipio/pred/idmun> "235".
+<http://municipio/Gondomar> <http://municipio/pred/nome> "Gondomar".
+<http://municipio/Gondomar> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Gondomar> <http://municipio/pred/area> "131.86".
+<http://municipio/Gondomar> <http://municipio/pred/pop> "173159".
+<http://municipio/Gondomar> <http://municipio/pred/denspop> "1313.2".
+
+<http://municipio/Lousada> <http://municipio/pred/idmun> "236".
+<http://municipio/Lousada> <http://municipio/pred/nome> "Lousada".
+<http://municipio/Lousada> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Lousada> <http://municipio/pred/area> "96.08".
+<http://municipio/Lousada> <http://municipio/pred/pop> "47387".
+<http://municipio/Lousada> <http://municipio/pred/denspop> "493.2".
+
+<http://municipio/Maia> <http://municipio/pred/idmun> "237".
+<http://municipio/Maia> <http://municipio/pred/nome> "Maia".
+<http://municipio/Maia> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Maia> <http://municipio/pred/area> "82.99".
+<http://municipio/Maia> <http://municipio/pred/pop> "135678".
+<http://municipio/Maia> <http://municipio/pred/denspop> "1634.9".
+
+<http://municipio/Marco de Canaveses> <http://municipio/pred/idmun> "238".
+<http://municipio/Marco de Canaveses> <http://municipio/pred/nome> "Marco de Canaveses".
+<http://municipio/Marco de Canaveses> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Marco de Canaveses> <http://municipio/pred/area> "201.89".
+<http://municipio/Marco de Canaveses> <http://municipio/pred/pop> "53450".
+<http://municipio/Marco de Canaveses> <http://municipio/pred/denspop> "264.7".
+
+<http://municipio/Matosinhos> <http://municipio/pred/idmun> "239".
+<http://municipio/Matosinhos> <http://municipio/pred/nome> "Matosinhos".
+<http://municipio/Matosinhos> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Matosinhos> <http://municipio/pred/area> "62.42".
+<http://municipio/Matosinhos> <http://municipio/pred/pop> "175478".
+<http://municipio/Matosinhos> <http://municipio/pred/denspop> "2811.2".
+
+<http://municipio/Paços de Ferreira> <http://municipio/pred/idmun> "240".
+<http://municipio/Paços de Ferreira> <http://municipio/pred/nome> "Paços de Ferreira".
+<http://municipio/Paços de Ferreira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Paços de Ferreira> <http://municipio/pred/area> "70.99".
+<http://municipio/Paços de Ferreira> <http://municipio/pred/pop> "56340".
+<http://municipio/Paços de Ferreira> <http://municipio/pred/denspop> "93.6".
+
+<http://municipio/Paredes> <http://municipio/pred/idmun> "241".
+<http://municipio/Paredes> <http://municipio/pred/nome> "Paredes".
+<http://municipio/Paredes> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Paredes> <http://municipio/pred/area> "156.76".
+<http://municipio/Paredes> <http://municipio/pred/pop> "86854".
+<http://municipio/Paredes> <http://municipio/pred/denspop> "554.1".
+
+<http://municipio/Penafiel> <http://municipio/pred/idmun> "242".
+<http://municipio/Penafiel> <http://municipio/pred/nome> "Penafiel".
+<http://municipio/Penafiel> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Penafiel> <http://municipio/pred/area> "212.24".
+<http://municipio/Penafiel> <http://municipio/pred/pop> "72265".
+<http://municipio/Penafiel> <http://municipio/pred/denspop> "340.5".
+
+<http://municipio/Porto> <http://municipio/pred/idmun> "243".
+<http://municipio/Porto> <http://municipio/pred/nome> "Porto".
+<http://municipio/Porto> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Porto> <http://municipio/pred/area> "41.42".
+<http://municipio/Porto> <http://municipio/pred/pop> "237591".
+<http://municipio/Porto> <http://municipio/pred/denspop> "5736.1".
+
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/idmun> "244".
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/nome> "Póvoa do Varzim".
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/area> "82.21".
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/pop> "63408".
+<http://municipio/Póvoa do Varzim> <http://municipio/pred/denspop> "771.3".
+
+<http://municipio/Santo Tirso> <http://municipio/pred/idmun> "245".
+<http://municipio/Santo Tirso> <http://municipio/pred/nome> "Santo Tirso".
+<http://municipio/Santo Tirso> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Santo Tirso> <http://municipio/pred/area> "136.6".
+<http://municipio/Santo Tirso> <http://municipio/pred/pop> "71530".
+<http://municipio/Santo Tirso> <http://municipio/pred/denspop> "523.6".
+
+<http://municipio/Trofa> <http://municipio/pred/idmun> "246".
+<http://municipio/Trofa> <http://municipio/pred/nome> "Trofa".
+<http://municipio/Trofa> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Trofa> <http://municipio/pred/area> "72.02".
+<http://municipio/Trofa> <http://municipio/pred/pop> "49897".
+<http://municipio/Trofa> <http://municipio/pred/denspop> "692.8".
+
+<http://municipio/Valongo> <http://municipio/pred/idmun> "247".
+<http://municipio/Valongo> <http://municipio/pred/nome> "Valongo".
+<http://municipio/Valongo> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Valongo> <http://municipio/pred/area> "75.12".
+<http://municipio/Valongo> <http://municipio/pred/pop> "93858".
+<http://municipio/Valongo> <http://municipio/pred/denspop> "1249.4".
+
+<http://municipio/Vila do Conde> <http://municipio/pred/idmun> "248".
+<http://municipio/Vila do Conde> <http://municipio/pred/nome> "Vila do Conde".
+<http://municipio/Vila do Conde> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila do Conde> <http://municipio/pred/area> "149.03".
+<http://municipio/Vila do Conde> <http://municipio/pred/pop> "79533".
+<http://municipio/Vila do Conde> <http://municipio/pred/denspop> "533.7".
+
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/idmun> "249".
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/nome> "Vila Nova de Gaia".
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/area> "168.46".
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/pop> "301496".
+<http://municipio/Vila Nova de Gaia> <http://municipio/pred/denspop> "1789.7".
+
+<http://municipio/Abrantes> <http://municipio/pred/idmun> "250".
+<http://municipio/Abrantes> <http://municipio/pred/nome> "Abrantes".
+<http://municipio/Abrantes> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Abrantes> <http://municipio/pred/area> "714.69".
+<http://municipio/Abrantes> <http://municipio/pred/pop> "39325".
+<http://municipio/Abrantes> <http://municipio/pred/denspop> "55".
+
+<http://municipio/Alcanena> <http://municipio/pred/idmun> "251".
+<http://municipio/Alcanena> <http://municipio/pred/nome> "Alcanena".
+<http://municipio/Alcanena> <http://municipio/pred/regiao> "Centre".
+<http://municipio/Alcanena> <http://municipio/pred/area> "137.33".
+<http://municipio/Alcanena> <http://municipio/pred/pop> "20604".
+<http://municipio/Alcanena> <http://municipio/pred/denspop> "150".
+
+<http://municipio/Almeirim> <http://municipio/pred/idmun> "252".
+<http://municipio/Almeirim> <http://municipio/pred/nome> "Almeirim".
+<http://municipio/Almeirim> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Almeirim> <http://municipio/pred/area> "222.12".
+<http://municipio/Almeirim> <http://municipio/pred/pop> "23376".
+<http://municipio/Almeirim> <http://municipio/pred/denspop> "105.2".
+
+<http://municipio/Alpiarça> <http://municipio/pred/idmun> "253".
+<http://municipio/Alpiarça> <http://municipio/pred/nome> "Alpiarça".
+<http://municipio/Alpiarça> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Alpiarça> <http://municipio/pred/area> "95.36".
+<http://municipio/Alpiarça> <http://municipio/pred/pop> "7702".
+<http://municipio/Alpiarça> <http://municipio/pred/denspop> "80.77".
+
+<http://municipio/Benavente> <http://municipio/pred/idmun> "254".
+<http://municipio/Benavente> <http://municipio/pred/nome> "Benavente".
+<http://municipio/Benavente> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Benavente> <http://municipio/pred/area> "521.38".
+<http://municipio/Benavente> <http://municipio/pred/pop> "49019".
+<http://municipio/Benavente> <http://municipio/pred/denspop> "94".
+
+<http://municipio/Cartaxo> <http://municipio/pred/idmun> "255".
+<http://municipio/Cartaxo> <http://municipio/pred/nome> "Cartaxo".
+<http://municipio/Cartaxo> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Cartaxo> <http://municipio/pred/area> "158.17".
+<http://municipio/Cartaxo> <http://municipio/pred/pop> "24462".
+<http://municipio/Cartaxo> <http://municipio/pred/denspop> "154.7".
+
+<http://municipio/Chamusca> <http://municipio/pred/idmun> "256".
+<http://municipio/Chamusca> <http://municipio/pred/nome> "Chamusca".
+<http://municipio/Chamusca> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Chamusca> <http://municipio/pred/area> "746.01".
+<http://municipio/Chamusca> <http://municipio/pred/pop> "10120".
+<http://municipio/Chamusca> <http://municipio/pred/denspop> "13.6".
+
+<http://municipio/Constância> <http://municipio/pred/idmun> "257".
+<http://municipio/Constância> <http://municipio/pred/nome> "Constância".
+<http://municipio/Constância> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Constância> <http://municipio/pred/area> "80.37".
+<http://municipio/Constância> <http://municipio/pred/pop> "4056".
+<http://municipio/Constância> <http://municipio/pred/denspop> "50.5".
+
+<http://municipio/Coruche> <http://municipio/pred/idmun> "258".
+<http://municipio/Coruche> <http://municipio/pred/nome> "Coruche".
+<http://municipio/Coruche> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Coruche> <http://municipio/pred/area> "1115.72".
+<http://municipio/Coruche> <http://municipio/pred/pop> "19944".
+<http://municipio/Coruche> <http://municipio/pred/denspop> "17.9".
+
+<http://municipio/Entroncamento> <http://municipio/pred/idmun> "259".
+<http://municipio/Entroncamento> <http://municipio/pred/nome> "Entroncamento".
+<http://municipio/Entroncamento> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Entroncamento> <http://municipio/pred/area> "13.73".
+<http://municipio/Entroncamento> <http://municipio/pred/pop> "20206".
+<http://municipio/Entroncamento> <http://municipio/pred/denspop> "1471.7".
+
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/idmun> "260".
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/nome> "Ferreira do Zêzere".
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/area> "190.38".
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/pop> "8619".
+<http://municipio/Ferreira do Zêzere> <http://municipio/pred/denspop> "45.3".
+
+<http://municipio/Golegã> <http://municipio/pred/idmun> "261".
+<http://municipio/Golegã> <http://municipio/pred/nome> "Golegã".
+<http://municipio/Golegã> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Golegã> <http://municipio/pred/area> "84.32".
+<http://municipio/Golegã> <http://municipio/pred/pop> "5913".
+<http://municipio/Golegã> <http://municipio/pred/denspop> "70.1".
+
+<http://municipio/Mação> <http://municipio/pred/idmun> "262".
+<http://municipio/Mação> <http://municipio/pred/nome> "Mação".
+<http://municipio/Mação> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mação> <http://municipio/pred/area> "399.98".
+<http://municipio/Mação> <http://municipio/pred/pop> "7338".
+<http://municipio/Mação> <http://municipio/pred/denspop> "18.3".
+
+<http://municipio/Ourém> <http://municipio/pred/idmun> "263".
+<http://municipio/Ourém> <http://municipio/pred/nome> "Ourém".
+<http://municipio/Ourém> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Ourém> <http://municipio/pred/area> "416.68".
+<http://municipio/Ourém> <http://municipio/pred/pop> "45932".
+<http://municipio/Ourém> <http://municipio/pred/denspop> "110.2".
+
+<http://municipio/Rio Maior> <http://municipio/pred/idmun> "264".
+<http://municipio/Rio Maior> <http://municipio/pred/nome> "Rio Maior".
+<http://municipio/Rio Maior> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Rio Maior> <http://municipio/pred/area> "272.76".
+<http://municipio/Rio Maior> <http://municipio/pred/pop> "21192".
+<http://municipio/Rio Maior> <http://municipio/pred/denspop> "77.7".
+
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/idmun> "265".
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/nome> "Salvaterra de Magos".
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/area> "243.93".
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/pop> "22159".
+<http://municipio/Salvaterra de Magos> <http://municipio/pred/denspop> "90.8".
+
+<http://municipio/Santarém> <http://municipio/pred/idmun> "266".
+<http://municipio/Santarém> <http://municipio/pred/nome> "Santarém".
+<http://municipio/Santarém> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Santarém> <http://municipio/pred/area> "552.54".
+<http://municipio/Santarém> <http://municipio/pred/pop> "61752".
+<http://municipio/Santarém> <http://municipio/pred/denspop> "111.8".
+
+<http://municipio/Sardoal> <http://municipio/pred/idmun> "267".
+<http://municipio/Sardoal> <http://municipio/pred/nome> "Sardoal".
+<http://municipio/Sardoal> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sardoal> <http://municipio/pred/area> "92.15".
+<http://municipio/Sardoal> <http://municipio/pred/pop> "3939".
+<http://municipio/Sardoal> <http://municipio/pred/denspop> "42.7".
+
+<http://municipio/Tomar> <http://municipio/pred/idmun> "268".
+<http://municipio/Tomar> <http://municipio/pred/nome> "Tomar".
+<http://municipio/Tomar> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Tomar> <http://municipio/pred/area> "351.2".
+<http://municipio/Tomar> <http://municipio/pred/pop> "41000".
+<http://municipio/Tomar> <http://municipio/pred/denspop> "116.74".
+
+<http://municipio/Torres Novas> <http://municipio/pred/idmun> "269".
+<http://municipio/Torres Novas> <http://municipio/pred/nome> "Torres Novas".
+<http://municipio/Torres Novas> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Torres Novas> <http://municipio/pred/area> "270".
+<http://municipio/Torres Novas> <http://municipio/pred/pop> "36338".
+<http://municipio/Torres Novas> <http://municipio/pred/denspop> "134.6".
+
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/idmun> "270".
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/nome> "Vila Nova da Barquinha".
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/area> "49.53".
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/pop> "7322".
+<http://municipio/Vila Nova da Barquinha> <http://municipio/pred/denspop> "147.8".
+
+<http://municipio/Alcácer do Sal> <http://municipio/pred/idmun> "271".
+<http://municipio/Alcácer do Sal> <http://municipio/pred/nome> "Alcácer do Sal".
+<http://municipio/Alcácer do Sal> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Alcácer do Sal> <http://municipio/pred/area> "1499.87".
+<http://municipio/Alcácer do Sal> <http://municipio/pred/pop> "13046".
+<http://municipio/Alcácer do Sal> <http://municipio/pred/denspop> "8.7".
+
+<http://municipio/Alcochete> <http://municipio/pred/idmun> "272".
+<http://municipio/Alcochete> <http://municipio/pred/nome> "Alcochete".
+<http://municipio/Alcochete> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Alcochete> <http://municipio/pred/area> "128.36".
+<http://municipio/Alcochete> <http://municipio/pred/pop> "17569".
+<http://municipio/Alcochete> <http://municipio/pred/denspop> "136.9".
+
+<http://municipio/Almada> <http://municipio/pred/idmun> "273".
+<http://municipio/Almada> <http://municipio/pred/nome> "Almada".
+<http://municipio/Almada> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Almada> <http://municipio/pred/area> "70.21".
+<http://municipio/Almada> <http://municipio/pred/pop> "168027".
+<http://municipio/Almada> <http://municipio/pred/denspop> "2393.2".
+
+<http://municipio/Barreiro> <http://municipio/pred/idmun> "274".
+<http://municipio/Barreiro> <http://municipio/pred/nome> "Barreiro".
+<http://municipio/Barreiro> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Barreiro> <http://municipio/pred/area> "36.39".
+<http://municipio/Barreiro> <http://municipio/pred/pop> "78764".
+<http://municipio/Barreiro> <http://municipio/pred/denspop> "2164.44".
+
+<http://municipio/Grândola> <http://municipio/pred/idmun> "275".
+<http://municipio/Grândola> <http://municipio/pred/nome> "Grândola".
+<http://municipio/Grândola> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Grândola> <http://municipio/pred/area> "825.94".
+<http://municipio/Grândola> <http://municipio/pred/pop> "14826".
+<http://municipio/Grândola> <http://municipio/pred/denspop> "18".
+
+<http://municipio/Moita> <http://municipio/pred/idmun> "276".
+<http://municipio/Moita> <http://municipio/pred/nome> "Moita".
+<http://municipio/Moita> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Moita> <http://municipio/pred/area> "55.26".
+<http://municipio/Moita> <http://municipio/pred/pop> "66029".
+<http://municipio/Moita> <http://municipio/pred/denspop> "1194.9".
+
+<http://municipio/Montijo> <http://municipio/pred/idmun> "277".
+<http://municipio/Montijo> <http://municipio/pred/nome> "Montijo".
+<http://municipio/Montijo> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Montijo> <http://municipio/pred/area> "348.62".
+<http://municipio/Montijo> <http://municipio/pred/pop> "57543".
+<http://municipio/Montijo> <http://municipio/pred/denspop> "165.1".
+
+<http://municipio/Palmela> <http://municipio/pred/idmun> "278".
+<http://municipio/Palmela> <http://municipio/pred/nome> "Palmela".
+<http://municipio/Palmela> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Palmela> <http://municipio/pred/area> "465.12".
+<http://municipio/Palmela> <http://municipio/pred/pop> "62831".
+<http://municipio/Palmela> <http://municipio/pred/denspop> "135.1".
+
+<http://municipio/Santiago do Cacém> <http://municipio/pred/idmun> "279".
+<http://municipio/Santiago do Cacém> <http://municipio/pred/nome> "Santiago do Cacém".
+<http://municipio/Santiago do Cacém> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Santiago do Cacém> <http://municipio/pred/area> "1059.77".
+<http://municipio/Santiago do Cacém> <http://municipio/pred/pop> "29749".
+<http://municipio/Santiago do Cacém> <http://municipio/pred/denspop> "28.1".
+
+<http://municipio/Seixal> <http://municipio/pred/idmun> "280".
+<http://municipio/Seixal> <http://municipio/pred/nome> "Seixal".
+<http://municipio/Seixal> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Seixal> <http://municipio/pred/area> "95.50".
+<http://municipio/Seixal> <http://municipio/pred/pop> "158269".
+<http://municipio/Seixal> <http://municipio/pred/denspop> "1657.3".
+
+<http://municipio/Sesimbra> <http://municipio/pred/idmun> "281".
+<http://municipio/Sesimbra> <http://municipio/pred/nome> "Sesimbra".
+<http://municipio/Sesimbra> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Sesimbra> <http://municipio/pred/area> "195.47".
+<http://municipio/Sesimbra> <http://municipio/pred/pop> "49500".
+<http://municipio/Sesimbra> <http://municipio/pred/denspop> "253.23".
+
+<http://municipio/Setúbal> <http://municipio/pred/idmun> "282".
+<http://municipio/Setúbal> <http://municipio/pred/nome> "Setúbal".
+<http://municipio/Setúbal> <http://municipio/pred/regiao> "Área Metropolitana de Lisboa".
+<http://municipio/Setúbal> <http://municipio/pred/area> "230.33".
+<http://municipio/Setúbal> <http://municipio/pred/pop> "116330".
+<http://municipio/Setúbal> <http://municipio/pred/denspop> "505.1".
+
+<http://municipio/Sines> <http://municipio/pred/idmun> "283".
+<http://municipio/Sines> <http://municipio/pred/nome> "Sines".
+<http://municipio/Sines> <http://municipio/pred/regiao> "Alentejo".
+<http://municipio/Sines> <http://municipio/pred/area> "132.42".
+<http://municipio/Sines> <http://municipio/pred/pop> "14238".
+<http://municipio/Sines> <http://municipio/pred/denspop> "107.5".
+
+<http://municipio/Viana do Castelo> <http://municipio/pred/idmun> "301".
+<http://municipio/Viana do Castelo> <http://municipio/pred/nome> "Viana do Castelo".
+<http://municipio/Viana do Castelo> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Viana do Castelo> <http://municipio/pred/area> "319.02".
+<http://municipio/Viana do Castelo> <http://municipio/pred/pop> "88725".
+<http://municipio/Viana do Castelo> <http://municipio/pred/denspop> "278.1".
+
+<http://municipio/Valença> <http://municipio/pred/idmun> "302".
+<http://municipio/Valença> <http://municipio/pred/nome> "Valença".
+<http://municipio/Valença> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Valença> <http://municipio/pred/area> "117.13".
+<http://municipio/Valença> <http://municipio/pred/pop> "14127".
+<http://municipio/Valença> <http://municipio/pred/denspop> "120.6".
+
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/idmun> "303".
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/nome> "Arcos de Valdevez".
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/area> "447.60".
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/pop> "22847".
+<http://municipio/Arcos de Valdevez> <http://municipio/pred/denspop> "51".
+
+<http://municipio/Caminha> <http://municipio/pred/idmun> "304".
+<http://municipio/Caminha> <http://municipio/pred/nome> "Caminha".
+<http://municipio/Caminha> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Caminha> <http://municipio/pred/area> "136.52".
+<http://municipio/Caminha> <http://municipio/pred/pop> "16684".
+<http://municipio/Caminha> <http://municipio/pred/denspop> "122.2".
+
+<http://municipio/Melgaço> <http://municipio/pred/idmun> "305".
+<http://municipio/Melgaço> <http://municipio/pred/nome> "Melgaço".
+<http://municipio/Melgaço> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Melgaço> <http://municipio/pred/area> "238.25".
+<http://municipio/Melgaço> <http://municipio/pred/pop> "9213".
+<http://municipio/Melgaço> <http://municipio/pred/denspop> "38.7".
+
+<http://municipio/Monção> <http://municipio/pred/idmun> "306".
+<http://municipio/Monção> <http://municipio/pred/nome> "Monção".
+<http://municipio/Monção> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Monção> <http://municipio/pred/area> "211.31".
+<http://municipio/Monção> <http://municipio/pred/pop> "19230".
+<http://municipio/Monção> <http://municipio/pred/denspop> "91".
+
+<http://municipio/Paredes de Coura> <http://municipio/pred/idmun> "307".
+<http://municipio/Paredes de Coura> <http://municipio/pred/nome> "Paredes de Coura".
+<http://municipio/Paredes de Coura> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Paredes de Coura> <http://municipio/pred/area> "138.19".
+<http://municipio/Paredes de Coura> <http://municipio/pred/pop> "9198".
+<http://municipio/Paredes de Coura> <http://municipio/pred/denspop> "66.6".
+
+<http://municipio/Ponte da Barca> <http://municipio/pred/idmun> "308".
+<http://municipio/Ponte da Barca> <http://municipio/pred/nome> "Ponte da Barca".
+<http://municipio/Ponte da Barca> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Ponte da Barca> <http://municipio/pred/area> "184.76".
+<http://municipio/Ponte da Barca> <http://municipio/pred/pop> "12061".
+<http://municipio/Ponte da Barca> <http://municipio/pred/denspop> "65.3".
+
+<http://municipio/Ponte de Lima> <http://municipio/pred/idmun> "309".
+<http://municipio/Ponte de Lima> <http://municipio/pred/nome> "Ponte de Lima".
+<http://municipio/Ponte de Lima> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Ponte de Lima> <http://municipio/pred/area> "320.25".
+<http://municipio/Ponte de Lima> <http://municipio/pred/pop> "43498".
+<http://municipio/Ponte de Lima> <http://municipio/pred/denspop> "135.8".
+
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/idmun> "310".
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/nome> "Vila Nova de Cerveira".
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/area> "108.47".
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/pop> "9253".
+<http://municipio/Vila Nova de Cerveira> <http://municipio/pred/denspop> "85.3".
+
+<http://municipio/Alijó> <http://municipio/pred/idmun> "311".
+<http://municipio/Alijó> <http://municipio/pred/nome> "Alijó".
+<http://municipio/Alijó> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Alijó> <http://municipio/pred/area> "297.60".
+<http://municipio/Alijó> <http://municipio/pred/pop> "11942".
+<http://municipio/Alijó> <http://municipio/pred/denspop> "40.1".
+
+<http://municipio/Boticas> <http://municipio/pred/idmun> "312".
+<http://municipio/Boticas> <http://municipio/pred/nome> "Boticas".
+<http://municipio/Boticas> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Boticas> <http://municipio/pred/area> "321.96".
+<http://municipio/Boticas> <http://municipio/pred/pop> "5750".
+<http://municipio/Boticas> <http://municipio/pred/denspop> "17.9".
+
+<http://municipio/Chaves> <http://municipio/pred/idmun> "313".
+<http://municipio/Chaves> <http://municipio/pred/nome> "Chaves".
+<http://municipio/Chaves> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Chaves> <http://municipio/pred/area> "591.23".
+<http://municipio/Chaves> <http://municipio/pred/pop> "41243".
+<http://municipio/Chaves> <http://municipio/pred/denspop> "69.8".
+
+<http://municipio/Mesão Frio> <http://municipio/pred/idmun> "314".
+<http://municipio/Mesão Frio> <http://municipio/pred/nome> "Mesão Frio".
+<http://municipio/Mesão Frio> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Mesão Frio> <http://municipio/pred/area> "26.65".
+<http://municipio/Mesão Frio> <http://municipio/pred/pop> "4433".
+<http://municipio/Mesão Frio> <http://municipio/pred/denspop> "166.3".
+
+<http://municipio/Mondim de Basto> <http://municipio/pred/idmun> "315".
+<http://municipio/Mondim de Basto> <http://municipio/pred/nome> "Mondim de Basto".
+<http://municipio/Mondim de Basto> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Mondim de Basto> <http://municipio/pred/area> "172.08".
+<http://municipio/Mondim de Basto> <http://municipio/pred/pop> "7493".
+<http://municipio/Mondim de Basto> <http://municipio/pred/denspop> "43.5".
+
+<http://municipio/Montalegre> <http://municipio/pred/idmun> "316".
+<http://municipio/Montalegre> <http://municipio/pred/nome> "Montalegre".
+<http://municipio/Montalegre> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Montalegre> <http://municipio/pred/area> "805.46".
+<http://municipio/Montalegre> <http://municipio/pred/pop> "10537".
+<http://municipio/Montalegre> <http://municipio/pred/denspop> "13.1".
+
+<http://municipio/Murça> <http://municipio/pred/idmun> "317".
+<http://municipio/Murça> <http://municipio/pred/nome> "Murça".
+<http://municipio/Murça> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Murça> <http://municipio/pred/area> "189.37".
+<http://municipio/Murça> <http://municipio/pred/pop> "5952".
+<http://municipio/Murça> <http://municipio/pred/denspop> "31.4".
+
+<http://municipio/Peso da Régua> <http://municipio/pred/idmun> "318".
+<http://municipio/Peso da Régua> <http://municipio/pred/nome> "Peso da Régua".
+<http://municipio/Peso da Régua> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Peso da Régua> <http://municipio/pred/area> "94.86".
+<http://municipio/Peso da Régua> <http://municipio/pred/pop> "17131".
+<http://municipio/Peso da Régua> <http://municipio/pred/denspop> "180.6".
+
+<http://municipio/Ribeira de Pena> <http://municipio/pred/idmun> "319".
+<http://municipio/Ribeira de Pena> <http://municipio/pred/nome> "Ribeira de Pena".
+<http://municipio/Ribeira de Pena> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Ribeira de Pena> <http://municipio/pred/area> "217.46".
+<http://municipio/Ribeira de Pena> <http://municipio/pred/pop> "6544".
+<http://municipio/Ribeira de Pena> <http://municipio/pred/denspop> "30.1".
+
+<http://municipio/Sabrosa> <http://municipio/pred/idmun> "320".
+<http://municipio/Sabrosa> <http://municipio/pred/nome> "Sabrosa".
+<http://municipio/Sabrosa> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Sabrosa> <http://municipio/pred/area> "156.92".
+<http://municipio/Sabrosa> <http://municipio/pred/pop> "6361".
+<http://municipio/Sabrosa> <http://municipio/pred/denspop> "40.5".
+
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/idmun> "321".
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/nome> "Santa Marta de Penaguião".
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/area> "69.28".
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/pop> "7356".
+<http://municipio/Santa Marta de Penaguião> <http://municipio/pred/denspop> "106.2".
+
+<http://municipio/Valpaços> <http://municipio/pred/idmun> "322".
+<http://municipio/Valpaços> <http://municipio/pred/nome> "Valpaços".
+<http://municipio/Valpaços> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Valpaços> <http://municipio/pred/area> "548.74".
+<http://municipio/Valpaços> <http://municipio/pred/pop> "16882".
+<http://municipio/Valpaços> <http://municipio/pred/denspop> "30.76".
+
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/idmun> "323".
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/nome> "Vila Pouca de Aguiar".
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/area> "437.07".
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/pop> "13187".
+<http://municipio/Vila Pouca de Aguiar> <http://municipio/pred/denspop> "30.2".
+
+<http://municipio/Vila Real> <http://municipio/pred/idmun> "324".
+<http://municipio/Vila Real> <http://municipio/pred/nome> "Vila Real".
+<http://municipio/Vila Real> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Vila Real> <http://municipio/pred/area> "378.80".
+<http://municipio/Vila Real> <http://municipio/pred/pop> "51850".
+<http://municipio/Vila Real> <http://municipio/pred/denspop> "136.9".
+
+<http://municipio/Armamar> <http://municipio/pred/idmun> "325".
+<http://municipio/Armamar> <http://municipio/pred/nome> "Armamar".
+<http://municipio/Armamar> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Armamar> <http://municipio/pred/area> "117.24".
+<http://municipio/Armamar> <http://municipio/pred/pop> "6297".
+<http://municipio/Armamar> <http://municipio/pred/denspop> "53.7".
+
+<http://municipio/Carregal do Sal> <http://municipio/pred/idmun> "326".
+<http://municipio/Carregal do Sal> <http://municipio/pred/nome> "Carregal do Sal".
+<http://municipio/Carregal do Sal> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Carregal do Sal> <http://municipio/pred/area> "116.89".
+<http://municipio/Carregal do Sal> <http://municipio/pred/pop> "9835".
+<http://municipio/Carregal do Sal> <http://municipio/pred/denspop> "84.1".
+
+<http://municipio/Castro Daire> <http://municipio/pred/idmun> "327".
+<http://municipio/Castro Daire> <http://municipio/pred/nome> "Castro Daire".
+<http://municipio/Castro Daire> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Castro Daire> <http://municipio/pred/area> "379.04".
+<http://municipio/Castro Daire> <http://municipio/pred/pop> "15339".
+<http://municipio/Castro Daire> <http://municipio/pred/denspop> "40.5".
+
+<http://municipio/Cinfães> <http://municipio/pred/idmun> "328".
+<http://municipio/Cinfães> <http://municipio/pred/nome> "Cinfães".
+<http://municipio/Cinfães> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Cinfães> <http://municipio/pred/area> "239.29".
+<http://municipio/Cinfães> <http://municipio/pred/pop> "20427".
+<http://municipio/Cinfães> <http://municipio/pred/denspop> "85.4".
+
+<http://municipio/Lamego> <http://municipio/pred/idmun> "329".
+<http://municipio/Lamego> <http://municipio/pred/nome> "Lamego".
+<http://municipio/Lamego> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Lamego> <http://municipio/pred/area> "165.42".
+<http://municipio/Lamego> <http://municipio/pred/pop> "26691".
+<http://municipio/Lamego> <http://municipio/pred/denspop> "161.4".
+
+<http://municipio/Mangualde> <http://municipio/pred/idmun> "330".
+<http://municipio/Mangualde> <http://municipio/pred/nome> "Mangualde".
+<http://municipio/Mangualde> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mangualde> <http://municipio/pred/area> "219.26".
+<http://municipio/Mangualde> <http://municipio/pred/pop> "19880".
+<http://municipio/Mangualde> <http://municipio/pred/denspop> "90.7".
+
+<http://municipio/Moimenta da Beira> <http://municipio/pred/idmun> "331".
+<http://municipio/Moimenta da Beira> <http://municipio/pred/nome> "Moimenta da Beira".
+<http://municipio/Moimenta da Beira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Moimenta da Beira> <http://municipio/pred/area> "219.97".
+<http://municipio/Moimenta da Beira> <http://municipio/pred/pop> "10201".
+<http://municipio/Moimenta da Beira> <http://municipio/pred/denspop> "46.37".
+
+<http://municipio/Mortágua> <http://municipio/pred/idmun> "332".
+<http://municipio/Mortágua> <http://municipio/pred/nome> "Mortágua".
+<http://municipio/Mortágua> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Mortágua> <http://municipio/pred/area> "251.18".
+<http://municipio/Mortágua> <http://municipio/pred/pop> "9607".
+<http://municipio/Mortágua> <http://municipio/pred/denspop> "38.2".
+
+<http://municipio/Nelas> <http://municipio/pred/idmun> "333".
+<http://municipio/Nelas> <http://municipio/pred/nome> "Nelas".
+<http://municipio/Nelas> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Nelas> <http://municipio/pred/area> "125.71".
+<http://municipio/Nelas> <http://municipio/pred/pop> "14037".
+<http://municipio/Nelas> <http://municipio/pred/denspop> "111.7".
+
+<http://municipio/Oliveira de Frades> <http://municipio/pred/idmun> "334".
+<http://municipio/Oliveira de Frades> <http://municipio/pred/nome> "Oliveira de Frades".
+<http://municipio/Oliveira de Frades> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Oliveira de Frades> <http://municipio/pred/area> "147.45".
+<http://municipio/Oliveira de Frades> <http://municipio/pred/pop> "10261".
+<http://municipio/Oliveira de Frades> <http://municipio/pred/denspop> "69.6".
+
+<http://municipio/Penalva do Castelo> <http://municipio/pred/idmun> "335".
+<http://municipio/Penalva do Castelo> <http://municipio/pred/nome> "Penalva do Castelo".
+<http://municipio/Penalva do Castelo> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Penalva do Castelo> <http://municipio/pred/area> "134.34".
+<http://municipio/Penalva do Castelo> <http://municipio/pred/pop> "7956".
+<http://municipio/Penalva do Castelo> <http://municipio/pred/denspop> "59.2".
+
+<http://municipio/Penedono> <http://municipio/pred/idmun> "336".
+<http://municipio/Penedono> <http://municipio/pred/nome> "Penedono".
+<http://municipio/Penedono> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Penedono> <http://municipio/pred/area> "133.71".
+<http://municipio/Penedono> <http://municipio/pred/pop> "2952".
+<http://municipio/Penedono> <http://municipio/pred/denspop> "22.1".
+
+<http://municipio/Resende> <http://municipio/pred/idmun> "337".
+<http://municipio/Resende> <http://municipio/pred/nome> "Resende".
+<http://municipio/Resende> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Resende> <http://municipio/pred/area> "123.35".
+<http://municipio/Resende> <http://municipio/pred/pop> "11364".
+<http://municipio/Resende> <http://municipio/pred/denspop> "92.1".
+
+<http://municipio/Santa Comba Dão> <http://municipio/pred/idmun> "338".
+<http://municipio/Santa Comba Dão> <http://municipio/pred/nome> "Santa Comba Dão".
+<http://municipio/Santa Comba Dão> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Santa Comba Dão> <http://municipio/pred/area> "111.95".
+<http://municipio/Santa Comba Dão> <http://municipio/pred/pop> "11597".
+<http://municipio/Santa Comba Dão> <http://municipio/pred/denspop> "103.6".
+
+<http://municipio/São João da Pesqueira> <http://municipio/pred/idmun> "339".
+<http://municipio/São João da Pesqueira> <http://municipio/pred/nome> "São João da Pesqueira".
+<http://municipio/São João da Pesqueira> <http://municipio/pred/regiao> "Norte".
+<http://municipio/São João da Pesqueira> <http://municipio/pred/area> "266.11".
+<http://municipio/São João da Pesqueira> <http://municipio/pred/pop> "7874".
+<http://municipio/São João da Pesqueira> <http://municipio/pred/denspop> "29.6".
+
+<http://municipio/São Pedro do Sul> <http://municipio/pred/idmun> "340".
+<http://municipio/São Pedro do Sul> <http://municipio/pred/nome> "São Pedro do Sul".
+<http://municipio/São Pedro do Sul> <http://municipio/pred/regiao> "Centro".
+<http://municipio/São Pedro do Sul> <http://municipio/pred/area> "348.68".
+<http://municipio/São Pedro do Sul> <http://municipio/pred/pop> "16851".
+<http://municipio/São Pedro do Sul> <http://municipio/pred/denspop> "48.3".
+
+<http://municipio/Sátão> <http://municipio/pred/idmun> "341".
+<http://municipio/Sátão> <http://municipio/pred/nome> "Sátão".
+<http://municipio/Sátão> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Sátão> <http://municipio/pred/area> "201.94".
+<http://municipio/Sátão> <http://municipio/pred/pop> "12444".
+<http://municipio/Sátão> <http://municipio/pred/denspop> "61.6".
+
+<http://municipio/Sernancelhe> <http://municipio/pred/idmun> "342".
+<http://municipio/Sernancelhe> <http://municipio/pred/nome> "Sernancelhe".
+<http://municipio/Sernancelhe> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Sernancelhe> <http://municipio/pred/area> "228.61".
+<http://municipio/Sernancelhe> <http://municipio/pred/pop> "5671".
+<http://municipio/Sernancelhe> <http://municipio/pred/denspop> "24.8".
+
+<http://municipio/Tabuaço> <http://municipio/pred/idmun> "343".
+<http://municipio/Tabuaço> <http://municipio/pred/nome> "Tabuaço".
+<http://municipio/Tabuaço> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Tabuaço> <http://municipio/pred/area> "133.86".
+<http://municipio/Tabuaço> <http://municipio/pred/pop> "6350".
+<http://municipio/Tabuaço> <http://municipio/pred/denspop> "47.4".
+
+<http://municipio/Tarouca> <http://municipio/pred/idmun> "344".
+<http://municipio/Tarouca> <http://municipio/pred/nome> "Tarouca".
+<http://municipio/Tarouca> <http://municipio/pred/regiao> "Norte".
+<http://municipio/Tarouca> <http://municipio/pred/area> "100.08".
+<http://municipio/Tarouca> <http://municipio/pred/pop> "8048".
+<http://municipio/Tarouca> <http://municipio/pred/denspop> "80.4".
+
+<http://municipio/Tondela> <http://municipio/pred/idmun> "345".
+<http://municipio/Tondela> <http://municipio/pred/nome> "Tondela".
+<http://municipio/Tondela> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Tondela> <http://municipio/pred/area> "371.22".
+<http://municipio/Tondela> <http://municipio/pred/pop> "28946".
+<http://municipio/Tondela> <http://municipio/pred/denspop> "78".
+
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/idmun> "346".
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/nome> "Vila Nova de Paiva".
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/area> "175.53".
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/pop> "5176".
+<http://municipio/Vila Nova de Paiva> <http://municipio/pred/denspop> "29.5".
+
+<http://municipio/Viseu> <http://municipio/pred/idmun> "347".
+<http://municipio/Viseu> <http://municipio/pred/nome> "Viseu".
+<http://municipio/Viseu> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Viseu> <http://municipio/pred/area> "507.10".
+<http://municipio/Viseu> <http://municipio/pred/pop> "99274".
+<http://municipio/Viseu> <http://municipio/pred/denspop> "195.76".
+
+<http://municipio/Vouzela> <http://municipio/pred/idmun> "348".
+<http://municipio/Vouzela> <http://municipio/pred/nome> "Vouzela".
+<http://municipio/Vouzela> <http://municipio/pred/regiao> "Centro".
+<http://municipio/Vouzela> <http://municipio/pred/area> "193.69".
+<http://municipio/Vouzela> <http://municipio/pred/pop> "10564".
+<http://municipio/Vouzela> <http://municipio/pred/denspop> "54.5".
+
+<http://municipio/Calheta> <http://municipio/pred/idmun> "349".
+<http://municipio/Calheta> <http://municipio/pred/nome> "Calheta".
+<http://municipio/Calheta> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Calheta> <http://municipio/pred/area> "111.52".
+<http://municipio/Calheta> <http://municipio/pred/pop> "11521".
+<http://municipio/Calheta> <http://municipio/pred/denspop> "103.31".
+
+<http://municipio/Câmara de Lobos> <http://municipio/pred/idmun> "350".
+<http://municipio/Câmara de Lobos> <http://municipio/pred/nome> "Câmara de Lobos".
+<http://municipio/Câmara de Lobos> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Câmara de Lobos> <http://municipio/pred/area> "52.15".
+<http://municipio/Câmara de Lobos> <http://municipio/pred/pop> "35666".
+<http://municipio/Câmara de Lobos> <http://municipio/pred/denspop> "683.91".
+
+<http://municipio/Ponta do Sol> <http://municipio/pred/idmun> "351".
+<http://municipio/Ponta do Sol> <http://municipio/pred/nome> "Ponta do Sol".
+<http://municipio/Ponta do Sol> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Ponta do Sol> <http://municipio/pred/area> "46.19".
+<http://municipio/Ponta do Sol> <http://municipio/pred/pop> "8862".
+<http://municipio/Ponta do Sol> <http://municipio/pred/denspop> "191.86".
+
+<http://municipio/Porto Moniz> <http://municipio/pred/idmun> "352".
+<http://municipio/Porto Moniz> <http://municipio/pred/nome> "Porto Moniz".
+<http://municipio/Porto Moniz> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Porto Moniz> <http://municipio/pred/area> "82.93".
+<http://municipio/Porto Moniz> <http://municipio/pred/pop> "2711".
+<http://municipio/Porto Moniz> <http://municipio/pred/denspop> "32.69".
+
+<http://municipio/Ribeira Brava> <http://municipio/pred/idmun> "353".
+<http://municipio/Ribeira Brava> <http://municipio/pred/nome> "Ribeira Brava".
+<http://municipio/Ribeira Brava> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Ribeira Brava> <http://municipio/pred/area> "65.40".
+<http://municipio/Ribeira Brava> <http://municipio/pred/pop> "13375".
+<http://municipio/Ribeira Brava> <http://municipio/pred/denspop> "204.51".
+
+<http://municipio/Santana> <http://municipio/pred/idmun> "354".
+<http://municipio/Santana> <http://municipio/pred/nome> "Santana".
+<http://municipio/Santana> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Santana> <http://municipio/pred/area> "95.56".
+<http://municipio/Santana> <http://municipio/pred/pop> "7719".
+<http://municipio/Santana> <http://municipio/pred/denspop> "80.78".
+
+<http://municipio/São Vicente> <http://municipio/pred/idmun> "355".
+<http://municipio/São Vicente> <http://municipio/pred/nome> "São Vicente".
+<http://municipio/São Vicente> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/São Vicente> <http://municipio/pred/area> "78.82".
+<http://municipio/São Vicente> <http://municipio/pred/pop> "5723".
+<http://municipio/São Vicente> <http://municipio/pred/denspop> "72.61".
+
+<http://municipio/Funchal> <http://municipio/pred/idmun> "356".
+<http://municipio/Funchal> <http://municipio/pred/nome> "Funchal".
+<http://municipio/Funchal> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Funchal> <http://municipio/pred/area> "76.15".
+<http://municipio/Funchal> <http://municipio/pred/pop> "111892".
+<http://municipio/Funchal> <http://municipio/pred/denspop> "1469.36".
+
+<http://municipio/Machico> <http://municipio/pred/idmun> "357".
+<http://municipio/Machico> <http://municipio/pred/nome> "Machico".
+<http://municipio/Machico> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Machico> <http://municipio/pred/area> "68.31".
+<http://municipio/Machico> <http://municipio/pred/pop> "21828".
+<http://municipio/Machico> <http://municipio/pred/denspop> "319.54".
+
+<http://municipio/Porto Santo> <http://municipio/pred/idmun> "358".
+<http://municipio/Porto Santo> <http://municipio/pred/nome> "Porto Santo".
+<http://municipio/Porto Santo> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Porto Santo> <http://municipio/pred/area> "42.48".
+<http://municipio/Porto Santo> <http://municipio/pred/pop> "5483".
+<http://municipio/Porto Santo> <http://municipio/pred/denspop> "129.07".
+
+<http://municipio/Santa Cruz> <http://municipio/pred/idmun> "359".
+<http://municipio/Santa Cruz> <http://municipio/pred/nome> "Santa Cruz".
+<http://municipio/Santa Cruz> <http://municipio/pred/regiao> "Região Autónoma da Madeira".
+<http://municipio/Santa Cruz> <http://municipio/pred/area> "81.50".
+<http://municipio/Santa Cruz> <http://municipio/pred/pop> "43005".
+<http://municipio/Santa Cruz> <http://municipio/pred/denspop> "527.67".
+
+<http://municipio/Vila do Porto> <http://municipio/pred/idmun> "360".
+<http://municipio/Vila do Porto> <http://municipio/pred/nome> "Vila do Porto".
+<http://municipio/Vila do Porto> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Vila do Porto> <http://municipio/pred/area> "97.2".
+<http://municipio/Vila do Porto> <http://municipio/pred/pop> "5547".
+<http://municipio/Vila do Porto> <http://municipio/pred/denspop> "57.1".
+
+<http://municipio/Lagoa> <http://municipio/pred/idmun> "361".
+<http://municipio/Lagoa> <http://municipio/pred/nome> "Lagoa".
+<http://municipio/Lagoa> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Lagoa> <http://municipio/pred/area> "45.6".
+<http://municipio/Lagoa> <http://municipio/pred/pop> "14430".
+<http://municipio/Lagoa> <http://municipio/pred/denspop> "316.4".
+
+<http://municipio/Nordeste> <http://municipio/pred/idmun> "362".
+<http://municipio/Nordeste> <http://municipio/pred/nome> "Nordeste".
+<http://municipio/Nordeste> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Nordeste> <http://municipio/pred/area> "99.9".
+<http://municipio/Nordeste> <http://municipio/pred/pop> "4920".
+<http://municipio/Nordeste> <http://municipio/pred/denspop> "49.2".
+
+<http://municipio/Ponta Delgada> <http://municipio/pred/idmun> "363".
+<http://municipio/Ponta Delgada> <http://municipio/pred/nome> "Ponta Delgada".
+<http://municipio/Ponta Delgada> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Ponta Delgada> <http://municipio/pred/area> "233.0".
+<http://municipio/Ponta Delgada> <http://municipio/pred/pop> "68748".
+<http://municipio/Ponta Delgada> <http://municipio/pred/denspop> "295.1".
+
+<http://municipio/Povoação> <http://municipio/pred/idmun> "364".
+<http://municipio/Povoação> <http://municipio/pred/nome> "Povoação".
+<http://municipio/Povoação> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Povoação> <http://municipio/pred/area> "108.0".
+<http://municipio/Povoação> <http://municipio/pred/pop> "6314".
+<http://municipio/Povoação> <http://municipio/pred/denspop> "58.5".
+
+<http://municipio/Ribeira Grande> <http://municipio/pred/idmun> "365".
+<http://municipio/Ribeira Grande> <http://municipio/pred/nome> "Ribeira Grande".
+<http://municipio/Ribeira Grande> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Ribeira Grande> <http://municipio/pred/area> "180.2".
+<http://municipio/Ribeira Grande> <http://municipio/pred/pop> "32032".
+<http://municipio/Ribeira Grande> <http://municipio/pred/denspop> "177.8".
+
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/idmun> "366".
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/nome> "Vila Franca do Campo".
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/area> "78.0".
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/pop> "11255".
+<http://municipio/Vila Franca do Campo> <http://municipio/pred/denspop> "144.3".
+
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/idmun> "367".
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/nome> "Angra do Heroísmo".
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/area> "241.0".
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/pop> "34976".
+<http://municipio/Angra do Heroísmo> <http://municipio/pred/denspop> "145.1".
+
+<http://municipio/Praia da Vitória> <http://municipio/pred/idmun> "368".
+<http://municipio/Praia da Vitória> <http://municipio/pred/nome> "Praia da Vitória".
+<http://municipio/Praia da Vitória> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Praia da Vitória> <http://municipio/pred/area> "161.3".
+<http://municipio/Praia da Vitória> <http://municipio/pred/pop> "21086".
+<http://municipio/Praia da Vitória> <http://municipio/pred/denspop> "130.7".
+
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/idmun> "369".
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/nome> "Santa Cruz da Graciosa".
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/area> "61.2".
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/pop> "4393".
+<http://municipio/Santa Cruz da Graciosa> <http://municipio/pred/denspop> "71.8".
+
+<http://municipio/Calheta> <http://municipio/pred/idmun> "370".
+<http://municipio/Calheta> <http://municipio/pred/nome> "Calheta".
+<http://municipio/Calheta> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Calheta> <http://municipio/pred/area> "126.3".
+<http://municipio/Calheta> <http://municipio/pred/pop> "3617".
+<http://municipio/Calheta> <http://municipio/pred/denspop> "28.6".
+
+<http://municipio/Velas> <http://municipio/pred/idmun> "371".
+<http://municipio/Velas> <http://municipio/pred/nome> "Velas".
+<http://municipio/Velas> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Velas> <http://municipio/pred/area> "117.4".
+<http://municipio/Velas> <http://municipio/pred/pop> "5381".
+<http://municipio/Velas> <http://municipio/pred/denspop> "45.8".
+
+<http://municipio/Lajes do Pico> <http://municipio/pred/idmun> "372".
+<http://municipio/Lajes do Pico> <http://municipio/pred/nome> "Lajes do Pico".
+<http://municipio/Lajes do Pico> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Lajes do Pico> <http://municipio/pred/area> "155.3".
+<http://municipio/Lajes do Pico> <http://municipio/pred/pop> "4701".
+<http://municipio/Lajes do Pico> <http://municipio/pred/denspop> "30.3".
+
+<http://municipio/Madalena> <http://municipio/pred/idmun> "373".
+<http://municipio/Madalena> <http://municipio/pred/nome> "Madalena".
+<http://municipio/Madalena> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Madalena> <http://municipio/pred/area> "147.1".
+<http://municipio/Madalena> <http://municipio/pred/pop> "6049".
+<http://municipio/Madalena> <http://municipio/pred/denspop> "41.1".
+
+<http://municipio/São Roque do Pico> <http://municipio/pred/idmun> "374".
+<http://municipio/São Roque do Pico> <http://municipio/pred/nome> "São Roque do Pico".
+<http://municipio/São Roque do Pico> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/São Roque do Pico> <http://municipio/pred/area> "142.4".
+<http://municipio/São Roque do Pico> <http://municipio/pred/pop> "3394".
+<http://municipio/São Roque do Pico> <http://municipio/pred/denspop> "23.8".
+
+<http://municipio/Horta> <http://municipio/pred/idmun> "375".
+<http://municipio/Horta> <http://municipio/pred/nome> "Horta".
+<http://municipio/Horta> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Horta> <http://municipio/pred/area> "173.1".
+<http://municipio/Horta> <http://municipio/pred/pop> "15038".
+<http://municipio/Horta> <http://municipio/pred/denspop> "86.9".
+
+<http://municipio/Lajes das Flores> <http://municipio/pred/idmun> "376".
+<http://municipio/Lajes das Flores> <http://municipio/pred/nome> "Lajes das Flores".
+<http://municipio/Lajes das Flores> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Lajes das Flores> <http://municipio/pred/area> "70.0".
+<http://municipio/Lajes das Flores> <http://municipio/pred/pop> "1503".
+<http://municipio/Lajes das Flores> <http://municipio/pred/denspop> "21.5".
+
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/idmun> "377".
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/nome> "Santa Cruz das Flores".
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/area> "70.9".
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/pop> "2288".
+<http://municipio/Santa Cruz das Flores> <http://municipio/pred/denspop> "32.3".
+
+<http://municipio/Vila do Corvo> <http://municipio/pred/idmun> "378".
+<http://municipio/Vila do Corvo> <http://municipio/pred/nome> "Vila do Corvo".
+<http://municipio/Vila do Corvo> <http://municipio/pred/regiao> "Região Autónoma dos Açores".
+<http://municipio/Vila do Corvo> <http://municipio/pred/area> "17.1".
+<http://municipio/Vila do Corvo> <http://municipio/pred/pop> "430".
+<http://municipio/Vila do Corvo> <http://municipio/pred/denspop> "25.1".
