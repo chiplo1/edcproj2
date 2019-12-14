@@ -1,111 +1,111 @@
-<http://interesse/Passadiços do Paiva> <http://interesse/pred/idint> "1".
-<http://interesse/Passadiços do Paiva> <http://interesse/pred/nome> "Passadiços do Paiva".
-<http://interesse/Passadiços do Paiva> <http://interesse/pred/tipo> "Lazer".
+﻿<http://interesse/Passadicos_do_Paiva> <http://interesse/pred/idint> "1".
+<http://interesse/Passadicos_do_Paiva> <http://interesse/pred/nome> "Passadicos_do_Paiva".
+<http://interesse/Passadicos_do_Paiva> <http://interesse/pred/tipo> "Lazer".
 
-<http://interesse/Salinas de Aveiro> <http://interesse/pred/idint> "4".
-<http://interesse/Salinas de Aveiro> <http://interesse/pred/nome> "Salinas de Aveiro".
-<http://interesse/Salinas de Aveiro> <http://interesse/pred/tipo> "Património".
+<http://interesse/Salinas_de_Aveiro> <http://interesse/pred/idint> "4".
+<http://interesse/Salinas_de_Aveiro> <http://interesse/pred/nome> "Salinas_de_Aveiro".
+<http://interesse/Salinas_de_Aveiro> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Museu Marítmo de Ílhavo, Navio de Santo André> <http://interesse/pred/idint> "6".
-<http://interesse/Museu Marítmo de Ílhavo, Navio de Santo André> <http://interesse/pred/nome> "Museu Marítmo de Ílhavo, Navio de Santo André".
-<http://interesse/Museu Marítmo de Ílhavo, Navio de Santo André> <http://interesse/pred/tipo> "Cultura".
+<http://interesse/Museu_Maritmo_de_Ilhavo,Navio_de_Santo_Andre> <http://interesse/pred/idint> "6".
+<http://interesse/Museu_Maritmo_de_Ilhavo,Navio_de_Santo_Andre> <http://interesse/pred/nome> "Museu_Maritmo_de_Ilhavo,Navio_de_Santo_Andre".
+<http://interesse/Museu_Maritmo_de_Ilhavo,Navio_de_Santo_Andre> <http://interesse/pred/tipo> "Cultura".
 
-<http://interesse/Palácio do Buçaco> <http://interesse/pred/idint> "9".
-<http://interesse/Palácio do Buçaco> <http://interesse/pred/nome> "Palácio do Buçaco".
-<http://interesse/Palácio do Buçaco> <http://interesse/pred/tipo> "Património".
+<http://interesse/Palacio_do_Bucaco> <http://interesse/pred/idint> "9".
+<http://interesse/Palacio_do_Bucaco> <http://interesse/pred/nome> "Palacio_do_Bucaco".
+<http://interesse/Palacio_do_Bucaco> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Pão-de-ló de Ovar> <http://interesse/pred/idint> "10".
-<http://interesse/Pão-de-ló de Ovar> <http://interesse/pred/nome> "Pão-de-ló de Ovar".
-<http://interesse/Pão-de-ló de Ovar> <http://interesse/pred/tipo> "Gastronomia e vinhos".
+<http://interesse/Pao-de-lo_de_Ovar> <http://interesse/pred/idint> "10".
+<http://interesse/Pao-de-lo_de_Ovar> <http://interesse/pred/nome> "Pao-de-lo_de_Ovar".
+<http://interesse/Pao-de-lo_de_Ovar> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Castelo de Santa Maria da Feira> <http://interesse/pred/idint> "11".
-<http://interesse/Castelo de Santa Maria da Feira> <http://interesse/pred/nome> "Castelo de Santa Maria da Feira".
-<http://interesse/Castelo de Santa Maria da Feira> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_ de_Santa_Maria_da_Feira> <http://interesse/pred/idint> "11".
+<http://interesse/Castelo_ de_Santa_Maria_da_Feira> <http://interesse/pred/nome> "Castelo_ de_Santa_Maria_da_Feira".
+<http://interesse/Castelo_ de_Santa_Maria_da_Feira> <http://interesse/pred/tipo> "Patrimonio".
 
 <http://interesse/Alvito> <http://interesse/pred/idint> "12".
 <http://interesse/Alvito> <http://interesse/pred/nome> "Alvito".
-<http://interesse/Alvito> <http://interesse/pred/tipo> "Património".
+<http://interesse/Alvito> <http://interesse/pred/tipo> "Patrimonio".
 
 <http://interesse/Gaspacho> <http://interesse/pred/idint> "16".
 <http://interesse/Gaspacho> <http://interesse/pred/nome> "Gaspacho".
-<http://interesse/Gaspacho> <http://interesse/pred/tipo> "Gastronomia e vinho".
+<http://interesse/Gaspacho> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Parque Natural do Vale do Guadiana> <http://interesse/pred/idint> "18".
-<http://interesse/Parque Natural do Vale do Guadiana> <http://interesse/pred/nome> "Parque Natural do Vale do Guadiana".
-<http://interesse/Parque Natural do Vale do Guadiana> <http://interesse/pred/tipo> "Lazer".
+<http://interesse/Parque_Natural_do_Vale_do_Guadiana> <http://interesse/pred/idint> "18".
+<http://interesse/Parque_Natural_do_Vale_do_Guadiana> <http://interesse/pred/nome> "Parque_Natural_do_Vale_do_Guadiana".
+<http://interesse/Parque_Natural_do_Vale_do_Guadiana> <http://interesse/pred/tipo> "Lazer".
 
-<http://interesse/Praia da Zambujeira do Mar> <http://interesse/pred/idint> "20".
-<http://interesse/Praia da Zambujeira do Mar> <http://interesse/pred/nome> "Praia da Zambujeira do Mar".
-<http://interesse/Praia da Zambujeira do Mar> <http://interesse/pred/tipo> "Lazer".
+<http://interesse/Praia_da_Zambujeira_do_Mar> <http://interesse/pred/idint> "20".
+<http://interesse/Praia_da_Zambujeira_do_Mar> <http://interesse/pred/nome> "Praia_da_Zambujeira_do_Mar".
+<http://interesse/Praia_da_Zambujeira_do_Mar> <http://interesse/pred/tipo> "Lazer".
 
-<http://interesse/Galo de Barcelos> <http://interesse/pred/idint> "21".
-<http://interesse/Galo de Barcelos> <http://interesse/pred/nome> "Galo de Barcelos".
-<http://interesse/Galo de Barcelos> <http://interesse/pred/tipo> "Cultura".
+<http://interesse/Galo_de_Barcelos> <http://interesse/pred/idint> "21".
+<http://interesse/Galo_de_Barcelos> <http://interesse/pred/nome> "Galo_de_Barcelos".
+<http://interesse/Galo_de_Barcelos> <http://interesse/pred/tipo> "Cultura".
 
-<http://interesse/Bacalhau à Narcisa> <http://interesse/pred/idint> "24".
-<http://interesse/Bacalhau à Narcisa> <http://interesse/pred/nome> "Bacalhau à Narcisa".
-<http://interesse/Bacalhau à Narcisa> <http://interesse/pred/tipo> "Gastronomia e vinho".
+<http://interesse/Bacalhau_a_Narcisa> <http://interesse/pred/idint> "24".
+<http://interesse/Bacalhau_a_Narcisa> <http://interesse/pred/nome> "Bacalhau_a_Narcisa".
+<http://interesse/Bacalhau_a_Narcisa> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Paço dos Duques de Bragança> <http://interesse/pred/idint> "27".
-<http://interesse/Paço dos Duques de Bragança> <http://interesse/pred/nome> "Paço dos Duques de Bragança".
-<http://interesse/Paço dos Duques de Bragança> <http://interesse/pred/tipo> "Património".
+<http://interesse/Paco_dos_Duques_de_Braganca> <http://interesse/pred/idint> "27".
+<http://interesse/Paco_dos_Duques_de_Braganca> <http://interesse/pred/nome> "Paco_dos_Duques_de_Braganca".
+<http://interesse/Paco_dos_Duques_de_Braganca> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Cascata do Arado> <http://interesse/pred/idint> "28".
-<http://interesse/Cascata do Arado> <http://interesse/pred/nome> "Cascata do Arado".
-<http://interesse/Cascata do Arado> <http://interesse/pred/tipo> "Lazer".
+<http://interesse/Cascata_do_Arado> <http://interesse/pred/idint> "28".
+<http://interesse/Cascata_do_Arado> <http://interesse/pred/nome> "Cascata_do_Arado".
+<http://interesse/Cascata_do_Arado> <http://interesse/pred/tipo> "Lazer".
 
-<http://interesse/Santuário Nossa Senhora da Lapa> <http://interesse/pred/idint> "29".
-<http://interesse/Santuário Nossa Senhora da Lapa> <http://interesse/pred/nome> "Santuário Nossa Senhora da Lapa".
-<http://interesse/Santuário Nossa Senhora da Lapa> <http://interesse/pred/tipo> "Património".
+<http://interesse/Santuario_Nossa_Senhora_da_Lapa> <http://interesse/pred/idint> "29".
+<http://interesse/Santuario_Nossa_Senhora_da_Lapa> <http://interesse/pred/nome> "Santuario_Nossa_Senhora_da_Lapa".
+<http://interesse/Santuario_Nossa_Senhora_da_Lapa> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Castelo de Bragança> <http://interesse/pred/idint> "30".
-<http://interesse/Castelo de Bragança> <http://interesse/pred/nome> "Castelo de Bragança".
-<http://interesse/Castelo de Bragança> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_de_Braganca> <http://interesse/pred/idint> "30".
+<http://interesse/Castelo_de_Braganca> <http://interesse/pred/nome> "Castelo_de_Braganca".
+<http://interesse/Castelo_de_Braganca> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Gravuras Ruprestres de Mazouco> <http://interesse/pred/idint> "33".
-<http://interesse/Gravuras Ruprestres de Mazouco> <http://interesse/pred/nome> "Gravuras Ruprestres de Mazouco".
-<http://interesse/Gravuras Ruprestres de Mazouco> <http://interesse/pred/tipo> "Património".
+<http://interesse/Gravuras_Ruprestres_de_Mazouco> <http://interesse/pred/idint> "33".
+<http://interesse/Gravuras_Ruprestres_de_Mazouco> <http://interesse/pred/nome> "Gravuras_Ruprestres_de_Mazouco".
+<http://interesse/Gravuras_Ruprestres_de_Mazouco> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Pauliteiros de Miranda> <http://interesse/pred/idint> "35".
-<http://interesse/Pauliteiros de Miranda> <http://interesse/pred/nome> "Pauliteiros de Miranda".
-<http://interesse/Pauliteiros de Miranda> <http://interesse/pred/tipo> "Cultura".
+<http://interesse/Pauliteiros_de_Miranda> <http://interesse/pred/idint> "35".
+<http://interesse/Pauliteiros_de_Miranda> <http://interesse/pred/nome> "Pauliteiros_de_Miranda".
+<http://interesse/Pauliteiros_de_Miranda> <http://interesse/pred/tipo> "Cultura".
 
 <http://interesse/Alheira> <http://interesse/pred/idint> "36".
 <http://interesse/Alheira> <http://interesse/pred/nome> "Alheira".
-<http://interesse/Alheira> <http://interesse/pred/tipo> "Gastronomia e vinhos".
+<http://interesse/Alheira> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Castelo de Mogadouro> <http://interesse/pred/idint> "37".
-<http://interesse/Castelo de Mogadouro> <http://interesse/pred/nome> "Castelo de Mogadouro".
-<http://interesse/Castelo de Mogadouro> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_de_Mogadouro> <http://interesse/pred/idint> "37".
+<http://interesse/Castelo_de_Mogadouro> <http://interesse/pred/nome> "Castelo_de_Mogadouro".
+<http://interesse/Castelo_de_Mogadouro> <http://interesse/pred/tipo> "Patrimonio".
 
 <http://interesse/Butelo> <http://interesse/pred/idint> "39".
 <http://interesse/Butelo> <http://interesse/pred/nome> "Butelo".
-<http://interesse/Butelo> <http://interesse/pred/tipo> "Gastronomia e vinho".
+<http://interesse/Butelo> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Castelo de Belmonte> <http://interesse/pred/idint> "40".
-<http://interesse/Castelo de Belmonte> <http://interesse/pred/nome> "Castelo de Belmonte".
-<http://interesse/Castelo de Belmonte> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_de_Belmonte> <http://interesse/pred/idint> "40".
+<http://interesse/Castelo_de_Belmonte> <http://interesse/pred/nome> "Castelo_de_Belmonte".
+<http://interesse/Castelo_de_Belmonte> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Castelo de Castelo Branco> <http://interesse/pred/idint> "41".
-<http://interesse/Castelo de Castelo Branco> <http://interesse/pred/nome> "Castelo de Castelo Branco".
-<http://interesse/Castelo de Castelo Branco> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_de_Castelo_Branco> <http://interesse/pred/idint> "41".
+<http://interesse/Castelo_de_Castelo_Branco> <http://interesse/pred/nome> "Castelo_de_Castelo_Branco".
+<http://interesse/Castelo_de_Castelo_Branco> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Aldeia de São Francisco de Assis> <http://interesse/pred/idint> "43".
-<http://interesse/Aldeia de São Francisco de Assis> <http://interesse/pred/nome> "Aldeia de São Francisco de Assis".
-<http://interesse/Aldeia de São Francisco de Assis> <http://interesse/pred/tipo> "Património".
+<http://interesse/Aldeia_de_Sao_Francisco_de_Assis> <http://interesse/pred/idint> "43".
+<http://interesse/Aldeia_de_Sao_Francisco_de_Assis> <http://interesse/pred/nome> "Aldeia_de_Sao_Francisco_de_Assis".
+<http://interesse/Aldeia_de_Sao_Francisco_de_Assis> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Cereija do Fundão> <http://interesse/pred/idint> "45".
-<http://interesse/Cereija do Fundão> <http://interesse/pred/nome> "Cereija do Fundão".
-<http://interesse/Cereija do Fundão> <http://interesse/pred/tipo> "Gastronomia e vinho".
+<http://interesse/Cereija_do_Fundao> <http://interesse/pred/idint> "45".
+<http://interesse/Cereija_do_Fundao> <http://interesse/pred/nome> "Cereija_do_Fundao".
+<http://interesse/Cereija_do_Fundao> <http://interesse/pred/tipo> "Gastronomia_e_vinho".
 
-<http://interesse/Reserva Natural da Serra da Malcata> <http://interesse/pred/idint> "46".
-<http://interesse/Reserva Natural da Serra da Malcata> <http://interesse/pred/nome> "Reserva Natural da Serra da Malcata".
-<http://interesse/Reserva Natural da Serra da Malcata> <http://interesse/pred/tipo> "Lazer".
+<http://interesse/Reserva_Natural_da_Serra_da_Malcata> <http://interesse/pred/idint> "46".
+<http://interesse/Reserva_Natural_da_Serra_da_Malcata> <http://interesse/pred/nome> "Reserva_Natural_da_Serra_da_Malcata".
+<http://interesse/Reserva_Natural_da_Serra_da_Malcata> <http://interesse/pred/tipo> "Lazer".
 
-<http://interesse/Castelo da Sertã> <http://interesse/pred/idint> "47".
-<http://interesse/Castelo da Sertã> <http://interesse/pred/nome> "Castelo da Sertã".
-<http://interesse/Castelo da Sertã> <http://interesse/pred/tipo> "Património".
+<http://interesse/Castelo_da_Serta> <http://interesse/pred/idint> "47".
+<http://interesse/Castelo_da_Serta> <http://interesse/pred/nome> "Castelo_da_Serta".
+<http://interesse/Castelo_da_Serta> <http://interesse/pred/tipo> "Patrimonio".
 
-<http://interesse/Postas de Ródão> <http://interesse/pred/idint> "48".
-<http://interesse/Postas de Ródão> <http://interesse/pred/nome> "Postas de Ródão".
-<http://interesse/Postas de Ródão> <http://interesse/pred/tipo> "Lazer".
+<http://interesse/Postas_de_Rodao> <http://interesse/pred/idint> "48".
+<http://interesse/Postas_de_Rodao> <http://interesse/pred/nome> "Postas_de_Rodao".
+<http://interesse/Postas_de_Rodao> <http://interesse/pred/tipo> "Lazer".
