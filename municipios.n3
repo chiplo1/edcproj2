@@ -1,0 +1,2477 @@
+@prefix ns0: <https://municipio/pred/> .
+
+<https://municipio/Agueda>
+  ns0:idmun "1" ;
+  ns0:nome "Agueda" ;
+  ns0:regiao "Centro" ;
+  ns0:area "335.28" ;
+  ns0:pop "49857" ;
+  ns0:denspop "149" .
+
+<https://municipio/Albergaria-a-Velha>
+  ns0:idmun "2" ;
+  ns0:nome "Albergaria-a-Velha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "158.83" ;
+  ns0:pop "26279" ;
+  ns0:denspop "165" .
+
+<https://municipio/Anadia>
+  ns0:idmun "3" ;
+  ns0:nome "Anadia" ;
+  ns0:regiao "Centro" ;
+  ns0:area "216.64" ;
+  ns0:pop "31422" ;
+  ns0:denspop "145" .
+
+<https://municipio/Arouca>
+  ns0:idmun "4" ;
+  ns0:nome "Arouca" ;
+  ns0:regiao "Norte" ;
+  ns0:area "327.99" ;
+  ns0:pop "23663" ;
+  ns0:denspop "72" ;
+  ns0:interesse "Passadiços do Paiva" .
+
+<https://municipio/Aveiro>
+  ns0:idmun "5" ;
+  ns0:nome "Aveiro" ;
+  ns0:regiao "Centro" ;
+  ns0:area "199.77" ;
+  ns0:pop "73100" ;
+  ns0:denspop "366" ;
+  ns0:interesse "Salinas de Aveiro" .
+
+<https://municipio/Castelo_de_Paiva>
+  ns0:idmun "6" ;
+  ns0:nome "Castelo de Paiva" ;
+  ns0:regiao "Norte" ;
+  ns0:area "114.67" ;
+  ns0:pop "16785" ;
+  ns0:denspop "146" .
+
+<https://municipio/Espinho>
+  ns0:idmun "7" ;
+  ns0:nome "Espinho" ;
+  ns0:regiao "Norte" ;
+  ns0:area "21.11" ;
+  ns0:pop "29481" ;
+  ns0:denspop "1397" .
+
+<https://municipio/Estarreja>
+  ns0:idmun "8" ;
+  ns0:nome "Estarreja" ;
+  ns0:regiao "Centro" ;
+  ns0:area "108.16" ;
+  ns0:pop "28195" ;
+  ns0:denspop "261" .
+
+<https://municipio/Ilhavo>
+  ns0:idmun "9" ;
+  ns0:nome "Ilhavo" ;
+  ns0:regiao "Centro" ;
+  ns0:area "75.05" ;
+  ns0:pop "41271" ;
+  ns0:denspop "550" ;
+  ns0:interesse "Museu Marítmo de Ílhavo, Navio de Santo André" .
+
+<https://municipio/Mealhada>
+  ns0:idmun "10" ;
+  ns0:nome "Mealhada" ;
+  ns0:regiao "Centro" ;
+  ns0:area "111.14" ;
+  ns0:pop "22215" ;
+  ns0:denspop "200" ;
+  ns0:interesse "Palácio do Buçaco" .
+
+<https://municipio/Murtosa>
+  ns0:idmun "11" ;
+  ns0:nome "Murtosa" ;
+  ns0:regiao "Centro" ;
+  ns0:area "73.65" ;
+  ns0:pop "9847" ;
+  ns0:denspop "134" .
+
+<https://municipio/Oliveira_de_Azemeis>
+  ns0:idmun "12" ;
+  ns0:nome "Oliveira de Azemeis" ;
+  ns0:regiao "Norte" ;
+  ns0:area "163.41" ;
+  ns0:pop "71210" ;
+  ns0:denspop "436" .
+
+<https://municipio/Oliveira_do_Bairro>
+  ns0:idmun "13" ;
+  ns0:nome "Oliveira do Bairro" ;
+  ns0:regiao "Centro" ;
+  ns0:area "87.28" ;
+  ns0:pop "23504" ;
+  ns0:denspop "269" .
+
+<https://municipio/Ovar>
+  ns0:idmun "14" ;
+  ns0:nome "Ovar" ;
+  ns0:regiao "Centro" ;
+  ns0:area "147.52" ;
+  ns0:pop "57983" ;
+  ns0:denspop "393" ;
+  ns0:interesse "Pão-de-ló de Ovar" .
+
+<https://municipio/Santa_Maria_da_feira>
+  ns0:idmun "15" ;
+  ns0:nome "Santa Maria da Feira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "213.45" ;
+  ns0:pop "147406" ;
+  ns0:denspop "691" ;
+  ns0:interesse "Castelo de Santa Maria da Feira" .
+
+<https://municipio/Sao_Joao_da_Madeira>
+  ns0:idmun "16" ;
+  ns0:nome "São João da Madeira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "8.11" ;
+  ns0:pop "21762" ;
+  ns0:denspop "2683" .
+
+<https://municipio/Sever_do_Vouga>
+  ns0:idmun "17" ;
+  ns0:nome "Sever do Vouga" ;
+  ns0:regiao "Centro" ;
+  ns0:area "129.85" ;
+  ns0:pop "12643" ;
+  ns0:denspop "97" .
+
+<https://municipio/Vagos>
+  ns0:idmun "19" ;
+  ns0:nome "Vagos" ;
+  ns0:regiao "Centro" ;
+  ns0:area "165.29" ;
+  ns0:pop "24107" ;
+  ns0:denspop "146" .
+
+<https://municipio/Vale_de_Cambra>
+  ns0:idmun "19" ;
+  ns0:nome "Vale de Cambra" ;
+  ns0:regiao "Norte" ;
+  ns0:area "146.21" ;
+  ns0:pop "24360" ;
+  ns0:denspop "167" .
+
+<https://municipio/Aljustrel>
+  ns0:idmun "20" ;
+  ns0:nome "Aljustrel" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "455.66" ;
+  ns0:pop "9460" ;
+  ns0:denspop "21" .
+
+<https://municipio/Almodovar>
+  ns0:idmun "21" ;
+  ns0:nome "Almodovar" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "775.88" ;
+  ns0:pop "7163" ;
+  ns0:denspop "21" .
+
+<https://municipio/Alvito>
+  ns0:idmun "22" ;
+  ns0:nome "Alvito" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "264.81" ;
+  ns0:pop "2720" ;
+  ns0:denspop "10" ;
+  ns0:interesse "Alvito" .
+
+<https://municipio/Barrancos>
+  ns0:idmun "23" ;
+  ns0:nome "Barrancos" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "168.43" ;
+  ns0:pop "1697" ;
+  ns0:denspop "10" .
+
+<https://municipio/Beja>
+  ns0:idmun "24" ;
+  ns0:nome "Beja" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1147.14" ;
+  ns0:pop "34387" ;
+  ns0:denspop "30" ;
+  ns0:interesse "Gaspacho" .
+
+<https://municipio/Castro_Verde>
+  ns0:idmun "25" ;
+  ns0:nome "Castro Verde" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "567.31" ;
+  ns0:pop "7782" ;
+  ns0:denspop "14" .
+
+<https://municipio/Cuba>
+  ns0:idmun "26" ;
+  ns0:nome "Cuba" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "171.32" ;
+  ns0:pop "4674" ;
+  ns0:denspop "27" .
+
+<https://municipio/Ferreira_do_Alentejo>
+  ns0:idmun "27" ;
+  ns0:nome "Ferreira do Alentejo" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "648.45" ;
+  ns0:pop "8132" ;
+  ns0:denspop "13" .
+
+<https://municipio/Mertola>
+  ns0:idmun "28" ;
+  ns0:nome "Mertola" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1279.40" ;
+  ns0:pop "7332" ;
+  ns0:denspop "6" ;
+  ns0:interesse "Parque Natural do Vale do Guadiana" .
+
+<https://municipio/Moura>
+  ns0:idmun "29" ;
+  ns0:nome "Moura" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "957.73" ;
+  ns0:pop "16120" ;
+  ns0:denspop "17" .
+
+<https://municipio/Odemira>
+  ns0:idmun "30" ;
+  ns0:nome "Odemira" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1719.73" ;
+  ns0:pop "25365" ;
+  ns0:denspop "15" ;
+  ns0:interesse "Praia da Zambujeira do Mar" .
+
+<https://municipio/Ourique>
+  ns0:idmun "31" ;
+  ns0:nome "Ourique" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "660.15" ;
+  ns0:pop "5426" ;
+  ns0:denspop "8" .
+
+<https://municipio/Serpa>
+  ns0:idmun "32" ;
+  ns0:nome "Serpa" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1103.74" ;
+  ns0:pop "15455" ;
+  ns0:denspop "14" .
+
+<https://municipio/Vidigueira>
+  ns0:idmun "33" ;
+  ns0:nome "Vidigueira" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "314.20" ;
+  ns0:pop "5886" ;
+  ns0:denspop "19" .
+
+<https://municipio/Amares>
+  ns0:idmun "34" ;
+  ns0:nome "Amares" ;
+  ns0:regiao "Norte" ;
+  ns0:area "81.95" ;
+  ns0:pop "19853" ;
+  ns0:denspop "242" .
+
+<https://municipio/Barcelos>
+  ns0:idmun "35" ;
+  ns0:nome "Barcelos" ;
+  ns0:regiao "Norte" ;
+  ns0:area "378.90" ;
+  ns0:pop "124555" ;
+  ns0:denspop "329" ;
+  ns0:interesse "Galo de Barcelos" .
+
+<https://municipio/Braga>
+  ns0:idmun "36" ;
+  ns0:nome "Braga" ;
+  ns0:regiao "Norte" ;
+  ns0:area "183.40" ;
+  ns0:pop "176154" ;
+  ns0:denspop "960" ;
+  ns0:interesse "Bacalhau à Narcisa" .
+
+<https://municipio/Cabeceiras_de_Basto>
+  ns0:idmun "37" ;
+  ns0:nome "Cabeceiras de Basto" ;
+  ns0:regiao "Norte" ;
+  ns0:area "241.82" ;
+  ns0:pop "17635" ;
+  ns0:denspop "73" .
+
+<https://municipio/Celorico_de_Basto>
+  ns0:idmun "38" ;
+  ns0:nome "Celorico de Basto" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "181.07" ;
+  ns0:pop "19767" ;
+  ns0:denspop "109" .
+
+<https://municipio/Esposende>
+  ns0:idmun "39" ;
+  ns0:nome "Esposende" ;
+  ns0:regiao "Norte" ;
+  ns0:area "95.41" ;
+  ns0:pop "35552" ;
+  ns0:denspop "373" .
+
+<https://municipio/Fafe>
+  ns0:idmun "40" ;
+  ns0:nome "Fafe" ;
+  ns0:regiao "Norte" ;
+  ns0:area "219.08" ;
+  ns0:pop "53600" ;
+  ns0:denspop "245" .
+
+<https://municipio/Guimaraes>
+  ns0:idmun "41" ;
+  ns0:nome "Guimarães" ;
+  ns0:regiao "Norte" ;
+  ns0:area "240.95" ;
+  ns0:pop "162363" ;
+  ns0:denspop "675" ;
+  ns0:interesse "Paço dos Duques de Bragança" .
+
+<https://municipio/Povoa_de_Lanhoso>
+  ns0:idmun "42" ;
+  ns0:nome "Póvoa de Lanhoso" ;
+  ns0:regiao "Norte" ;
+  ns0:area "134.65" ;
+  ns0:pop "24230" ;
+  ns0:denspop "184" .
+
+<https://municipio/Terras_de_Bouro>
+  ns0:idmun "43" ;
+  ns0:nome "Terras de Bouro" ;
+  ns0:regiao "Norte" ;
+  ns0:area "277.46" ;
+  ns0:pop "7506" ;
+  ns0:denspop "27" ;
+  ns0:interesse "Cascata do Arado" .
+
+<https://municipio/Vieira_do_Minho>
+  ns0:idmun "44" ;
+  ns0:nome "Vieira do Minho" ;
+  ns0:regiao "Norte" ;
+  ns0:area "216.44" ;
+  ns0:pop "14077" ;
+  ns0:denspop "65" ;
+  ns0:interesse "Santuariá Nossa Senhora da Lapa" .
+
+<https://municipio/Vila_Nova_de_Famalicao>
+  ns0:idmun "45" ;
+  ns0:nome "Vila Nova de Famalicão" ;
+  ns0:regiao "Norte" ;
+  ns0:area "201.59" ;
+  ns0:pop "134969" ;
+  ns0:denspop "669" .
+
+<https://municipio/Vila_Verde>
+  ns0:idmun "46" ;
+  ns0:nome "Vila Verde" ;
+  ns0:regiao "Norte" ;
+  ns0:area "228.67" ;
+  ns0:pop "49171" ;
+  ns0:denspop "215" .
+
+<https://municipio/Vizela>
+  ns0:idmun "47" ;
+  ns0:nome "Vizela" ;
+  ns0:regiao "Norte" ;
+  ns0:area "24.70" ;
+  ns0:pop "24477" ;
+  ns0:denspop "1023" .
+
+<https://municipio/Alfandega_da_Fe>
+  ns0:idmun "48" ;
+  ns0:nome "Alfandega da Fé" ;
+  ns0:regiao "Norte" ;
+  ns0:area "321.96" ;
+  ns0:pop "5368" ;
+  ns0:denspop "17" .
+
+<https://municipio/Braganca>
+  ns0:idmun "49" ;
+  ns0:nome "Bragança" ;
+  ns0:regiao "Norte" ;
+  ns0:area "1173.6" ;
+  ns0:pop "34375" ;
+  ns0:denspop "29" ;
+  ns0:interesse "Castelo de Bragança" .
+
+<https://municipio/Carrazeda_de_Ansiaes>
+  ns0:idmun "50" ;
+  ns0:nome "Carrazeda de Ansiães" ;
+  ns0:regiao "Norte" ;
+  ns0:area "280.91" ;
+  ns0:pop "6744" ;
+  ns0:denspop "24" .
+
+<https://municipio/Freixo_de_Espada_a_Cinta>
+  ns0:idmun "51" ;
+  ns0:nome "Freixo de Espada a Cinta" ;
+  ns0:regiao "Norte" ;
+  ns0:area "244.49" ;
+  ns0:pop "3834" ;
+  ns0:denspop "16" ;
+  ns0:interesse "Gravuras Ruprestres de Mazouco" .
+
+<https://municipio/Macedo_de_Cavaleiros>
+  ns0:idmun "52" ;
+  ns0:nome "Macedo de Cavaleiros" ;
+  ns0:regiao "Norte" ;
+  ns0:area "699.27" ;
+  ns0:pop "16766" ;
+  ns0:denspop "23" .
+
+<https://municipio/Miranda_do_Douro>
+  ns0:idmun "53" ;
+  ns0:nome "Miranda do Douro" ;
+  ns0:regiao "Norte" ;
+  ns0:area "488.36" ;
+  ns0:pop "7295" ;
+  ns0:denspop "15" ;
+  ns0:interesse "Pauliteiros de Miranda" .
+
+<https://municipio/Mirandela>
+  ns0:idmun "54" ;
+  ns0:nome "Mirandela" ;
+  ns0:regiao "Norte" ;
+  ns0:area "658.97" ;
+  ns0:pop "25458" ;
+  ns0:denspop "39" ;
+  ns0:interesse "Alheira" .
+
+<https://municipio/Mogadouro>
+  ns0:idmun "55" ;
+  ns0:nome "Mogadouro" ;
+  ns0:regiao "Norte" ;
+  ns0:area "757.98" ;
+  ns0:pop "10289" ;
+  ns0:denspop "14" ;
+  ns0:interesse "Castelo de Mogadouro" .
+
+<https://municipio/Torre_de_Moncorvo>
+  ns0:idmun "56" ;
+  ns0:nome "Torre de Moncorvo" ;
+  ns0:regiao "Norte" ;
+  ns0:area "532.77" ;
+  ns0:pop "8829" ;
+  ns0:denspop "17" .
+
+<https://municipio/Vila_Flor>
+  ns0:idmun "57" ;
+  ns0:nome "Vila Flor" ;
+  ns0:regiao "Norte" ;
+  ns0:area "265.52" ;
+  ns0:pop "7432" ;
+  ns0:denspop "28" .
+
+<https://municipio/Vimioso>
+  ns0:idmun "58" ;
+  ns0:nome "Vimioso" ;
+  ns0:regiao "Norte" ;
+  ns0:area "481.47" ;
+  ns0:pop "4857" ;
+  ns0:denspop "10" .
+
+<https://municipio/Vinhais>
+  ns0:idmun "59" ;
+  ns0:nome "Vinhais" ;
+  ns0:regiao "Norte" ;
+  ns0:area "694.68" ;
+  ns0:pop "9388" ;
+  ns0:denspop "14" ;
+  ns0:interesse "Butelo" .
+
+<https://municipio/Belmonte>
+  ns0:idmun "60" ;
+  ns0:nome "Belmonte" ;
+  ns0:regiao "Centro" ;
+  ns0:area "114.56" ;
+  ns0:pop "6859" ;
+  ns0:denspop "68" ;
+  ns0:interesse "Castelo de Belmonte" .
+
+<https://municipio/Castelo_Branco>
+  ns0:idmun "61" ;
+  ns0:nome "Castelo_Branco" ;
+  ns0:regiao "Centro" ;
+  ns0:area "1438.16" ;
+  ns0:pop "56109" ;
+  ns0:denspop "37" ;
+  ns0:interesse "Castelo de Castelo Branco" .
+
+<https://municipio/Covilha>
+  ns0:idmun "62" ;
+  ns0:nome "Covilha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "555.61" ;
+  ns0:pop "51797" ;
+  ns0:denspop "93" ;
+  ns0:interesse "Aldeia de São Francisco de Assis" .
+
+<https://municipio/Fundao>
+  ns0:idmun "63" ;
+  ns0:nome "Fundão" ;
+  ns0:regiao "Centro" ;
+  ns0:area "700.13" ;
+  ns0:pop "29213" ;
+  ns0:denspop "44" ;
+  ns0:interesse "Cereija do Fundão" .
+
+<https://municipio/Idanha-a-Nova>
+  ns0:idmun "64" ;
+  ns0:nome "Idanha-a-Nova" ;
+  ns0:regiao "Centro" ;
+  ns0:area "1412.73" ;
+  ns0:pop "9716" ;
+  ns0:denspop "7" .
+
+<https://municipio/Oleiros>
+  ns0:idmun "65" ;
+  ns0:nome "Oleiros" ;
+  ns0:regiao "Centro" ;
+  ns0:area "465.52" ;
+  ns0:pop "5721" ;
+  ns0:denspop "12" .
+
+<https://municipio/Penamacor>
+  ns0:idmun "66" ;
+  ns0:nome "Penamacor" ;
+  ns0:regiao "Centro" ;
+  ns0:area "555.52" ;
+  ns0:pop "5682" ;
+  ns0:denspop "10" ;
+  ns0:interesse "Reserva Natural da Serra da Malcata" .
+
+<https://municipio/Proenca-a-Nova>
+  ns0:idmun "67" ;
+  ns0:nome "Proença-a-Nova" ;
+  ns0:regiao "Centro" ;
+  ns0:area "395.26" ;
+  ns0:pop "8314" ;
+  ns0:denspop "22" .
+
+<https://municipio/Serta>
+  ns0:idmun "68" ;
+  ns0:nome "Serta" ;
+  ns0:regiao "Centro" ;
+  ns0:area "446.7" ;
+  ns0:pop "15880" ;
+  ns0:denspop "35" ;
+  ns0:interesse "Castelo da Sertã" .
+
+<https://municipio/Vila_de_Rei>
+  ns0:idmun "69" ;
+  ns0:nome "Vila de Rei" ;
+  ns0:regiao "Centro" ;
+  ns0:area "191.26" ;
+  ns0:pop "3452" ;
+  ns0:denspop "16" .
+
+<https://municipio/Vila_Velha_de_Rodao>
+  ns0:idmun "70" ;
+  ns0:nome "Vila Velha de Rodão" ;
+  ns0:regiao "Centro" ;
+  ns0:area "329.93" ;
+  ns0:pop "3521" ;
+  ns0:denspop "10" ;
+  ns0:interesse "Postas de Rodão" .
+
+<https://municipio/Arganil>
+  ns0:idmun "101" ;
+  ns0:nome "Arganil" ;
+  ns0:regiao "Centro" ;
+  ns0:area "332.84" ;
+  ns0:pop "11596" ;
+  ns0:denspop "34.8" .
+
+<https://municipio/Cantanhede>
+  ns0:idmun "102" ;
+  ns0:nome "Cantanhede" ;
+  ns0:regiao "Centro" ;
+  ns0:area "390.88" ;
+  ns0:pop "36389" ;
+  ns0:denspop "34.8" .
+
+<https://municipio/Coimbra>
+  ns0:idmun "103" ;
+  ns0:nome "Coimbra" ;
+  ns0:regiao "Centro" ;
+  ns0:area "319.4" ;
+  ns0:pop "143396" ;
+  ns0:denspop "449.0" .
+
+<https://municipio/Condeixa-a-Nova>
+  ns0:idmun "104" ;
+  ns0:nome "Condeixa-a-Nova" ;
+  ns0:regiao "Centro" ;
+  ns0:area "138.68" ;
+  ns0:pop "17078" ;
+  ns0:denspop "123.1" .
+
+<https://municipio/Figueira_da_Foz>
+  ns0:idmun "105" ;
+  ns0:nome "Figueira da Foz" ;
+  ns0:regiao "Centro" ;
+  ns0:area "379.05" ;
+  ns0:pop "62125" ;
+  ns0:denspop "163.9" .
+
+<https://municipio/Gois>
+  ns0:idmun "106" ;
+  ns0:nome "Gois" ;
+  ns0:regiao "Centro" ;
+  ns0:area "263.30" ;
+  ns0:pop "4260" ;
+  ns0:denspop "16.2" .
+
+<https://municipio/Lousa>
+  ns0:idmun "107" ;
+  ns0:nome "Lousa" ;
+  ns0:regiao "Centro" ;
+  ns0:area "138.40" ;
+  ns0:pop "17604" ;
+  ns0:denspop "127.2" .
+
+<https://municipio/Mira>
+  ns0:idmun "108" ;
+  ns0:nome "Mira" ;
+  ns0:regiao "Centro" ;
+  ns0:area "124.03" ;
+  ns0:pop "12465" ;
+  ns0:denspop "100.5" .
+
+<https://municipio/Miranda_do_Corvo>
+  ns0:idmun "109" ;
+  ns0:nome "Miranda do Corvo" ;
+  ns0:regiao "Centro" ;
+  ns0:area "126.38" ;
+  ns0:pop "13098" ;
+  ns0:denspop "103.6" .
+
+<https://municipio/Montemor-o-Velho>
+  ns0:idmun "110" ;
+  ns0:nome "Montemor-o-Velho" ;
+  ns0:regiao "Centro" ;
+  ns0:area "228.96" ;
+  ns0:pop "26171" ;
+  ns0:denspop "114.3" .
+
+<https://municipio/Oliveira_do_Hospital>
+  ns0:idmun "111" ;
+  ns0:nome "Oliveira do Hospital" ;
+  ns0:regiao "Centro" ;
+  ns0:area "234.52" ;
+  ns0:pop "20855" ;
+  ns0:denspop "88.9" .
+
+<https://municipio/Pampilhosa_da_Serra>
+  ns0:idmun "112" ;
+  ns0:nome "Pampilhosa da Serra" ;
+  ns0:regiao "Centro" ;
+  ns0:area "396.46" ;
+  ns0:pop "4481" ;
+  ns0:denspop "11.3" .
+
+<https://municipio/Penacova>
+  ns0:idmun "113" ;
+  ns0:nome "Penacova" ;
+  ns0:regiao "Centro" ;
+  ns0:area "216.73" ;
+  ns0:pop "15251" ;
+  ns0:denspop "70.4" .
+
+<https://municipio/Penela>
+  ns0:idmun "114" ;
+  ns0:nome "Penela" ;
+  ns0:regiao "Centro" ;
+  ns0:area "132.49" ;
+  ns0:pop "5983" ;
+  ns0:denspop "45.2" .
+
+<https://municipio/Soure>
+  ns0:idmun "115" ;
+  ns0:nome "Soure" ;
+  ns0:regiao "Centro" ;
+  ns0:area "263.91" ;
+  ns0:pop "19245" ;
+  ns0:denspop "72.9" .
+
+<https://municipio/Tabua>
+  ns0:idmun "116" ;
+  ns0:nome "Tabua" ;
+  ns0:regiao "Centro" ;
+  ns0:area "199.79" ;
+  ns0:pop "12071" ;
+  ns0:denspop "60.4" .
+
+<https://municipio/Vila_Nova_de_Poiares>
+  ns0:idmun "117" ;
+  ns0:nome "Vila Nova de Poiares" ;
+  ns0:regiao "Centro" ;
+  ns0:area "84.45" ;
+  ns0:pop "7281" ;
+  ns0:denspop "86.2" .
+
+<https://municipio/Alandroal>
+  ns0:idmun "118" ;
+  ns0:nome "Alandroal" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "542.68" ;
+  ns0:pop "5843" ;
+  ns0:denspop "10.8" .
+
+<https://municipio/Arraiolos>
+  ns0:idmun "119" ;
+  ns0:nome "Arraiolos" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "683.75" ;
+  ns0:pop "7363" ;
+  ns0:denspop "10.8" .
+
+<https://municipio/Borba>
+  ns0:idmun "120" ;
+  ns0:nome "Borba" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "145.19" ;
+  ns0:pop "7333" ;
+  ns0:denspop "50.5" .
+
+<https://municipio/Estremoz>
+  ns0:idmun "121" ;
+  ns0:nome "Estremoz" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "513.80" ;
+  ns0:pop "14318" ;
+  ns0:denspop "27.9" .
+
+<https://municipio/Evora>
+  ns0:idmun "122" ;
+  ns0:nome "Evora" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1307.08" ;
+  ns0:pop "56596" ;
+  ns0:denspop "43.3" .
+
+<https://municipio/Montemor-o-Novo>
+  ns0:idmun "123" ;
+  ns0:nome "Montemor-o-Novo" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1232.97" ;
+  ns0:pop "17437" ;
+  ns0:denspop "14.1" .
+
+<https://municipio/Mora>
+  ns0:idmun "124" ;
+  ns0:nome "Mora" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "443.95" ;
+  ns0:pop "4978" ;
+  ns0:denspop "11.2" .
+
+<https://municipio/Mourao>
+  ns0:idmun "125" ;
+  ns0:nome "Mourao" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "278.63" ;
+  ns0:pop "2663" ;
+  ns0:denspop "9.6" .
+
+<https://municipio/Portel>
+  ns0:idmun "126" ;
+  ns0:nome "Portel" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "601.01" ;
+  ns0:pop "6428" ;
+  ns0:denspop "10.7" .
+
+<https://municipio/Redondo>
+  ns0:idmun "127" ;
+  ns0:nome "Redondo" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "369.51" ;
+  ns0:pop "7031" ;
+  ns0:denspop "19" .
+
+<https://municipio/Reguengos_de_Monsaraz>
+  ns0:idmun "128" ;
+  ns0:nome "Reguengos de Monsaraz" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "464.00" ;
+  ns0:pop "10828" ;
+  ns0:denspop "23.3" .
+
+<https://municipio/Vendas_Novas>
+  ns0:idmun "129" ;
+  ns0:nome "Vendas Novas" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "222.39" ;
+  ns0:pop "11846" ;
+  ns0:denspop "53.3" .
+
+<https://municipio/Viana_do_Alentejo>
+  ns0:idmun "130" ;
+  ns0:nome "Viana do Alentejo" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "393.67" ;
+  ns0:pop "5743" ;
+  ns0:denspop "14.6" .
+
+<https://municipio/Vila_Vicosa>
+  ns0:idmun "131" ;
+  ns0:nome "Vila Viçosa" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "194.86" ;
+  ns0:pop "6319" ;
+  ns0:denspop "32.4" .
+
+<https://municipio/Albufeira>
+  ns0:idmun "132" ;
+  ns0:nome "Albufeira" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "140.66" ;
+  ns0:pop "52828" ;
+  ns0:denspop "375.6" .
+
+<https://municipio/Alcoutim>
+  ns0:idmun "133" ;
+  ns0:nome "Alcoutim" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "575.36" ;
+  ns0:pop "2917" ;
+  ns0:denspop "5.1" .
+
+<https://municipio/Aljezur>
+  ns0:idmun "134" ;
+  ns0:nome "Aljezur" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "323.50" ;
+  ns0:pop "5884" ;
+  ns0:denspop "18.2" .
+
+<https://municipio/Castro_Marim>
+  ns0:idmun "135" ;
+  ns0:nome "Castro Marim" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "300.84" ;
+  ns0:pop "6747" ;
+  ns0:denspop "22.4" .
+
+<https://municipio/Faro>
+  ns0:idmun "136" ;
+  ns0:nome "Faro" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "202.57" ;
+  ns0:pop "64560" ;
+  ns0:denspop "319.8" .
+
+<https://municipio/Lagoa>
+  ns0:idmun "137", "361" ;
+  ns0:nome "Lagoa" ;
+  ns0:regiao "Algarve", "Regiao Autonoma dos Acores" ;
+  ns0:area "88.25", "45.6" ;
+  ns0:pop "22975", "14430" ;
+  ns0:denspop "260.3", "316.4" .
+
+<https://municipio/Lagos>
+  ns0:idmun "138" ;
+  ns0:nome "Lagos" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "212.99" ;
+  ns0:pop "31049" ;
+  ns0:denspop "145.8" .
+
+<https://municipio/Loule>
+  ns0:idmun "139" ;
+  ns0:nome "Loulé" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "763.67" ;
+  ns0:pop "70622" ;
+  ns0:denspop "92.5" .
+
+<https://municipio/Monchique>
+  ns0:idmun "140" ;
+  ns0:nome "Monchique" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "395.30" ;
+  ns0:pop "6045" ;
+  ns0:denspop "15.3" .
+
+<https://municipio/Olhao>
+  ns0:idmun "141" ;
+  ns0:nome "Olhão" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "130.86" ;
+  ns0:pop "45396" ;
+  ns0:denspop "346.9" .
+
+<https://municipio/Portimao>
+  ns0:idmun "142" ;
+  ns0:nome "Portimão" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "182.06" ;
+  ns0:pop "55614" ;
+  ns0:denspop "305.5" .
+
+<https://municipio/Sao_Bras_de_Alportel>
+  ns0:idmun "143" ;
+  ns0:nome "São Brás de Alportel" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "153.37" ;
+  ns0:pop "10662" ;
+  ns0:denspop "69.52" .
+
+<https://municipio/Silves>
+  ns0:idmun "144" ;
+  ns0:nome "Silves" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "680.06" ;
+  ns0:pop "37126" ;
+  ns0:denspop "54.6" .
+
+<https://municipio/Tavira>
+  ns0:idmun "145" ;
+  ns0:nome "Tavira" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "606.97" ;
+  ns0:pop "26167" ;
+  ns0:denspop "43.1" .
+
+<https://municipio/Vila_do_Bispo>
+  ns0:idmun "146" ;
+  ns0:nome "Vila do Bispo" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "179.06" ;
+  ns0:pop "5258" ;
+  ns0:denspop "29.4" .
+
+<https://municipio/Vila_Real_de_Santo_Antonio>
+  ns0:idmun "147" ;
+  ns0:nome "Vila Real de Santo António" ;
+  ns0:regiao "Algarve" ;
+  ns0:area "61.25" ;
+  ns0:pop "19156" ;
+  ns0:denspop "312.8" .
+
+<https://municipio/Aguiar_da_Beira>
+  ns0:idmun "148" ;
+  ns0:nome "Aguiar da Beira" ;
+  ns0:regiao "Centro" ;
+  ns0:area "206.77" ;
+  ns0:pop "5473" ;
+  ns0:denspop "26.5" .
+
+<https://municipio/Almeida>
+  ns0:idmun "149" ;
+  ns0:nome "Almeida" ;
+  ns0:regiao "Centro" ;
+  ns0:area "517.99" ;
+  ns0:pop "7242" ;
+  ns0:denspop "14" .
+
+<https://municipio/Celorico_da_Beira>
+  ns0:idmun "150" ;
+  ns0:nome "Celorico da Beira" ;
+  ns0:regiao "Centro" ;
+  ns0:area "247.22" ;
+  ns0:pop "7693" ;
+  ns0:denspop "31.1" .
+
+<https://municipio/Figueira_de_Castelo_Rodrigo>
+  ns0:idmun "151" ;
+  ns0:nome "Figueira de Castelo Rodrigo" ;
+  ns0:regiao "Centro" ;
+  ns0:area "508.58" ;
+  ns0:pop "6260" ;
+  ns0:denspop "12.3" .
+
+<https://municipio/Fornos_de_Algodres>
+  ns0:idmun "152" ;
+  ns0:nome "Fornos de Algodres" ;
+  ns0:regiao "Centro" ;
+  ns0:area "131.45" ;
+  ns0:pop "4989" ;
+  ns0:denspop "38" .
+
+<https://municipio/Gouveia>
+  ns0:idmun "153" ;
+  ns0:nome "Gouveia" ;
+  ns0:regiao "Centro" ;
+  ns0:area "300.61" ;
+  ns0:pop "14046" ;
+  ns0:denspop "46.7" .
+
+<https://municipio/Guarda>
+  ns0:idmun "154" ;
+  ns0:nome "Guarda" ;
+  ns0:regiao "Centro" ;
+  ns0:area "712.1" ;
+  ns0:pop "42541" ;
+  ns0:denspop "59.7" .
+
+<https://municipio/Manteigas>
+  ns0:idmun "155" ;
+  ns0:nome "Manteigas" ;
+  ns0:regiao "Centro" ;
+  ns0:area "121.98" ;
+  ns0:pop "3430" ;
+  ns0:denspop "28.1" .
+
+<https://municipio/Meda>
+  ns0:idmun "156" ;
+  ns0:nome "Meda" ;
+  ns0:regiao "Centro" ;
+  ns0:area "286.05" ;
+  ns0:pop "5202" ;
+  ns0:denspop "18.2" .
+
+<https://municipio/Pinhel>
+  ns0:idmun "157" ;
+  ns0:nome "Pinhel" ;
+  ns0:regiao "Centro" ;
+  ns0:area "484.52" ;
+  ns0:pop "9627" ;
+  ns0:denspop "19.9" .
+
+<https://municipio/Sabugal>
+  ns0:idmun "158" ;
+  ns0:nome "Sabugal" ;
+  ns0:regiao "Centro" ;
+  ns0:area "822.70" ;
+  ns0:pop "12544" ;
+  ns0:denspop "15.2" .
+
+<https://municipio/Seia>
+  ns0:idmun "159" ;
+  ns0:nome "Seia" ;
+  ns0:regiao "Centro" ;
+  ns0:area "435.69" ;
+  ns0:pop "24702" ;
+  ns0:denspop "56.7" .
+
+<https://municipio/Trancoso>
+  ns0:idmun "160" ;
+  ns0:nome "Trancoso" ;
+  ns0:regiao "Centro" ;
+  ns0:area "361.52" ;
+  ns0:pop "9878" ;
+  ns0:denspop "27.3" .
+
+<https://municipio/Vila_Nova_de_Foz_Coa>
+  ns0:idmun "161" ;
+  ns0:nome "Vila Nova de Foz Côa" ;
+  ns0:regiao "Norte" ;
+  ns0:area "398.15" ;
+  ns0:pop "7312" ;
+  ns0:denspop "18.4" .
+
+<https://municipio/Alcobaca>
+  ns0:idmun "162" ;
+  ns0:nome "Alcobaça" ;
+  ns0:regiao "Centro" ;
+  ns0:area "408.14" ;
+  ns0:pop "56693" ;
+  ns0:denspop "138.9" .
+
+<https://municipio/Alvaiazere>
+  ns0:idmun "163" ;
+  ns0:nome "Alvaiázere" ;
+  ns0:regiao "Centro" ;
+  ns0:area "160.48" ;
+  ns0:pop "7287" ;
+  ns0:denspop "45.4" .
+
+<https://municipio/Ansiao>
+  ns0:idmun "164" ;
+  ns0:nome "Ansião" ;
+  ns0:regiao "Centro" ;
+  ns0:area "176.09" ;
+  ns0:pop "13128" ;
+  ns0:denspop "74.6" .
+
+<https://municipio/Batalha>
+  ns0:idmun "165" ;
+  ns0:nome "Batalha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "103.42" ;
+  ns0:pop "15805" ;
+  ns0:denspop "152.8" .
+
+<https://municipio/Bombarral>
+  ns0:idmun "166" ;
+  ns0:nome "Bombarral" ;
+  ns0:regiao "Centro" ;
+  ns0:area "91.29" ;
+  ns0:pop "13193" ;
+  ns0:denspop "144.5" .
+
+<https://municipio/Caldas_da_Rainha>
+  ns0:idmun "168" ;
+  ns0:nome "Caldas da Rainha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "255.69" ;
+  ns0:pop "51729" ;
+  ns0:denspop "202.3" .
+
+<https://municipio/Castanheira_de_Pera>
+  ns0:idmun "169" ;
+  ns0:nome "Castanheira de Pêra" ;
+  ns0:regiao "Centro" ;
+  ns0:area "66.78" ;
+  ns0:pop "3191" ;
+  ns0:denspop "47.8" .
+
+<https://municipio/Figueiro_dos_Vinhos>
+  ns0:idmun "170" ;
+  ns0:nome "Figueiró dos Vinhos" ;
+  ns0:regiao "Centro" ;
+  ns0:area "173.44" ;
+  ns0:pop "6169" ;
+  ns0:denspop "35.6" .
+
+<https://municipio/Leiria>
+  ns0:idmun "171" ;
+  ns0:nome "Leiria" ;
+  ns0:regiao "Centro" ;
+  ns0:area "565.09" ;
+  ns0:pop "126897" ;
+  ns0:denspop "224.6" .
+
+<https://municipio/Marinha_Grande>
+  ns0:idmun "172" ;
+  ns0:nome "Marinha Grande" ;
+  ns0:regiao "Centro" ;
+  ns0:area "187.25" ;
+  ns0:pop "38681" ;
+  ns0:denspop "206.6" .
+
+<https://municipio/Nazare>
+  ns0:idmun "173" ;
+  ns0:nome "Nazaré" ;
+  ns0:regiao "Centro" ;
+  ns0:area "82.43" ;
+  ns0:pop "15158" ;
+  ns0:denspop "183.9" .
+
+<https://municipio/Óbidos>
+  ns0:idmun "174" ;
+  ns0:nome "Óbidos" ;
+  ns0:regiao "Centro" ;
+  ns0:area "141.55" ;
+  ns0:pop "11772" ;
+  ns0:denspop "83.2" .
+
+<https://municipio/Pedrogao_Grande>
+  ns0:idmun "175" ;
+  ns0:nome "Pedrogão Grande" ;
+  ns0:regiao "Centro" ;
+  ns0:area "128.75" ;
+  ns0:pop "3915" ;
+  ns0:denspop "30.4" .
+
+<https://municipio/Peniche>
+  ns0:idmun "175" ;
+  ns0:nome "Peniche" ;
+  ns0:regiao "Centro" ;
+  ns0:area "77.55" ;
+  ns0:pop "27753" ;
+  ns0:denspop "357.9" .
+
+<https://municipio/Pombal>
+  ns0:idmun "176" ;
+  ns0:nome "Pombal" ;
+  ns0:regiao "Centro" ;
+  ns0:area "626.00" ;
+  ns0:pop "55217" ;
+  ns0:denspop "88.2" .
+
+<https://municipio/Porto_de_Mos>
+  ns0:idmun "177" ;
+  ns0:nome "Porto de Mós" ;
+  ns0:regiao "Centro" ;
+  ns0:area "261.83" ;
+  ns0:pop "24342" ;
+  ns0:denspop "93" .
+
+<https://municipio/Alenquer>
+  ns0:idmun "201" ;
+  ns0:nome "Alenquer" ;
+  ns0:regiao "Centro" ;
+  ns0:area "304.22" ;
+  ns0:pop "43267" ;
+  ns0:denspop "142.2" .
+
+<https://municipio/Amadora>
+  ns0:idmun "202" ;
+  ns0:nome "Amadora" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "23.79" ;
+  ns0:pop "175136" ;
+  ns0:denspop "7361.7" .
+
+<https://municipio/Arruada_dos_Vinhos>
+  ns0:idmun "203" ;
+  ns0:nome "Arruada dos Vinhos" ;
+  ns0:regiao "Centro" ;
+  ns0:area "77.96" ;
+  ns0:pop "13391" ;
+  ns0:denspop "171.8" .
+
+<https://municipio/Azambuja>
+  ns0:idmun "204" ;
+  ns0:nome "Azambuja" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "262.66" ;
+  ns0:pop "21814" ;
+  ns0:denspop "83.1" .
+
+<https://municipio/Cadaval>
+  ns0:idmun "205" ;
+  ns0:nome "Cadaval" ;
+  ns0:regiao "Centro" ;
+  ns0:area "174.89" ;
+  ns0:pop "14228" ;
+  ns0:denspop "81.4" .
+
+<https://municipio/Cascais>
+  ns0:idmun "206" ;
+  ns0:nome "Cascais" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "97.40" ;
+  ns0:pop "210889" ;
+  ns0:denspop "2165.18" .
+
+<https://municipio/Lisboa>
+  ns0:idmun "207" ;
+  ns0:nome "Lisboa" ;
+  ns0:regiao "Lisboa" ;
+  ns0:area "100.05" ;
+  ns0:pop "506892" ;
+  ns0:denspop "5066.4" .
+
+<https://municipio/Loures>
+  ns0:idmun "208" ;
+  ns0:nome "Loures" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "167.24" ;
+  ns0:pop "205054" ;
+  ns0:denspop "1226.10" .
+
+<https://municipio/Lourinha>
+  ns0:idmun "209" ;
+  ns0:nome "Lourinha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "147.17" ;
+  ns0:pop "25735" ;
+  ns0:denspop "174.9" .
+
+<https://municipio/Mafra>
+  ns0:idmun "210" ;
+  ns0:nome "Mafra" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "291.66" ;
+  ns0:pop "76685" ;
+  ns0:denspop "262.9" .
+
+<https://municipio/Odivelas>
+  ns0:idmun "211" ;
+  ns0:nome "Odivelas" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "26.54" ;
+  ns0:pop "144549" ;
+  ns0:denspop "446.5" .
+
+<https://municipio/Oeiras>
+  ns0:idmun "212" ;
+  ns0:nome "Oeiras" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "45.88" ;
+  ns0:pop "173149" ;
+  ns0:denspop "3773.95" .
+
+<https://municipio/Sintra>
+  ns0:idmun "213" ;
+  ns0:nome "Sintra" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "319.23" ;
+  ns0:pop "381728" ;
+  ns0:denspop "1195.77" .
+
+<https://municipio/Sobral_de_Monte_Agraco>
+  ns0:idmun "214" ;
+  ns0:nome "Sobral de Monte Agraço" ;
+  ns0:regiao "Centro" ;
+  ns0:area "52.10" ;
+  ns0:pop "10156" ;
+  ns0:denspop "194.9" .
+
+<https://municipio/Torres_Vedras>
+  ns0:idmun "215" ;
+  ns0:nome "Torres Vedras" ;
+  ns0:regiao "Centro" ;
+  ns0:area "407.15" ;
+  ns0:pop "79465" ;
+  ns0:denspop "195.2" .
+
+<https://municipio/Vila_Franca_de_Xira>
+  ns0:idmun "216" ;
+  ns0:nome "Vila Franca de Xira" ;
+  ns0:regiao "Area Metropolitana de Lisboa" ;
+  ns0:area "318.19" ;
+  ns0:pop "136886" ;
+  ns0:denspop "430.2" .
+
+<https://municipio/Alter_do_Chao>
+  ns0:idmun "217" ;
+  ns0:nome "Alter do Chão" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "362.07" ;
+  ns0:pop "3562" ;
+  ns0:denspop "9.8" .
+
+<https://municipio/Arronches>
+  ns0:idmun "218" ;
+  ns0:nome "Arronches" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "314.65" ;
+  ns0:pop "3165" ;
+  ns0:denspop "10.1" .
+
+<https://municipio/Avis>
+  ns0:idmun "219" ;
+  ns0:nome "Avis" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "605.97" ;
+  ns0:pop "4571" ;
+  ns0:denspop "7.5" .
+
+<https://municipio/Campo_Maior>
+  ns0:idmun "220" ;
+  ns0:nome "Campo Maior" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "247.20" ;
+  ns0:pop "8456" ;
+  ns0:denspop "34.2" .
+
+<https://municipio/Castelo_de_Vide>
+  ns0:idmun "221" ;
+  ns0:nome "Castelo de Vide" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "264.91" ;
+  ns0:pop "3407" ;
+  ns0:denspop "12.9" .
+
+<https://municipio/Crato>
+  ns0:idmun "222" ;
+  ns0:nome "Crato" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "398.07" ;
+  ns0:pop "3708" ;
+  ns0:denspop "9.3" .
+
+<https://municipio/Elvas>
+  ns0:idmun "223" ;
+  ns0:nome "Elvas" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "631.29" ;
+  ns0:pop "23078" ;
+  ns0:denspop "36.6" .
+
+<https://municipio/Fronteira>
+  ns0:idmun "224" ;
+  ns0:nome "Fronteira" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "248.60" ;
+  ns0:pop "3410" ;
+  ns0:denspop "13.7" .
+
+<https://municipio/Gaviao>
+  ns0:idmun "225" ;
+  ns0:nome "Gavião" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "294.59" ;
+  ns0:pop "4132" ;
+  ns0:denspop "14" .
+
+<https://municipio/Marvao>
+  ns0:idmun "226" ;
+  ns0:nome "Marvão" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "154.90" ;
+  ns0:pop "35125" ;
+  ns0:denspop "22.7" .
+
+<https://municipio/Monforte>
+  ns0:idmun "227" ;
+  ns0:nome "Monforte" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "420.25" ;
+  ns0:pop "3329" ;
+  ns0:denspop "7.9" .
+
+<https://municipio/Nisa>
+  ns0:idmun "228" ;
+  ns0:nome "Nisa" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "575.68" ;
+  ns0:pop "7450" ;
+  ns0:denspop "12.9" .
+
+<https://municipio/Ponte_de_Sor>
+  ns0:idmun "229" ;
+  ns0:nome "Ponte de Sor" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "839.71" ;
+  ns0:pop "16722" ;
+  ns0:denspop "19.9" .
+
+<https://municipio/Portalegre>
+  ns0:idmun "230" ;
+  ns0:nome "Portalegre" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "447.14" ;
+  ns0:pop "24930" ;
+  ns0:denspop "55.8" .
+
+<https://municipio/Sousel>
+  ns0:idmun "231" ;
+  ns0:nome "Sousel" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "279.32" ;
+  ns0:pop "5762" ;
+  ns0:denspop "20.6" .
+
+<https://municipio/Amarante>
+  ns0:idmun "232" ;
+  ns0:nome "Amarante" ;
+  ns0:regiao "Norte" ;
+  ns0:area "301.33" ;
+  ns0:pop "56264" ;
+  ns0:denspop "186.7" .
+
+<https://municipio/Baiao>
+  ns0:idmun "233" ;
+  ns0:nome "Baiao" ;
+  ns0:regiao "Norte" ;
+  ns0:area "174.53" ;
+  ns0:pop "20522" ;
+  ns0:denspop "117.6" .
+
+<https://municipio/Felgueiras>
+  ns0:idmun "234" ;
+  ns0:nome "Felgueiras" ;
+  ns0:regiao "Norte" ;
+  ns0:area "115.74" ;
+  ns0:pop "58065" ;
+  ns0:denspop "501.7" .
+
+<https://municipio/Gondomar>
+  ns0:idmun "235" ;
+  ns0:nome "Gondomar" ;
+  ns0:regiao "Norte" ;
+  ns0:area "131.86" ;
+  ns0:pop "173159" ;
+  ns0:denspop "1313.2" .
+
+<https://municipio/Lousada>
+  ns0:idmun "236" ;
+  ns0:nome "Lousada" ;
+  ns0:regiao "Norte" ;
+  ns0:area "96.08" ;
+  ns0:pop "47387" ;
+  ns0:denspop "493.2" .
+
+<https://municipio/Maia>
+  ns0:idmun "237" ;
+  ns0:nome "Maia" ;
+  ns0:regiao "Norte" ;
+  ns0:area "82.99" ;
+  ns0:pop "135678" ;
+  ns0:denspop "1634.9" .
+
+<https://municipio/Marco_de_Canaveses>
+  ns0:idmun "238" ;
+  ns0:nome "Marco de Canaveses" ;
+  ns0:regiao "Norte" ;
+  ns0:area "201.89" ;
+  ns0:pop "53450" ;
+  ns0:denspop "264.7" .
+
+<https://municipio/Matosinhos>
+  ns0:idmun "239" ;
+  ns0:nome "Matosinhos" ;
+  ns0:regiao "Norte" ;
+  ns0:area "62.42" ;
+  ns0:pop "175478" ;
+  ns0:denspop "2811.2" .
+
+<https://municipio/Pacos_de_Ferreira>
+  ns0:idmun "240" ;
+  ns0:nome "Paços de Ferreira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "70.99" ;
+  ns0:pop "56340" ;
+  ns0:denspop "93.6" .
+
+<https://municipio/Paredes>
+  ns0:idmun "241" ;
+  ns0:nome "Paredes" ;
+  ns0:regiao "Norte" ;
+  ns0:area "156.76" ;
+  ns0:pop "86854" ;
+  ns0:denspop "554.1" .
+
+<https://municipio/Penafiel>
+  ns0:idmun "242" ;
+  ns0:nome "Penafiel" ;
+  ns0:regiao "Norte" ;
+  ns0:area "212.24" ;
+  ns0:pop "72265" ;
+  ns0:denspop "340.5" .
+
+<https://municipio/Porto>
+  ns0:idmun "243" ;
+  ns0:nome "Porto" ;
+  ns0:regiao "Norte" ;
+  ns0:area "41.42" ;
+  ns0:pop "237591" ;
+  ns0:denspop "5736.1" .
+
+<https://municipio/Povoa_do_Varzim>
+  ns0:idmun "244" ;
+  ns0:nome "Póvoa do Varzim" ;
+  ns0:regiao "Norte" ;
+  ns0:area "82.21" ;
+  ns0:pop "63408" ;
+  ns0:denspop "771.3" .
+
+<https://municipio/Santo_Tirso>
+  ns0:idmun "245" ;
+  ns0:nome "Santo Tirso" ;
+  ns0:regiao "Norte" ;
+  ns0:area "136.6" ;
+  ns0:pop "71530" ;
+  ns0:denspop "523.6" .
+
+<https://municipio/Trofa>
+  ns0:idmun "246" ;
+  ns0:nome "Trofa" ;
+  ns0:regiao "Norte" ;
+  ns0:area "72.02" ;
+  ns0:pop "49897" ;
+  ns0:denspop "692.8" .
+
+<https://municipio/Valongo>
+  ns0:idmun "247" ;
+  ns0:nome "Valongo" ;
+  ns0:regiao "Norte" ;
+  ns0:area "75.12" ;
+  ns0:pop "93858" ;
+  ns0:denspop "1249.4" .
+
+<https://municipio/Vila_do_Conde>
+  ns0:idmun "248" ;
+  ns0:nome "Vila do Conde" ;
+  ns0:regiao "Norte" ;
+  ns0:area "149.03" ;
+  ns0:pop "79533" ;
+  ns0:denspop "533.7" .
+
+<https://municipio/Vila_Nova_de_Gaia>
+  ns0:idmun "249" ;
+  ns0:nome "Vila Nova de Gaia" ;
+  ns0:regiao "Norte" ;
+  ns0:area "168.46" ;
+  ns0:pop "301496" ;
+  ns0:denspop "1789.7" .
+
+<https://municipio/Abrantes>
+  ns0:idmun "250" ;
+  ns0:nome "Abrantes" ;
+  ns0:regiao "Centro" ;
+  ns0:area "714.69" ;
+  ns0:pop "39325" ;
+  ns0:denspop "55" .
+
+<https://municipio/Alcanena>
+  ns0:idmun "251" ;
+  ns0:nome "Alcanena" ;
+  ns0:regiao "Centre" ;
+  ns0:area "137.33" ;
+  ns0:pop "20604" ;
+  ns0:denspop "150" .
+
+<https://municipio/Almeirim>
+  ns0:idmun "252" ;
+  ns0:nome "Almeirim" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "222.12" ;
+  ns0:pop "23376" ;
+  ns0:denspop "105.2" .
+
+<https://municipio/Alpiarca>
+  ns0:idmun "253" ;
+  ns0:nome "Alpiarca" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "95.36" ;
+  ns0:pop "7702" ;
+  ns0:denspop "80.77" .
+
+<https://municipio/Benavente>
+  ns0:idmun "254" ;
+  ns0:nome "Benavente" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "521.38" ;
+  ns0:pop "49019" ;
+  ns0:denspop "94" .
+
+<https://municipio/Cartaxo>
+  ns0:idmun "255" ;
+  ns0:nome "Cartaxo" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "158.17" ;
+  ns0:pop "24462" ;
+  ns0:denspop "154.7" .
+
+<https://municipio/Chamusca>
+  ns0:idmun "256" ;
+  ns0:nome "Chamusca" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "746.01" ;
+  ns0:pop "10120" ;
+  ns0:denspop "13.6" .
+
+<https://municipio/Constancia>
+  ns0:idmun "257" ;
+  ns0:nome "Constancia" ;
+  ns0:regiao "Centro" ;
+  ns0:area "80.37" ;
+  ns0:pop "4056" ;
+  ns0:denspop "50.5" .
+
+<https://municipio/Coruche>
+  ns0:idmun "258" ;
+  ns0:nome "Coruche" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1115.72" ;
+  ns0:pop "19944" ;
+  ns0:denspop "17.9" .
+
+<https://municipio/Entroncamento>
+  ns0:idmun "259" ;
+  ns0:nome "Entroncamento" ;
+  ns0:regiao "Centro" ;
+  ns0:area "13.73" ;
+  ns0:pop "20206" ;
+  ns0:denspop "1471.7" .
+
+<https://municipio/Ferreira_do_Zezere>
+  ns0:idmun "260" ;
+  ns0:nome "Ferreira_do_Zezere" ;
+  ns0:regiao "Centro" ;
+  ns0:area "190.38" ;
+  ns0:pop "8619" ;
+  ns0:denspop "45.3" .
+
+<https://municipio/Golega>
+  ns0:idmun "261" ;
+  ns0:nome "Golega" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "84.32" ;
+  ns0:pop "5913" ;
+  ns0:denspop "70.1" .
+
+<https://municipio/Macao>
+  ns0:idmun "262" ;
+  ns0:nome "Macao" ;
+  ns0:regiao "Centro" ;
+  ns0:area "399.98" ;
+  ns0:pop "7338" ;
+  ns0:denspop "18.3" .
+
+<https://municipio/Ourem>
+  ns0:idmun "263" ;
+  ns0:nome "Ourem" ;
+  ns0:regiao "Centro" ;
+  ns0:area "416.68" ;
+  ns0:pop "45932" ;
+  ns0:denspop "110.2" .
+
+<https://municipio/Rio_Maior>
+  ns0:idmun "264" ;
+  ns0:nome "Rio_Maior" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "272.76" ;
+  ns0:pop "21192" ;
+  ns0:denspop "77.7" .
+
+<https://municipio/Salvaterra_de_Magos>
+  ns0:idmun "265" ;
+  ns0:nome "Salvaterra_de_Magos" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "243.93" ;
+  ns0:pop "22159" ;
+  ns0:denspop "90.8" .
+
+<https://municipio/Santarem>
+  ns0:idmun "266" ;
+  ns0:nome "Santarem" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "552.54" ;
+  ns0:pop "61752" ;
+  ns0:denspop "111.8" .
+
+<https://municipio/Sardoal>
+  ns0:idmun "267" ;
+  ns0:nome "Sardoal" ;
+  ns0:regiao "Centro" ;
+  ns0:area "92.15" ;
+  ns0:pop "3939" ;
+  ns0:denspop "42.7" .
+
+<https://municipio/Tomar>
+  ns0:idmun "268" ;
+  ns0:nome "Tomar" ;
+  ns0:regiao "Centro" ;
+  ns0:area "351.2" ;
+  ns0:pop "41000" ;
+  ns0:denspop "116.74" .
+
+<https://municipio/Torres_Novas>
+  ns0:idmun "269" ;
+  ns0:nome "Torres_Novas" ;
+  ns0:regiao "Centro" ;
+  ns0:area "270" ;
+  ns0:pop "36338" ;
+  ns0:denspop "134.6" .
+
+<https://municipio/Vila_Nova_da_Barquinha>
+  ns0:idmun "270" ;
+  ns0:nome "Vila_Nova_da_Barquinha" ;
+  ns0:regiao "Centro" ;
+  ns0:area "49.53" ;
+  ns0:pop "7322" ;
+  ns0:denspop "147.8" .
+
+<https://municipio/Alcacer_do_Sal>
+  ns0:idmun "271" ;
+  ns0:nome "Alcacer_do_Sal" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1499.87" ;
+  ns0:pop "13046" ;
+  ns0:denspop "8.7" .
+
+<https://municipio/Alcochete>
+  ns0:idmun "272" ;
+  ns0:nome "Alcochete" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "128.36" ;
+  ns0:pop "17569" ;
+  ns0:denspop "136.9" .
+
+<https://municipio/Almada>
+  ns0:idmun "273" ;
+  ns0:nome "Almada" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "70.21" ;
+  ns0:pop "168027" ;
+  ns0:denspop "2393.2" .
+
+<https://municipio/Barreiro>
+  ns0:idmun "274" ;
+  ns0:nome "Barreiro" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "36.39" ;
+  ns0:pop "78764" ;
+  ns0:denspop "2164.44" .
+
+<https://municipio/Grandola>
+  ns0:idmun "275" ;
+  ns0:nome "Grandola" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "825.94" ;
+  ns0:pop "14826" ;
+  ns0:denspop "18" .
+
+<https://municipio/Moita>
+  ns0:idmun "276" ;
+  ns0:nome "Moita" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "55.26" ;
+  ns0:pop "66029" ;
+  ns0:denspop "1194.9" .
+
+<https://municipio/Montijo>
+  ns0:idmun "277" ;
+  ns0:nome "Montijo" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "348.62" ;
+  ns0:pop "57543" ;
+  ns0:denspop "165.1" .
+
+<https://municipio/Palmela>
+  ns0:idmun "278" ;
+  ns0:nome "Palmela" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "465.12" ;
+  ns0:pop "62831" ;
+  ns0:denspop "135.1" .
+
+<https://municipio/Santiago_do_Cacem>
+  ns0:idmun "279" ;
+  ns0:nome "Santiago_do_Cacem" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "1059.77" ;
+  ns0:pop "29749" ;
+  ns0:denspop "28.1" .
+
+<https://municipio/Seixal>
+  ns0:idmun "280" ;
+  ns0:nome "Seixal" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "95.50" ;
+  ns0:pop "158269" ;
+  ns0:denspop "1657.3" .
+
+<https://municipio/Sesimbra>
+  ns0:idmun "281" ;
+  ns0:nome "Sesimbra" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "195.47" ;
+  ns0:pop "49500" ;
+  ns0:denspop "253.23" .
+
+<https://municipio/Setúbal>
+  ns0:idmun "282" ;
+  ns0:nome "Setúbal" ;
+  ns0:regiao "Area_Metropolitana_de_Lisboa" ;
+  ns0:area "230.33" ;
+  ns0:pop "116330" ;
+  ns0:denspop "505.1" .
+
+<https://municipio/Sines>
+  ns0:idmun "283" ;
+  ns0:nome "Sines" ;
+  ns0:regiao "Alentejo" ;
+  ns0:area "132.42" ;
+  ns0:pop "14238" ;
+  ns0:denspop "107.5" .
+
+<https://municipio/Viana_do_Castelo>
+  ns0:idmun "301" ;
+  ns0:nome "Viana_do_Castelo" ;
+  ns0:regiao "Norte" ;
+  ns0:area "319.02" ;
+  ns0:pop "88725" ;
+  ns0:denspop "278.1" .
+
+<https://municipio/Valenca>
+  ns0:idmun "302" ;
+  ns0:nome "Valenca" ;
+  ns0:regiao "Norte" ;
+  ns0:area "117.13" ;
+  ns0:pop "14127" ;
+  ns0:denspop "120.6" .
+
+<https://municipio/Arcos_de_Valdevez>
+  ns0:idmun "303" ;
+  ns0:nome "Arcos_de_Valdevez" ;
+  ns0:regiao "Norte" ;
+  ns0:area "447.60" ;
+  ns0:pop "22847" ;
+  ns0:denspop "51" .
+
+<https://municipio/Caminha>
+  ns0:idmun "304" ;
+  ns0:nome "Caminha" ;
+  ns0:regiao "Norte" ;
+  ns0:area "136.52" ;
+  ns0:pop "16684" ;
+  ns0:denspop "122.2" .
+
+<https://municipio/Melgaco>
+  ns0:idmun "305" ;
+  ns0:nome "Melgaco" ;
+  ns0:regiao "Norte" ;
+  ns0:area "238.25" ;
+  ns0:pop "9213" ;
+  ns0:denspop "38.7" .
+
+<https://municipio/Moncao>
+  ns0:idmun "306" ;
+  ns0:nome "Moncao" ;
+  ns0:regiao "Norte" ;
+  ns0:area "211.31" ;
+  ns0:pop "19230" ;
+  ns0:denspop "91" .
+
+<https://municipio/Paredes_de_Coura>
+  ns0:idmun "307" ;
+  ns0:nome "Paredes_de_Coura" ;
+  ns0:regiao "Norte" ;
+  ns0:area "138.19" ;
+  ns0:pop "9198" ;
+  ns0:denspop "66.6" .
+
+<https://municipio/Ponte_da_Barca>
+  ns0:idmun "308" ;
+  ns0:nome "Ponte_da_Barca" ;
+  ns0:regiao "Norte" ;
+  ns0:area "184.76" ;
+  ns0:pop "12061" ;
+  ns0:denspop "65.3" .
+
+<https://municipio/Ponte_de_Lima>
+  ns0:idmun "309" ;
+  ns0:nome "Ponte_de_Lima" ;
+  ns0:regiao "Norte" ;
+  ns0:area "320.25" ;
+  ns0:pop "43498" ;
+  ns0:denspop "135.8" .
+
+<https://municipio/Vila_Nova_de_Cerveira>
+  ns0:idmun "310" ;
+  ns0:nome "Vila_Nova_de_Cerveira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "108.47" ;
+  ns0:pop "9253" ;
+  ns0:denspop "85.3" .
+
+<https://municipio/Alijo>
+  ns0:idmun "311" ;
+  ns0:nome "Alijo" ;
+  ns0:regiao "Norte" ;
+  ns0:area "297.60" ;
+  ns0:pop "11942" ;
+  ns0:denspop "40.1" .
+
+<https://municipio/Boticas>
+  ns0:idmun "312" ;
+  ns0:nome "Boticas" ;
+  ns0:regiao "Norte" ;
+  ns0:area "321.96" ;
+  ns0:pop "5750" ;
+  ns0:denspop "17.9" .
+
+<https://municipio/Chaves>
+  ns0:idmun "313" ;
+  ns0:nome "Chaves" ;
+  ns0:regiao "Norte" ;
+  ns0:area "591.23" ;
+  ns0:pop "41243" ;
+  ns0:denspop "69.8" .
+
+<https://municipio/Mesao_Frio>
+  ns0:idmun "314" ;
+  ns0:nome "Mesao_Frio" ;
+  ns0:regiao "Norte" ;
+  ns0:area "26.65" ;
+  ns0:pop "4433" ;
+  ns0:denspop "166.3" .
+
+<https://municipio/Mondim_de_Basto>
+  ns0:idmun "315" ;
+  ns0:nome "Mondim_de_Basto" ;
+  ns0:regiao "Norte" ;
+  ns0:area "172.08" ;
+  ns0:pop "7493" ;
+  ns0:denspop "43.5" .
+
+<https://municipio/Montalegre>
+  ns0:idmun "316" ;
+  ns0:nome "Montalegre" ;
+  ns0:regiao "Norte" ;
+  ns0:area "805.46" ;
+  ns0:pop "10537" ;
+  ns0:denspop "13.1" .
+
+<https://municipio/Murca>
+  ns0:idmun "317" ;
+  ns0:nome "Murca" ;
+  ns0:regiao "Norte" ;
+  ns0:area "189.37" ;
+  ns0:pop "5952" ;
+  ns0:denspop "31.4" .
+
+<https://municipio/Peso_da_Regua>
+  ns0:idmun "318" ;
+  ns0:nome "Peso_da_Regua" ;
+  ns0:regiao "Norte" ;
+  ns0:area "94.86" ;
+  ns0:pop "17131" ;
+  ns0:denspop "180.6" .
+
+<https://municipio/Ribeira_de_Pena>
+  ns0:idmun "319" ;
+  ns0:nome "Ribeira_de_Pena" ;
+  ns0:regiao "Norte" ;
+  ns0:area "217.46" ;
+  ns0:pop "6544" ;
+  ns0:denspop "30.1" .
+
+<https://municipio/Sabrosa>
+  ns0:idmun "320" ;
+  ns0:nome "Sabrosa" ;
+  ns0:regiao "Norte" ;
+  ns0:area "156.92" ;
+  ns0:pop "6361" ;
+  ns0:denspop "40.5" .
+
+<https://municipio/Santa_Marta_de_Penaguiao>
+  ns0:idmun "321" ;
+  ns0:nome "Santa_Marta_de_Penaguiao" ;
+  ns0:regiao "Norte" ;
+  ns0:area "69.28" ;
+  ns0:pop "7356" ;
+  ns0:denspop "106.2" .
+
+<https://municipio/Valpacos>
+  ns0:idmun "322" ;
+  ns0:nome "Valpacos" ;
+  ns0:regiao "Norte" ;
+  ns0:area "548.74" ;
+  ns0:pop "16882" ;
+  ns0:denspop "30.76" .
+
+<https://municipio/Vila_Pouca_de_Aguiar>
+  ns0:idmun "323" ;
+  ns0:nome "Vila_Pouca_de_Aguiar" ;
+  ns0:regiao "Norte" ;
+  ns0:area "437.07" ;
+  ns0:pop "13187" ;
+  ns0:denspop "30.2" .
+
+<https://municipio/Vila_Real>
+  ns0:idmun "324" ;
+  ns0:nome "Vila_Real" ;
+  ns0:regiao "Norte" ;
+  ns0:area "378.80" ;
+  ns0:pop "51850" ;
+  ns0:denspop "136.9" .
+
+<https://municipio/Armamar>
+  ns0:idmun "325" ;
+  ns0:nome "Armamar" ;
+  ns0:regiao "Norte" ;
+  ns0:area "117.24" ;
+  ns0:pop "6297" ;
+  ns0:denspop "53.7" .
+
+<https://municipio/Carregal_do_Sal>
+  ns0:idmun "326" ;
+  ns0:nome "Carregal_do_Sal" ;
+  ns0:regiao "Centro" ;
+  ns0:area "116.89" ;
+  ns0:pop "9835" ;
+  ns0:denspop "84.1" .
+
+<https://municipio/Castro_Daire>
+  ns0:idmun "327" ;
+  ns0:nome "Castro_Daire" ;
+  ns0:regiao "Centro" ;
+  ns0:area "379.04" ;
+  ns0:pop "15339" ;
+  ns0:denspop "40.5" .
+
+<https://municipio/Cinfaes>
+  ns0:idmun "328" ;
+  ns0:nome "Cinfaes" ;
+  ns0:regiao "Norte" ;
+  ns0:area "239.29" ;
+  ns0:pop "20427" ;
+  ns0:denspop "85.4" .
+
+<https://municipio/Lamego>
+  ns0:idmun "329" ;
+  ns0:nome "Lamego" ;
+  ns0:regiao "Norte" ;
+  ns0:area "165.42" ;
+  ns0:pop "26691" ;
+  ns0:denspop "161.4" .
+
+<https://municipio/Mangualde>
+  ns0:idmun "330" ;
+  ns0:nome "Mangualde" ;
+  ns0:regiao "Centro" ;
+  ns0:area "219.26" ;
+  ns0:pop "19880" ;
+  ns0:denspop "90.7" .
+
+<https://municipio/Moimenta_da_Beira>
+  ns0:idmun "331" ;
+  ns0:nome "Moimenta_da_Beira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "219.97" ;
+  ns0:pop "10201" ;
+  ns0:denspop "46.37" .
+
+<https://municipio/Mortagua>
+  ns0:idmun "332" ;
+  ns0:nome "Mortagua" ;
+  ns0:regiao "Centro" ;
+  ns0:area "251.18" ;
+  ns0:pop "9607" ;
+  ns0:denspop "38.2" .
+
+<https://municipio/Nelas>
+  ns0:idmun "333" ;
+  ns0:nome "Nelas" ;
+  ns0:regiao "Centro" ;
+  ns0:area "125.71" ;
+  ns0:pop "14037" ;
+  ns0:denspop "111.7" .
+
+<https://municipio/Oliveira_de_Frades>
+  ns0:idmun "334" ;
+  ns0:nome "Oliveira_de_Frades" ;
+  ns0:regiao "Centro" ;
+  ns0:area "147.45" ;
+  ns0:pop "10261" ;
+  ns0:denspop "69.6" .
+
+<https://municipio/Penalva_do_Castelo>
+  ns0:idmun "335" ;
+  ns0:nome "Penalva_do_Castelo" ;
+  ns0:regiao "Centro" ;
+  ns0:area "134.34" ;
+  ns0:pop "7956" ;
+  ns0:denspop "59.2" .
+
+<https://municipio/Penedono>
+  ns0:idmun "336" ;
+  ns0:nome "Penedono" ;
+  ns0:regiao "Norte" ;
+  ns0:area "133.71" ;
+  ns0:pop "2952" ;
+  ns0:denspop "22.1" .
+
+<https://municipio/Resende>
+  ns0:idmun "337" ;
+  ns0:nome "Resende" ;
+  ns0:regiao "Norte" ;
+  ns0:area "123.35" ;
+  ns0:pop "11364" ;
+  ns0:denspop "92.1" .
+
+<https://municipio/Santa_Comba_Dao>
+  ns0:idmun "338" ;
+  ns0:nome "Santa_Comba_Dao" ;
+  ns0:regiao "Centro" ;
+  ns0:area "111.95" ;
+  ns0:pop "11597" ;
+  ns0:denspop "103.6" .
+
+<https://municipio/Sao_Joao_da_Pesqueira>
+  ns0:idmun "339" ;
+  ns0:nome "Sao_Joao_da_Pesqueira" ;
+  ns0:regiao "Norte" ;
+  ns0:area "266.11" ;
+  ns0:pop "7874" ;
+  ns0:denspop "29.6" .
+
+<https://municipio/Sao_Pedro_do_Sul>
+  ns0:idmun "340" ;
+  ns0:nome "Sao_Pedro_do_Sul" ;
+  ns0:regiao "Centro" ;
+  ns0:area "348.68" ;
+  ns0:pop "16851" ;
+  ns0:denspop "48.3" .
+
+<https://municipio/Satao>
+  ns0:idmun "341" ;
+  ns0:nome "Satao" ;
+  ns0:regiao "Centro" ;
+  ns0:area "201.94" ;
+  ns0:pop "12444" ;
+  ns0:denspop "61.6" .
+
+<https://municipio/Sernancelhe>
+  ns0:idmun "342" ;
+  ns0:nome "Sernancelhe" ;
+  ns0:regiao "Norte" ;
+  ns0:area "228.61" ;
+  ns0:pop "5671" ;
+  ns0:denspop "24.8" .
+
+<https://municipio/Tabuaco>
+  ns0:idmun "343" ;
+  ns0:nome "Tabuaco" ;
+  ns0:regiao "Norte" ;
+  ns0:area "133.86" ;
+  ns0:pop "6350" ;
+  ns0:denspop "47.4" .
+
+<https://municipio/Tarouca>
+  ns0:idmun "344" ;
+  ns0:nome "Tarouca" ;
+  ns0:regiao "Norte" ;
+  ns0:area "100.08" ;
+  ns0:pop "8048" ;
+  ns0:denspop "80.4" .
+
+<https://municipio/Tondela>
+  ns0:idmun "345" ;
+  ns0:nome "Tondela" ;
+  ns0:regiao "Centro" ;
+  ns0:area "371.22" ;
+  ns0:pop "28946" ;
+  ns0:denspop "78" .
+
+<https://municipio/Vila_Nova_de_Paiva>
+  ns0:idmun "346" ;
+  ns0:nome "Vila Nova de Paiva" ;
+  ns0:regiao "Centro" ;
+  ns0:area "175.53" ;
+  ns0:pop "5176" ;
+  ns0:denspop "29.5" .
+
+<https://municipio/Viseu>
+  ns0:idmun "347" ;
+  ns0:nome "Viseu" ;
+  ns0:regiao "Centro" ;
+  ns0:area "507.10" ;
+  ns0:pop "99274" ;
+  ns0:denspop "195.76" .
+
+<https://municipio/Vouzela>
+  ns0:idmun "348" ;
+  ns0:nome "Vouzela" ;
+  ns0:regiao "Centro" ;
+  ns0:area "193.69" ;
+  ns0:pop "10564" ;
+  ns0:denspop "54.5" .
+
+<https://municipio/Calheta>
+  ns0:idmun "349", "370" ;
+  ns0:nome "Calheta" ;
+  ns0:regiao "Regiao Autonoma da Madeira", "Regiao Autonoma dos Acores" ;
+  ns0:area "111.52", "126.3" ;
+  ns0:pop "11521", "3617" ;
+  ns0:denspop "103.31", "28.6" .
+
+<https://municipio/Camara_de_Lobos>
+  ns0:idmun "350" ;
+  ns0:nome "Camara de Lobos" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "52.15" ;
+  ns0:pop "35666" ;
+  ns0:denspop "683.91" .
+
+<https://municipio/Ponta_do_Sol>
+  ns0:idmun "351" ;
+  ns0:nome "Ponta do Sol" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "46.19" ;
+  ns0:pop "8862" ;
+  ns0:denspop "191.86" .
+
+<https://municipio/Porto_Moniz>
+  ns0:idmun "352" ;
+  ns0:nome "Porto Moniz" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "82.93" ;
+  ns0:pop "2711" ;
+  ns0:denspop "32.69" .
+
+<https://municipio/Ribeira_Brava>
+  ns0:idmun "353" ;
+  ns0:nome "Ribeira Brava" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "65.40" ;
+  ns0:pop "13375" ;
+  ns0:denspop "204.51" .
+
+<https://municipio/Santana>
+  ns0:idmun "354" ;
+  ns0:nome "Santana" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "95.56" ;
+  ns0:pop "7719" ;
+  ns0:denspop "80.78" .
+
+<https://municipio/Sao_Vicente>
+  ns0:idmun "355" ;
+  ns0:nome "Sao Vicente" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "78.82" ;
+  ns0:pop "5723" ;
+  ns0:denspop "72.61" .
+
+<https://municipio/Funchal>
+  ns0:idmun "356" ;
+  ns0:nome "Funchal" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "76.15" ;
+  ns0:pop "111892" ;
+  ns0:denspop "1469.36" .
+
+<https://municipio/Machico>
+  ns0:idmun "357" ;
+  ns0:nome "Machico" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "68.31" ;
+  ns0:pop "21828" ;
+  ns0:denspop "319.54" .
+
+<https://municipio/Porto_Santo>
+  ns0:idmun "358" ;
+  ns0:nome "Porto Santo" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "42.48" ;
+  ns0:pop "5483" ;
+  ns0:denspop "129.07" .
+
+<https://municipio/Santa_Cruz>
+  ns0:idmun "359" ;
+  ns0:nome "Santa Cruz" ;
+  ns0:regiao "Regiao Autonoma da Madeira" ;
+  ns0:area "81.50" ;
+  ns0:pop "43005" ;
+  ns0:denspop "527.67" .
+
+<https://municipio/Vila_do_Porto>
+  ns0:idmun "360" ;
+  ns0:nome "Vila do Porto" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "97.2" ;
+  ns0:pop "5547" ;
+  ns0:denspop "57.1" .
+
+<https://municipio/Nordeste>
+  ns0:idmun "362" ;
+  ns0:nome "Nordeste" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "99.9" ;
+  ns0:pop "4920" ;
+  ns0:denspop "49.2" .
+
+<https://municipio/Ponta_Delgada>
+  ns0:idmun "363" ;
+  ns0:nome "Ponta Delgada" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "233.0" ;
+  ns0:pop "68748" ;
+  ns0:denspop "295.1" .
+
+<https://municipio/Povoacao>
+  ns0:idmun "364" ;
+  ns0:nome "Povoacao" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "108.0" ;
+  ns0:pop "6314" ;
+  ns0:denspop "58.5" .
+
+<https://municipio/Ribeira_Grande>
+  ns0:idmun "365" ;
+  ns0:nome "Ribeira Grande" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "180.2" ;
+  ns0:pop "32032" ;
+  ns0:denspop "177.8" .
+
+<https://municipio/Vila_Franca_do_Campo>
+  ns0:idmun "366" ;
+  ns0:nome "Vila Franca do Campo" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "78.0" ;
+  ns0:pop "11255" ;
+  ns0:denspop "144.3" .
+
+<https://municipio/Angra_do_Heroismo>
+  ns0:idmun "367" ;
+  ns0:nome "Angra do Heroismo" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "241.0" ;
+  ns0:pop "34976" ;
+  ns0:denspop "145.1" .
+
+<https://municipio/Praia_da_Vitoria>
+  ns0:idmun "368" ;
+  ns0:nome "Praia da Vitoria" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "161.3" ;
+  ns0:pop "21086" ;
+  ns0:denspop "130.7" .
+
+<https://municipio/Santa_Cruz_da_Graciosa>
+  ns0:idmun "369" ;
+  ns0:nome "Santa Cruz da Graciosa" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "61.2" ;
+  ns0:pop "4393" ;
+  ns0:denspop "71.8" .
+
+<https://municipio/Velas>
+  ns0:idmun "371" ;
+  ns0:nome "Velas" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "117.4" ;
+  ns0:pop "5381" ;
+  ns0:denspop "45.8" .
+
+<https://municipio/Lajes_do_Pico>
+  ns0:idmun "372" ;
+  ns0:nome "Lajes do Pico" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "155.3" ;
+  ns0:pop "4701" ;
+  ns0:denspop "30.3" .
+
+<https://municipio/Madalena>
+  ns0:idmun "373" ;
+  ns0:nome "Madalena" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "147.1" ;
+  ns0:pop "6049" ;
+  ns0:denspop "41.1" .
+
+<https://municipio/Sao_Roque_do_Pico>
+  ns0:idmun "374" ;
+  ns0:nome "Sao Roque do Pico" ;
+  ns0:regiao "Regiao_Autonoma_dos_Acores" ;
+  ns0:area "142.4" ;
+  ns0:pop "3394" ;
+  ns0:denspop "23.8" .
+
+<https://municipio/Horta>
+  ns0:idmun "375" ;
+  ns0:nome "Horta" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "173.1" ;
+  ns0:pop "15038" ;
+  ns0:denspop "86.9" .
+
+<https://municipio/Lajes_das_Flores>
+  ns0:idmun "376" ;
+  ns0:nome "Lajes das Flores" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "70.0" ;
+  ns0:pop "1503" ;
+  ns0:denspop "21.5" .
+
+<https://municipio/Santa_Cruz_das_Flores>
+  ns0:idmun "377" ;
+  ns0:nome "Santa Cruz das Flores" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "70.9" ;
+  ns0:pop "2288" ;
+  ns0:denspop "32.3" .
+
+<https://municipio/Vila_do_Corvo>
+  ns0:idmun "378" ;
+  ns0:nome "Vila do Corvo" ;
+  ns0:regiao "Regiao Autonoma dos Acores" ;
+  ns0:area "17.1" ;
+  ns0:pop "430" ;
+  ns0:denspop "25.1" .
