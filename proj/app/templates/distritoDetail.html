@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <title>Portugal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="{% static 'css/crop.css' %}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .tab {
+        display:inline-block;
+       margin-left: 40px;
+}
+        .minortab {
+        display:inline-block;
+       margin-left: 20px;
+}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+      * {
+  box-sizing: border-box;
+}
+
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+      span.minortab {
+          padding: 0 80px; /* Or desired space*/
+      }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+}
+
+
+
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-fixed-top" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="/">Home</a></li>
+        <li><a href="/distritos">Portugal</a></li>
+        <li><a href="/interesses">Interesses</a></li>
+        <li ><a href="/rssFeed">rssFeed</a></li>
+        <li><a href="/sobre">Sobre o Site</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<br>
+<br>
+{% for key,value in municipios.items %}
+    <form action="/municipioDetail/" method='get'>
+        {% if key == "imagemdistrito" and value != None %}
+            <img src={{value}} style="width:50%" class="center" alt="Image">
+        {% endif %}
+        {% if key == "nomedistrito" and value != None %}
+            <h1 align="center">{{value}}</h1>
+        {% endif %}
+    </form>
+{% endfor %}
+
+<div class="row">
+  <div class="column" style="background-color:#FFFFFF;">
+      <h3><span class="tab">Múnicipios pertencentes: </span></h3>
+        <br>
+      {% for key,value in municipios.items %}
+            <form action="/municipioDetail/" method='get'>
+                {% if key != "nomedistrito" and key != "numpopulacao" and key != "areatotal" and key != "imagemdistrito" and key != "densidadedistrito" and value != None %}
+                    <h4><span class="minortab"> {{value}}: </span></h4>
+                    <h4><span class="minortab"> <button name=id value = {{ key }} class="btn"> Ver Detalhes</button> </span></h4>
+                {% endif %}
+            </form>
+      {% endfor %}
+  </div>
+
+  <div class="column" style="background-color:#FFFFFF;">
+      <h3><span class="tab">Dados:</span></h3>
+      <br>
+      {% for key,value in municipios.items %}
+            <form action="/municipioDetail/" method='get'>
+            {% if  key == "numpopulacao" and value != None %}
+                <h4><span class="minortab"> A poulação do distrito é: {{value}} habitantes.</span></h4>
+            {% elif key == "areatotal" and value != None %}
+                <h4><span class="minortab"> A área total do distrito é:  {{value}} km².</span></h4>
+            {% elif key == "densidadedistrito" and value != None %}
+                <h4><span class="minortab"> A densidade populacional do distrito é: {{value}} hab./km².</span></h4>
+            {% endif %}
+            </form>
+      {% endfor %}
+      <br>
+      <br>
+      <h3><span class="tab">Interesses:</span></h3>
+      <br>
+          <form action="/interesseDetail/" method='get'>
+                {% for key, value in interesses.items %}
+                    <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value}} </a></span></h4>
+                 {% endfor %}
+          </form>
+  </div>
+
+</div>
+</body>
+</html>

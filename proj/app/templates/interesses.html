@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <title>Portugal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="{% static 'css/crop.css' %}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .tab {
+        display:inline-block;
+       margin-left: 40px;
+}
+        .minortab {
+        display:inline-block;
+       margin-left: 20px;
+}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+      * {
+  box-sizing: border-box;
+}
+
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 25%;
+      padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-fixed-top" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="/">Home</a></li>
+        <li><a href="/distritos">Portugal</a></li>
+        <li class="active"><a href="/interesses">Interesses</a></li>
+        <li ><a href="/rssFeed">rssFeed</a></li>
+        <li><a href="/sobre">Sobre o Site</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<br>
+<br>
+<div class="row">
+      <div class="column" style="background-color:#FFFFFF;">
+      <br>
+          <img src=https://media-cdn.tripadvisor.com/media/photo-s/0b/6c/72/6f/exclusive-products-cultura.jpg style="width:50%" class="center" alt="Image">
+          <h3><span class="tab">Cultura:</span></h3>
+          <form action="/interesseDetail/" method='get'>
+              <h4><span class="minortab">Norte:</span></h4>
+                {% for key, value in send.cultura.items %}
+                    {% if value.1 == 'Norte' %}
+                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+              <h4><span class="minortab">Centro:</span></h4>
+                {% for key, value in send.cultura.items %}
+                    {% if value.1 == 'Centro' %}
+                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+              <h4><span class="minortab">Área Metropolitana de Lisboa:</span></h4>
+                {% for key, value in send.cultura.items %}
+                    {% if value.1 == 'Área Metropolitana de Lisboa' %}
+                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+              <h4><span class="minortab">Alentejo:</span></h4>
+                {% for key, value in send.cultura.items %}
+                    {% if value.1 == 'Alentejo' %}
+                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+              <h4><span class="minortab">Algarve:</span></h4>
+                {% for key, value in send.cultura.items %}
+                    {% if value.1 == 'Algarve' %}
+                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+          </form>
+      </div>
+      <div class="column" style="background-color:#FFFFFF;">
+        <br><br>
+            <img src=https://i0.wp.com/www.vortexmag.net/wp-content/uploads/2015/06/ponta-1-e1434548718360.jpg?resize=640%2C394 style="width:50%" class="center" alt="Image">
+            <h3><span class="minortab">Lazer:</span></h3>
+            <form action="/interesseDetail/" method='get'>
+                <h4>Norte:</h4>
+                {% for key, value in send.lazer.items %}
+                    {% if value.1 == 'Norte' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Centro:</h4>
+                {% for key, value in send.lazer.items %}
+                    {% if value.1 == 'Centro' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Área Metropolitana de Lisboa:</h4>
+                {% for key, value in send.lazer.items %}
+                    {% if value.1 == 'Área Metropolitana de Lisboa' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Alentejo:</h4>
+                {% for key, value in send.lazer.items %}
+                    {% if value.1 == 'Alentejo' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Algarve:</h4>
+                {% for key, value in send.lazer.items %}
+                    {% if value.1 == 'Algarve' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+            </form>
+      </div>
+      <div class="column" style="background-color:#FFFFFF;">
+      <br><br><br><br>
+           <img src=http://fcsh.unl.pt/ensino/mestrados/banner_int_mestrado_patrimonio.png style="width:80%" class="center" alt="Image">
+           <h3><span class="minortab">Património:</span></h3>
+           <form action="/interesseDetail/" method='get'>
+                <h4>Norte:</h4>
+                {% for key, value in send.patrimonio.items %}
+                    {% if value.1 == 'Norte' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Centro:</h4>
+                {% for key, value in send.patrimonio.items %}
+                    {% if value.1 == 'Centro' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Área Metropolitana de Lisboa:</h4>
+                {% for key, value in send.patrimonio.items %}
+                    {% if value.1 == 'Área Metropolitana de Lisboa' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Alentejo:</h4>
+                {% for key, value in send.patrimonio.items %}
+                    {% if value.1 == 'Alentejo' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Algarve:</h4>
+                {% for key, value in send.patrimonio.items %}
+                    {% if value.1 == 'Algarve' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+           </form>
+      </div>
+      <div class="column" style="background-color:#FFFFFF;">
+        <br><br><br><br>
+            <img src=https://www.wineinmoderation.eu/files/Wine__Food/VINHO_E_GASTRONOMIA.jpg style="width:70%" class="center" alt="Image">
+            <h3><span class="tab">Gastronomia e Vinhos:</span></h3>
+            <form action="/interesseDetail/" method='get'>
+                <h4>Norte:</h4>
+                {% for key, value in send.gastronomia.items %}
+                    {% if value.1 == 'Norte' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Centro:</h4>
+                {% for key, value in send.gastronomia.items %}
+                    {% if value.1 == 'Centro' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Área Metropolitana de Lisboa:</h4>
+                {% for key, value in send.gastronomia.items %}
+                    {% if value.1 == 'Área Metropolitana de Lisboa' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Alentejo:</h4>
+                {% for key, value in send.gastronomia.items %}
+                    {% if value.1 == 'Alentejo' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Algarve:</h4>
+                {% for key, value in send.gastronomia.items %}
+                    {% if value.1 == 'Algarve' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+            </form>
+      </div>
+        </div>
+</div>
+
+</body>
+</html>

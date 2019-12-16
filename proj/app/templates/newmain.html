@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <title>Portugal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="{% static 'css/crop.css' %}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+  }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-fixed-top" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/distritos">Portugal</a></li>
+        <li><a href="/interesses">Interesses</a></li>
+        <li ><a href="/rssFeed">rssFeed</a></li>
+        <li><a href="/sobre">Sobre o Site</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img class="crop2" src="{% static "images/portugalimage1.jpg" %}" style="width:100%" alt="Image">
+        <div class="carousel-caption">
+          <h3></h3>
+          <p></p>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="container text-center">
+  <h3>Os Interesses de Portugal</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <img class="crop" src="{% static "images/fatima.jpeg" %}" style="width:100%" alt="Image">
+      <p>Religião - Fátima</p>
+    </div>
+    <div class="col-sm-4">
+        <a href="/interesseDetail/?id=3">
+            <img class="crop" src="{% static "images/RiaAveiro.jpeg" %}" style="width:100%" alt="Image">
+        </a>
+      <p>Ria de Aveiro</p>
+    </div>
+    <div class="col-sm-4">
+        <h3>Mapa clicável de Portugal Continental</h3>
+          <img src="{% static "images/portugal.jpg" %}" alt="Portugal" usemap="#portugal">
+            <map name="portugal">
+              <area shape="poly" coords="36,13,123,2,125,30,41,62" href="distritoDetail/?id=16" alt="Viana do Castelo">
+			  <area shape="poly" coords="73,56,128,36,145,78,92,79,74,68" href="distritoDetail/?id=3" alt="Braga">
+			  <area shape="poly" coords="84,119,76,71,90,86,143,89,147,109" href="distritoDetail/?id=13" alt="Porto">
+			  <area shape="poly" coords="154,108,146,80,160,57,138,38,211,36,189,99" href="distritoDetail/?id=17" alt="Vila Real">
+			  <area shape="poly" coords="193,100,219,24,286,26,287,65,238,123" href="distritoDetail/?id=4" alt="Bragança">
+			  <area shape="square" coords="43,122,109,188" href="distritoDetail/?id=1" alt="Aveiro">
+			  <area shape="poly" coords="110,196,124,117,197,109,171,173" href="distritoDetail/?id=18" alt="Viseu">
+			  <area shape="poly" coords="159,209,156,184,182,164,201,112,216,109,235,205,203,207,195,191" href="distritoDetail/?id=9" alt="Guarda">
+			  <area shape="square" coords="59,195,149,233" href="distritoDetail/?id=6" alt="Coimbra">
+			  <area shape="poly" coords="120,253,184,197,219,215,219,278,119,274" href="distritoDetail/?id=5" alt="Castelo Branco">
+			  <area shape="poly" coords="18,308,53,232,126,242,105,260,81,255,72,286,44,311" href="distritoDetail/?id=10" alt="Leiria">
+			  <area shape="square" coords="1,381,58,319" href="distritoDetail/?id=11" alt="Lisboa">
+			  <area shape="poly" coords="52,310,90,263,150,284,107,332,110,360,114,363,58,370,65,324" href="distritoDetail/?id=14" alt="Santarem">
+			  <area shape="poly" coords="111,339,168,277,219,310,222,369," href="distritoDetail/?id=12" alt="Portalegre">
+			  <area shape="poly" coords="83,393,121,352,202,371,204,430,112,418" href="distritoDetail/?id=7" alt="Evora">
+			  <area shape="poly" coords="19,386,86,373,112,433,81,483,21,438" href="distritoDetail/?id=14" alt="Setubal">
+			  <area shape="poly" coords="107,473,123,431,224,446,170,515,61,523,67,484" href="distritoDetail/?id=2" alt="Beja">
+			  <area shape="square" coords="40,571,178,519" href="distritoDetail/?id=8" alt="Faro">
+            </map>
+    </div>
+
+  </div>
+
+</div><br>
+
+
+</body>
+</html>
+

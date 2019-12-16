@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <title>Portugal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="{% static 'css/crop.css' %}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .tab {
+        display:inline-block;
+       margin-left: 40px;
+}
+        .minortab {
+        display:inline-block;
+       margin-left: 20px;
+}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+      * {
+  box-sizing: border-box;
+}
+       .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+  </style>
+</head>
+<body>
+<br>
+<br>
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-fixed-top" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="/">Home</a></li>
+        <li ><a href="/distritos">Portugal</a></li>
+        <li ><a href="/interesses">Interesses</a></li>
+        <li ><a href="/rssFeed">rssFeed</a></li>
+        <li ><a href="/sobre">Sobre o Site</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="row">
+  <div class="column" style="background-color:#FFFFFF;">
+    <h2 align="center">Dados do Municipio:</h2>
+    <br><br>
+
+      {% for key,value in send.items %}
+          {% if key == "nomeconcelho" %}
+            <h4><span class="minortab"> Nome: {{value}}</span></h4>
+          {% elif key == "regiao" %}
+             <h4><span class="minortab"> Região: {{value}}</span></h4>
+          {% elif key == "area" %}
+             <h4><span class="minortab"> Área: {{value}} Km²</span></h4>
+          {% elif key == "populacao" %}
+             <h4><span class="minortab"> Número de habitantes: {{value}} </span></h4>
+          {% elif key == "densidadepopulacional" %}
+             <h4><span class="minortab"> Densidade populacional: {{value}} Hab/Km²</span></h4>
+          {% endif %}
+      {% endfor %}
+  </div>
+
+  <div class="column" style="background-color:#FFFFFF;">
+    <h2 align="center">Interesses do Municipio:</h2>
+    <br><br>
+          <form action="/interesseDetail/" method='get'>
+                <h4>Cultura:</h4>
+                {% for key, value in interesses.items %}
+                    {% if value.tipo == 'cultura' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Lazer:</h4>
+                {% for key, value in interesses.items %}
+                    {% if value.tipo == 'Lazer' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Patrimonio:</h4>
+                {% for key, value in interesses.items %}
+                    {% if value.tipo == 'Património' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+                <h4>Gastronomia e Vinhos:</h4>
+                {% for key, value in interesses.items %}
+                    {% if value.tipo == 'gastronomia' %}
+                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                    {% endif %}
+                 {% endfor %}
+            </form>
+            <br>
+
+            <h3>Inserir Interesses:</h3>
+            <h4>Por XML</h4>
+            <form method="post" >
+                {% csrf_token %}
+                <input id='xmldocument' name = 'xmldocument' type="file">
+                <button id='button' >Validar</button>
+            </form>
+            <form action="/municipioDetail/" method='get'>
+                {% for key,value in send.items %}
+                    {% if key == 'valid' and not empty %}
+                        <h5>{{ value }}</h5>
+                    {% endif %}
+                {% endfor %}
+            </form>
+
+  <br>
+            <h4>Manualmente</h4>
+            <button type="button" value="Inserir" onclick="visivel(this)">Adicionar interesse</button>
+      <br><br>
+         <form method="post" id="dvInserir" style="display: none">
+            {% csrf_token %}
+            <p>Nome: <input type="text" name="nomeinteresse"/></p>
+            <p>Tipo: <select name="tipo">
+            <option value="cultura">Cultura</option>
+            <option value="patrimonio">Patrimonio</option>
+            <option value="Lazer">Lazer</option>
+            <option value="gastronomia">Gastronomia e vinhos</option>
+        </select></p>
+             <p><input type="submit" value="Adicionar"/></p>
+        </form>
+
+  </div>
+
+</div>
+
+<script>
+function visivel(btnInserir) {
+        var dvInserir = document.getElementById("dvInserir");
+        dvInserir.style.display = "Inserir" ? "block" : "none";
+}
+</script>
+
+</body>
+</html>
+
+

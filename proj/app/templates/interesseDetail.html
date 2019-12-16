@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <title>Portugal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="{% static 'css/crop.css' %}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .tab {
+        display:inline-block;
+       margin-left: 40px;
+}
+        .minortab {
+        display:inline-block;
+       margin-left: 20px;
+}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+      * {
+  box-sizing: border-box;
+}
+       .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+  </style>
+</head>
+<body>
+<br>
+<br>
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-fixed-top" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="/">Home</a></li>
+        <li ><a href="/distritos">Portugal</a></li>
+        <li ><a href="/interesses">Interesses</a></li>
+        <li ><a href="/rssFeed">rssFeed</a></li>
+        <li ><a href="/sobre">Sobre o Site</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="row">
+  <div class="column" style="background-color:#FFFFFF;">
+    <h2><span class="minortab">Detalhes:</span> </h2>
+    <br>
+      {% for key,value in send.items %}
+          {% if key == "nome" %}
+            <h4><span class="tab"> Nome: {{value}}</span></h4>
+          {% elif key == "tipo" %}
+             <h4><span class="tab"> Tipo: {{value}}</span></h4>
+          {% elif key == "nomeconcelho" %}
+             <h4><span class="tab"> Município: {{value}}</span></h4>
+          {% elif key == "nomedistrito" %}
+             <h4><span class="tab"> Distrito: {{value}} </span></h4>
+          {% endif %}
+      {% endfor %}
+  </div>
+
+  <div class="column" style="background-color:#FFFFFF;">
+    <br><br>
+  </div>
+
+</div>
+
+</body>
+</html>
