@@ -1,368 +1,390 @@
-﻿<https://distrito/Aveiro> <https://distrito/pred/iddistrito> "1" .
-<https://distrito/Aveiro> <https://distrito/pred/nome> "Aveiro" .
-<https://distrito/Aveiro> <https://distrito/pred/imagem> "httpss://www.dinheirovivo.pt/wp-content/uploads/2018/05/Aveiro-1060x594.jpg" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Agueda" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Albergaria-a-Velha" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Anadia" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Arouca" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Aveiro" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Castelo de Paiva" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Espinho" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Estarreja" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Ilhavo" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Mealhada" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Murtosa" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Oliveira de Azemeis" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Oliveira do Bairro" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Ovar" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Santa Maria da Feira" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "São João da Madeira" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Sever do Vouga" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Vagos" .
-<https://distrito/Aveiro> <https://distrito/pred/municipio> "Vale de Cambra" .
-<https://distrito/Beja> <https://distrito/pred/iddistrito> "2" .
-<https://distrito/Beja> <https://distrito/pred/nome> "Beja" .
-<https://distrito/Beja> <https://distrito/pred/imagem> "httpss://i0.wp.com/www.vortexmag.net/wp-content/uploads/2015/06/13435626374_c8e9404f3b_k-e1435264983302.jpg" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Aljustrel" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Almodovar" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Alvito" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Barrancos" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Beja" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Castro Verde" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Cuba" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Ferreira do Alentejo" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Mertola" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Moura" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Odemira" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Ourique" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Serpa" .
-<https://distrito/Beja> <https://distrito/pred/municipio> "Vidigueira" .
-<https://distrito/Braga> <https://distrito/pred/iddistrito> "3" .
-<https://distrito/Braga> <https://distrito/pred/nome> "Braga" .
-<https://distrito/Braga> <https://distrito/pred/imagem> "httpss://www.dicasdeviagem.com/wp-content/uploads/2019/01/avenida-liberdade-braga.jpg" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Amares" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Barcelos" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Braga" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Cabeceiras de Basto" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Celorico de Basto" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Esposende" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Fafe" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Guimaraes" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Póvoa de Lanhoso" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Terras de Bouro" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Vieira do Minho" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Vila Nova de Famalicão" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Vila Verde" .
-<https://distrito/Braga> <https://distrito/pred/municipio> "Vizela" .
-<https://distrito/Braganca> <https://distrito/pred/iddistrito> "4" .
-<https://distrito/Braganca> <https://distrito/pred/nome> "Braganca" .
-<https://distrito/Braganca> <https://distrito/pred/imagem> "httpss://pumpkin.pt/wp-content/uploads/2018/06/Bragan%C3%A7a.jpg" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Alfândega da Fé" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Braganca" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Carrazeda de Ansiães" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Freixo de Espada a Cinta" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Macedo de Cavaleiros" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Miranda do Douro" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Mirandela" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Mogadouro" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Torre de Moncorvo" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Vila Flor" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Vimioso" .
-<https://distrito/Braganca> <https://distrito/pred/municipio> "Vinhais" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/iddistrito> "5" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/nome> "Castelo Branco" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/imagem> "httpss://i0.wp.com/www.vortexmag.net/wp-content/uploads/2016/02/jardimcastelo1-e1487074483876.jpg" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Belmonte" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Castelo Branco" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Covilha" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Fundão" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Idanha-a-Nova" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Oleiros" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Penamacor" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Proença-a-Nova" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Serta" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Vila de Rei" .
-<https://distrito/Castelo_Branco> <https://distrito/pred/municipio> "Vila Velha de Rodão" .
-<https://distrito/Coimbra> <https://distrito/pred/iddistrito> "6" .
-<https://distrito/Coimbra> <https://distrito/pred/nome> "Coimbra" .
-<https://distrito/Coimbra> <https://distrito/pred/imagem> "httpss://mundoviajar.com.br/wp-content/uploads/2019/06/Coimbra_Portugal.jpg" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Arganil" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Cantanhede" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Coimbra" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Condeixa-a-Nova" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Figueira da Foz" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Gois" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Lousa" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Mira" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Miranda do Corvo" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Montemor-o-Velho" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Oliveira do Hospital" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Pampilhosa da Serra" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Penacova" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Penela" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Soure" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Tabua" .
-<https://distrito/Coimbra> <https://distrito/pred/municipio> "Vila Nova de Poiares" .
-<https://distrito/Evora> <https://distrito/pred/iddistrito> "7" .
-<https://distrito/Evora> <https://distrito/pred/nome> "Evora" .
-<https://distrito/Evora> <https://distrito/pred/imagem> "httpss://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/025/263/medium/bc7e34afb1ab79c06f416e251b377cc1/portugal-evora-main-square-020719-ch.jpg" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Alandroal" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Arraiolos" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Borba" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Estremoz" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Evora" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Montemor-o-Novo" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Mora" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Mourao" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Portel" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Redondo" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Reguengos de Monsaraz" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Vendas Novas" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Viana do Alentejo" .
-<https://distrito/Evora> <https://distrito/pred/municipio> "Vila Vicosa" .
-<https://distrito/Faro> <https://distrito/pred/iddistrito> "8" .
-<https://distrito/Faro> <https://distrito/pred/nome> "Faro" .
-<https://distrito/Faro> <https://distrito/pred/imagem> "https://blog.green-acres.com/wp-content/uploads/2018/02/op_76105_algarve.jpg" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Albufeira" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Alcoutim" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Aljezur" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Castro Marim" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Faro" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Lagoa" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Lagos" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Loulé" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Monchique" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Olhao" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Portimão" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "São Brás de Alportel" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Silves" . 
-<https://distrito/Faro> <https://distrito/pred/municipio> "Tavira" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Vila do Bispo" .
-<https://distrito/Faro> <https://distrito/pred/municipio> "Vila Real de Santo António" .
-<https://distrito/Guarda> <https://distrito/pred/iddistrito> "9" .
-<https://distrito/Guarda> <https://distrito/pred/nome> "Guarda" .
-<https://distrito/Guarda> <https://distrito/pred/imagem> "httpss://www.portugaltravelguide.com/images/guarda.jpg" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Aguiar_da_Beira" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Almeida" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Celorico da Beira" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Figueira de Castelo Rodrigo" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Fornos de Algodres" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Gouveia" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Guarda" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Manteigas" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Meda" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Pinhel" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Sabugal" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Seia" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Trancoso" .
-<https://distrito/Guarda> <https://distrito/pred/municipio> "Vila Nova de Foz Côa" .
-<https://distrito/Leiria> <https://distrito/pred/iddistrito> "10" .
-<https://distrito/Leiria> <https://distrito/pred/nome> "Leiria" .
-<https://distrito/Leiria> <https://distrito/pred/imagem> "httpss://media-manager.noticiasaominuto.com/1920/naom_5bed267198a2b.jpg" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Alcobaca" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Alvaiazere" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Ansiao" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Batalha" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Bombarral" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Caldas da Rainha" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Castanheira de Pêra" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Figueiró dos Vinhos" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Leiria" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Marinha Grande" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Nazaré" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Óbidos" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Pedrogão Grande" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Peniche" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Pombal" .
-<https://distrito/Leiria> <https://distrito/pred/municipio> "Porto de Mós" .
-<https://distrito/Lisboa> <https://distrito/pred/iddistrito> "11" .
-<https://distrito/Lisboa> <https://distrito/pred/nome> "Lisboa" .
-<https://distrito/Lisboa> <https://distrito/pred/imagem> "httpss://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/TAP_PracaComercio_01e_CL-co.jpg" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Alenquer" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Amadora" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Arruada dos Vinhos" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Azambuja" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Cadaval" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Cascais" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Lisboa" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Loures" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Lourinha" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Mafra" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Odivelas" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Oeiras" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Sintra" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Sobral de Monte Agraço" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Torres Vedras" .
-<https://distrito/Lisboa> <https://distrito/pred/municipio> "Vila Franca de Xira" .
-<https://distrito/Portalegre> <https://distrito/pred/iddistrito> "12" .
-<https://distrito/Portalegre> <https://distrito/pred/nome> "Portalegre" .
-<https://distrito/Portalegre> <https://distrito/pred/imagem> "httpss://pumpkin.pt/wp-content/uploads/2019/07/o-que-fazer-em-portalegre-com-crian%C3%A7as-1024x683.jpg" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Alter do Chão" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Arronches" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Avis" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Campo Maior" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Castelo de Vide" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Crato" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Elvas" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Fronteira" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Gaviao" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Marvao" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Monforte" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Nisa" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Ponte de Sor" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Portalegre" .
-<https://distrito/Portalegre> <https://distrito/pred/municipio> "Sousel" .
-<https://distrito/Porto> <https://distrito/pred/iddistrito> "13" .
-<https://distrito/Porto> <https://distrito/pred/nome> "Porto" .
-<https://distrito/Porto> <https://distrito/pred/imagem> "httpss://img.theculturetrip.com/768x432/wp-content/uploads/2017/02/esb-professional-shutterstock_365359853.jpg" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Amarante" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Baiao" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Felgueiras" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Gondomar" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Lousada" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Maia" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Marco de Canaveses" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Matosinhos" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Pacos de Ferreira" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Paredes" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Penafiel" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Porto" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Póvoa do Varzim" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Santo Tirso" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Trofa" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Valongo" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Vila do Conde" .
-<https://distrito/Porto> <https://distrito/pred/municipio> "Vila Nova de Gaia" .
-<https://distrito/Santarem> <https://distrito/pred/iddistrito> "14" .
-<https://distrito/Santarem> <https://distrito/pred/nome> "Santarém" .
-<https://distrito/Santarem> <https://distrito/pred/imagem> "https://www.santarem.pa.gov.br/midias/2017/grandes/up_6_santarem_-_vista_aerea_-_encontro_dos_rios.jpg" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Abrantes" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Alcanena" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Almeirim" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Alpiarca" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Benavente" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Cartaxo" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Chamusca" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Constância" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Coruche" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Entroncamento" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Ferreira do Zezere" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Golega" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Macao" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Ourem" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Rio Maior" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Salvaterra de Magos" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Santarem" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Sardoal" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Tomar" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Torres Novas" .
-<https://distrito/Santarem> <https://distrito/pred/municipio> "Vila Nova da Barquinha" .
-<https://distrito/Setubal> <https://distrito/pred/iddistrito> "15" .
-<https://distrito/Setubal> <https://distrito/pred/nome> "Setubal" .
-<https://distrito/Setubal> <https://distrito/pred/imagem> "httpss://www.portugaltravelguide.com/images/setbal_main.jpg" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Alcacer do Sal" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Alcochete" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Almada" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Barreiro" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Grândola" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Moita" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Montijo" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Palmela" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Santiago do Cacem" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Seixal" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Sesimbra" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Setubal" .
-<https://distrito/Setubal> <https://distrito/pred/municipio> "Sines" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/iddistrito> "16" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/nome> "Viana do Castelo" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/imagem> "httpss://i.ytimg.com/vi/zqKfGVdQ-wo/maxresdefault.jpg" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Viana do Castelo" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Valenca" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Arcos de Valdevez" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Caminha" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Melgaco" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Moncao" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Paredes de Coura" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Ponte da Barca" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Ponte de Lima" .
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> "Vila Nova de Cerveira" .
-<https://distrito/Vila_Real> <https://distrito/pred/iddistrito> "17" .
-<https://distrito/Vila_Real> <https://distrito/pred/nome> "Vila_Real" .
-<https://distrito/Vila_Real> <https://distrito/pred/imagem> "httpss://i.ytimg.com/vi/3NokbWCIeDY/maxresdefault.jpg" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Alijo" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Boticas" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Chaves" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Mesao Frio" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Mondim de Basto" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Montalegre" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Murca" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Peso da Regua" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Ribeira de Pena" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Sabrosa" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Santa Marta de Penaguiao" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Valpacos" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Vila Pouca de Aguiar" .
-<https://distrito/Vila_Real> <https://distrito/pred/municipio> "Vila Real" .
-<https://distrito/Viseu> <https://distrito/pred/iddistrito> "18" .
-<https://distrito/Viseu> <https://distrito/pred/nome> "Viseu" .
-<https://distrito/Viseu> <https://distrito/pred/imagem> "httpss://apipocafrita.files.wordpress.com/2015/07/image.jpg" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Armamar" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Carregal do Sal" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Castro Daire" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Cinfaes" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Lamego" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Mangualde" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Moimenta da Beira" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Mortagua" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Nelas" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Oliveira de Frades" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Penalva do Castelo" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Penedono" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Resende" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Santa Comba Dão" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "São João da Pesqueira" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "São Pedro do Sul" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Satao" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Sernancelhe" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Tabuaco" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Tarouca" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Tondela" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Vila Nova de Paiva" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Viseu" .
-<https://distrito/Viseu> <https://distrito/pred/municipio> "Vouzela" .
-<https://distrito/Madeira> <https://distrito/pred/iddistrito> "19" .
-<https://distrito/Madeira> <https://distrito/pred/nome> "Madeira" .
-<https://distrito/Madeira> <https://distrito/pred/imagem> "httpss://cdn.getyourguide.com/img/tour_img-2136002-146.jpg" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Calheta" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Câmara de Lobos" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Ponta do Sol" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Porto Moniz" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Ribeira Brava" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Santana" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Sao Vicente" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Funchal" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Machico" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Porto Santo" .
-<https://distrito/Madeira> <https://distrito/pred/municipio> "Santa Cruz" .
-<https://distrito/Acores> <https://distrito/pred/iddistrito> "20" .
-<https://distrito/Acores> <https://distrito/pred/nome> "Acores" .
-<https://distrito/Acores> <https://distrito/pred/imagem> "httpss://linktoleaders.com/wp-content/uploads/2019/07/Acores.jpg" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Vila do Porto" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Lagoa" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Nordeste" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Ponta Delgada" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Povoacao" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Ribeira Grande" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Vila Franca do Campo" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Angra do Heroismo" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Praia da Vitoria" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Santa Cruz da Graciosa" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Calheta" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Velas" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Lajes do Pico" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Madalena" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "São Roque do Pico" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Horta" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Lajes das Flores" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Santa Cruz das Flores" .
-<https://distrito/Acores> <https://distrito/pred/municipio> "Vila do Corvo" .
+﻿<http://distrito/Aveiro> <http://distrito/pred/iddistrito>_"1".
+<http://distrito/Aveiro> <http://distrito/pred/nome>_"Aveiro".
+<http://distrito/Aveiro> <http://distrito/pred/imagem>_"https://www.dinheirovivo.pt/wp-content/uploads/2018/05/Aveiro-1060x594.jpg".
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Agueda>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Albergaria-a-Velha>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Anadia>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Arouca>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Aveiro>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Castelo_de_Paiva>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Espinho>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Estarreja>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Ílhavo>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Mealhada>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Murtosa>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Oliveira_de_Azemeis>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Oliveira_do_Bairro>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Ovar>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Santa_Maria_da_Feira>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Sao_Joao_da_Madeira>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Sever_do_Vouga>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Vagos>
+<http://distrito/Aveiro> <http://distrito/pred/municipio> <http://municipio/Vale_de_Cambra>
+
+<http://distrito/Beja> <http://distrito/pred/iddistrito>_"2".
+<http://distrito/Beja> <http://distrito/pred/nome>_"Beja".
+<http://distrito/Beja> <http://distrito/pred/imagem>_"https://i0.wp.com/www.vortexmag.net/wp-content/uploads/2015/06/13435626374_c8e9404f3b_k-e1435264983302.jpg".
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Aljustrel>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Almodovar>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Alvito>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Barrancos>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Beja>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Castro_Verde>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Cuba>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Ferreira_do_Alentejo>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Mertola>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Moura>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Odemira>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Ourique>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Serpa>
+<http://distrito/Beja> <http://distrito/pred/municipio> <http://municipio/Vidigueira>
+
+<http://distrito/Braga> <http://distrito/pred/iddistrito>_"3".
+<http://distrito/Braga> <http://distrito/pred/nome>_"Braga".
+<http://distrito/Braga> <http://distrito/pred/imagem>_"https://www.dicasdeviagem.com/wp-content/uploads/2019/01/avenida-liberdade-braga.jpg".
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Amares>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Barcelos>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Braga>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Cabeceiras_de_Basto>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Celorico_de_Basto>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Esposende>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Fafe>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Guimaraes>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Povoa_de_Lanhoso>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Terras_de_Bouro>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Vieira_do_Minho>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Famalicao>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Vila_Verde>
+<http://distrito/Braga> <http://distrito/pred/municipio> <http://municipio/Vizela>
+
+<http://distrito/Braganca> <http://distrito/pred/iddistrito>_"4".
+<http://distrito/Braganca> <http://distrito/pred/nome>_"Braganca".
+<http://distrito/Braganca> <http://distrito/pred/imagem>_"https://pumpkin.pt/wp-content/uploads/2018/06/Bragan%C3%A7a.jpg".
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Alfândega_da_Fe>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Braganca>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Carrazeda_de_Ansiaes>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Freixo_de_Espada_a_Cinta>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Macedo_de_Cavaleiros>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Miranda_do_Douro>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Mirandela>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Mogadouro>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Torre_de_Moncorvo>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Vila_Flor>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Vimioso>
+<http://distrito/Braganca> <http://distrito/pred/municipio> <http://municipio/Vinhais>
+
+<http://distrito/Castelo_Branco> <http://distrito/pred/iddistrito>_"5".
+<http://distrito/Castelo_Branco> <http://distrito/pred/nome>_"Castelo_Branco".
+<http://distrito/Castelo_Branco> <http://distrito/pred/imagem>_"https://i0.wp.com/www.vortexmag.net/wp-content/uploads/2016/02/jardimcastelo1-e1487074483876.jpg".
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Belmonte>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Castelo_Branco>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Covilha>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Fundao>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Idanha-a-Nova>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Oleiros>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Penamacor>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Proenca-a-Nova>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Serta>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Vila_de_Rei>
+<http://distrito/Castelo_Branco> <http://distrito/pred/municipio> <http://municipio/Vila_Velha_de_Rodao>
+
+<http://distrito/Coimbra> <http://distrito/pred/iddistrito>_"6".
+<http://distrito/Coimbra> <http://distrito/pred/nome>_"Coimbra".
+<http://distrito/Coimbra> <http://distrito/pred/imagem>_"https://mundoviajar.com.br/wp-content/uploads/2019/06/Coimbra_Portugal.jpg".
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Arganil>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Cantanhede>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Coimbra>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Condeixa-a-Nova>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Condeixa-a-Nova>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Figueira_da_Foz>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Gois>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Lousa>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Mira>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Miranda_do_Corvo>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Montemor-o-Velho>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Oliveira_do_Hospital>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Pampilhosa_da_Serra>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Penacova>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Penela>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Soure>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Tabua>
+<http://distrito/Coimbra> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Poiares>
+
+<http://distrito/Évora> <http://distrito/pred/iddistrito>_"7".
+<http://distrito/Évora> <http://distrito/pred/nome>_"Évora".
+<http://distrito/Évora> <http://distrito/pred/imagem>_"https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/025/263/medium/bc7e34afb1ab79c06f416e251b377cc1/portugal-evora-main-square-020719-ch.jpg".
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Alandroal>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Arraiolos>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Borba>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Estremoz>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Évora>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Montemor-o-Novo>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Mora>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Mourao>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Portel>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Redondo>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Reguengos_de_Monsaraz>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Vendas_Novas>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Viana_do_Alentejo>
+<http://distrito/Évora> <http://distrito/pred/municipio> <http://municipio/Vila_Vicosa>
+
+<http://distrito/Faro> <http://distrito/pred/iddistrito>_"8".
+<http://distrito/Faro> <http://distrito/pred/nome>_"Faro".
+<http://distrito/Faro> <http://distrito/pred/imagem>_"http://blog.green-acres.com/wp-content/uploads/2018/02/op_76105_algarve.jpg".
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Albufeira>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Alcoutim>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Aljezur>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Castro_Marim>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Faro>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Lagoa>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Lagos>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Loule>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Monchique>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Olhao>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Portimao>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Sao_Bras_de_Alportel>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Silves>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Tavira>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Vila_do_Bispo>
+<http://distrito/Faro> <http://distrito/pred/municipio> <http://municipio/Vila_Real_de_Santo_Antonio>
+
+<http://distrito/Guarda> <http://distrito/pred/iddistrito>_"9".
+<http://distrito/Guarda> <http://distrito/pred/nome>_"Guarda".
+<http://distrito/Guarda> <http://distrito/pred/imagem>_"https://www.portugaltravelguide.com/images/guarda.jpg".
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Aguiar_da_Beira>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Almeida>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Celorico_da_Beira>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Figueira_de_Castelo_Rodrigo>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Fornos_de_Algodres>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Gouveia>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Guarda>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Manteigas>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Mêda>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Pinhel>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Sabugal>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Seia>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Trancoso>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Foz_Coa>
+<http://distrito/Guarda> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Foz_Coa>
+
+<http://distrito/Leiria> <http://distrito/pred/iddistrito>_"10".
+<http://distrito/Leiria> <http://distrito/pred/nome>_"Leiria".
+<http://distrito/Leiria> <http://distrito/pred/imagem>_"https://media-manager.noticiasaominuto.com/1920/naom_5bed267198a2b.jpg".
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Alcobaca>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Alvaiazere>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Ansiao>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Batalha>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Bombarral>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Bombarral>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Caldas_da_Rainha>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Castanheira_de_Pera>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Figueiro_dos_Vinhos>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Leiria>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Marinha_Grande>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Nazare>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Óbidos>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Pedrogao_Grande>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Peniche>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Pombal>
+<http://distrito/Leiria> <http://distrito/pred/municipio> <http://municipio/Porto_de_Mos>
+
+<http://distrito/Lisboa> <http://distrito/pred/iddistrito>_"11".
+<http://distrito/Lisboa> <http://distrito/pred/nome>_"Lisboa".
+<http://distrito/Lisboa> <http://distrito/pred/imagem>_"https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/TAP_PracaComercio_01e_CL-co.jpg".
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Alenquer>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Amadora>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Arruada_dos_Vinhos>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Azambuja>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Cadaval>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Cascais>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Lisboa>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Loures>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Lourinha>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Mafra>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Odivelas>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Oeiras>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Sintra>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Sobral_de_Monte_Agraco>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Torres_Vedras>
+<http://distrito/Lisboa> <http://distrito/pred/municipio> <http://municipio/Vila_Franca_de_Xira>
+
+<http://distrito/Portalegre> <http://distrito/pred/iddistrito>_"12".
+<http://distrito/Portalegre> <http://distrito/pred/nome>_"Portalegre".
+<http://distrito/Portalegre> <http://distrito/pred/imagem>_"https://pumpkin.pt/wp-content/uploads/2019/07/o-que-fazer-em-portalegre-com-crian%C3%A7as-1024x683.jpg".
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Alter_do_Chao>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Arronches>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Avis>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Campo_Maior>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Castelo_de_Vide>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Crato>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Elvas>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Fronteira>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Gaviao>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Marvao>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Monforte>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Nisa>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Ponte_de_Sor>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Portalegre>
+<http://distrito/Portalegre> <http://distrito/pred/municipio> <http://municipio/Sousel>
+
+<http://distrito/Porto> <http://distrito/pred/iddistrito>_"13".
+<http://distrito/Porto> <http://distrito/pred/nome>_"Porto".
+<http://distrito/Porto> <http://distrito/pred/imagem>_"https://img.theculturetrip.com/768x432/wp-content/uploads/2017/02/esb-professional-shutterstock_365359853.jpg".
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Amarante>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Baiao>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Felgueiras>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Gondomar>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Lousada>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Maia>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Marco_de_Canaveses>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Matosinhos>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Pacos_de_Ferreira>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Paredes>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Penafiel>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Porto>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Povoa_do_Varzim>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Santo_Tirso>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Trofa>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Valongo>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Vila_do_Conde>
+<http://distrito/Porto> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Gaia>
+
+<http://distrito/Santarem> <http://distrito/pred/iddistrito>_"14".
+<http://distrito/Santarem> <http://distrito/pred/nome>_"Santarem".
+<http://distrito/Santarem> <http://distrito/pred/imagem>_"http://www.santarem.pa.gov.br/midias/2017/grandes/up_6_santarem_-_vista_aerea_-_encontro_dos_rios.jpg".
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Abrantes>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Alcanena>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Almeirim>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Alpiarca>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Benavente>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Cartaxo>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Chamusca>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Constância>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Coruche>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Entroncamento>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Ferreira_do_Zêzere>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Golega>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Macao>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Ourem>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Rio_Maior>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Salvaterra_de_Magos>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Santarem>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Sardoal>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Tomar>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Torres_Novas>
+<http://distrito/Santarem> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_da_Barquinha>
+
+<http://distrito/Setubal> <http://distrito/pred/iddistrito>_"15".
+<http://distrito/Setubal> <http://distrito/pred/nome>_"Setubal".
+<http://distrito/Setubal> <http://distrito/pred/imagem>_"https://www.portugaltravelguide.com/images/setbal_main.jpg".
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Alcacer_do_Sal>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Alcochete>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Almada>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Barreiro>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Grândola>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Moita>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Montijo>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Palmela>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Santiago_do_Cacem>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Seixal>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Sesimbra>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Setubal>
+<http://distrito/Setubal> <http://distrito/pred/municipio> <http://municipio/Sines>
+
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/iddistrito>_"16".
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/nome>_"Viana_do_Castelo".
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/imagem>_"https://i.ytimg.com/vi/zqKfGVdQ-wo/maxresdefault.jpg".
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Viana_do_Castelo>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Valenca>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Arcos_de_Valdevez>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Caminha>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Melgaco>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Moncao>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Paredes_de_Coura>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Ponte_da_Barca>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Ponte_de_Lima>
+<http://distrito/Viana_do_Castelo> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Cerveira>
+
+<http://distrito/Vila_Real> <http://distrito/pred/iddistrito>_"17".
+<http://distrito/Vila_Real> <http://distrito/pred/nome>_"Vila_Real".
+<http://distrito/Vila_Real> <http://distrito/pred/imagem>_"https://i.ytimg.com/vi/3NokbWCIeDY/maxresdefault.jpg".
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Alijo>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Boticas>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Chaves>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Mesao_Frio>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Mondim_de_Basto>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Montalegre>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Murca>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Peso_da_Regua>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Ribeira_de_Pena>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Sabrosa>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Santa_Marta_de_Penaguiao>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Valpacos>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Vila_Pouca_de_Aguiar>
+<http://distrito/Vila_Real> <http://distrito/pred/municipio> <http://municipio/Vila_Real>
+
+<http://distrito/Viseu> <http://distrito/pred/iddistrito>_"18".
+<http://distrito/Viseu> <http://distrito/pred/nome>_"Viseu".
+<http://distrito/Viseu> <http://distrito/pred/imagem>_"https://apipocafrita.files.wordpress.com/2015/07/image.jpg".
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Armamar>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Carregal_do_Sal>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Castro_Daire>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Cinfaes>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Lamego>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Mangualde>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Moimenta_da_Beira>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Mortagua>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Nelas>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Oliveira_de_Frades>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Penalva_do_Castelo>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Penedono>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Resende>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Santa_Comba_Dao>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Sao_Joao_da_Pesqueira>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Sao_Pedro_do_Sul>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Satao>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Sernancelhe>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Tabuaco>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Tarouca>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Tondela>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Vila_Nova_de_Paiva>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Viseu>
+<http://distrito/Viseu> <http://distrito/pred/municipio> <http://municipio/Vouzela>
+
+<http://distrito/Madeira> <http://distrito/pred/iddistrito>_"19".
+<http://distrito/Madeira> <http://distrito/pred/nome>_"Madeira".
+<http://distrito/Madeira> <http://distrito/pred/imagem>_"https://cdn.getyourguide.com/img/tour_img-2136002-146.jpg".
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Calheta>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Câmara_de_Lobos>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Ponta_do_Sol>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Porto_Moniz>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Ribeira_Brava>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Santana>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Sao_Vicente>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Funchal>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Machico>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Porto_Santo>
+<http://distrito/Madeira> <http://distrito/pred/municipio> <http://municipio/Santa_Cruz>
+
+<http://distrito/Acores> <http://distrito/pred/iddistrito>_"20".
+<http://distrito/Acores> <http://distrito/pred/nome>_"Acores".
+<http://distrito/Acores> <http://distrito/pred/imagem>_"https://linktoleaders.com/wp-content/uploads/2019/07/Acores.jpg".
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Vila_do_Porto>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Lagoa>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Nordeste>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Ponta_Delgada>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Povoacao>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Ribeira_Grande>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Vila_Franca_do_Campo>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Angra_do_Heroísmo>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Praia_da_Vitoria>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Santa_Cruz_da_Graciosa>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Calheta>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Velas>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Lajes_do_Pico>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Madalena>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Sao_Roque_do_Pico>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Horta>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Lajes_das_Flores>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Santa_Cruz_das_Flores>
+<http://distrito/Acores> <http://distrito/pred/municipio> <http://municipio/Vila_do_Corvo>
