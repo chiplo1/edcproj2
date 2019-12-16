@@ -19,7 +19,7 @@ from proj2 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    #path('', views.main, name=''),
+    path('', views.main, name=''),
     #path('distritos/', views.distritos, name='distritos'),
     #path('distritoDetail/', views.distritoDetail, name='distritoDetail'),
     #path('municipioDetail/', views.municipioDetail, name='municipioDetail'),

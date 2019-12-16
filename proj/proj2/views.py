@@ -2,8 +2,14 @@ from django.shortcuts import render
 
 # Create your views here.
 import json
+from lxml import etree
+import xmltodict
+from BaseXClient import BaseXClient
 from s4api.graphdb_api import GraphDBApi
 from s4api.swagger import ApiClient
+
+def main(request):
+    return render(request, 'newmain.html')
 
 def distrito(request):
     endpoint = "http://localhost:7200"
