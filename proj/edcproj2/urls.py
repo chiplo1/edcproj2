@@ -15,17 +15,17 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from app import views
+from proj2 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.main, name=''),
-    path('distritos/', views.distritos, name='distritos'),
-    path('distritoDetail/', views.distritoDetail, name='distritoDetail'),
-    path('municipioDetail/', views.municipioDetail, name='municipioDetail'),
-    path('interesseDetail/', views.interesseDetail, name='interesseDetail'),
-    path('validateXML/', views.validateXML, name='validateXML'),  ## TEST ONLY
-    path('interesses/', views.interesses, name='interesses'),
-    path('sobre/', views.sobre, name='sobre'),
-    path('labelList/', views.labelList, name='labelList')
+    #path('', views.main, name=''),
+    #path('distritos/', views.distritos, name='distritos'),
+    #path('distritoDetail/', views.distritoDetail, name='distritoDetail'),
+    #path('municipioDetail/', views.municipioDetail, name='municipioDetail'),
+    #path('interesseDetail/', views.interesseDetail, name='interesseDetail'),
+    #path('validateXML/', views.validateXML, name='validateXML'),  ## TEST ONLY
+    #path('interesses/', views.interesses, name='interesses'),
+    #path('sobre/', views.sobre, name='sobre'),
+    #path('labelList/', views.labelList, name='labelList')
 ]
