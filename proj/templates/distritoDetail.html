@@ -105,7 +105,7 @@
             <form action="/municipioDetail/" method='get'>
                 {% if key != "nomedistrito" and key != "numpopulacao" and key != "areatotal" and key != "imagemdistrito" and key != "densidadedistrito" and value != None %}
                     <h4><span class="minortab"> {{value}}: </span></h4>
-                    <h4><span class="minortab"> <button name=id value = {{ key }} class="btn"> Ver Detalhes</button> </span></h4>
+                    <h4><span class="minortab"> <button name=distrito value = {{ key }} class="btn"> Ver Detalhes</button> </span></h4>
                 {% endif %}
             </form>
       {% endfor %}
