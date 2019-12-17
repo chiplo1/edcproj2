@@ -105,23 +105,23 @@
 <https://distrito/Coimbra> <https://distrito/pred/municipio> <https://municipio/Soure> .
 <https://distrito/Coimbra> <https://distrito/pred/municipio> <https://municipio/TAbua> .
 <https://distrito/Coimbra> <https://distrito/pred/municipio> <https://municipio/Vila_Nova_de_Poiares> .
-<https://distrito/Évora> <https://distrito/pred/iddistrito> "7".
-<https://distrito/Évora> <https://distrito/pred/nome> "Évora".
-<https://distrito/Évora> <https://distrito/pred/imagem> "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/025/263/medium/bc7e34afb1ab79c06f416e251b377cc1/portugal-evora-main-square-020719-ch.jpg".
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Alandroal> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Arraiolos> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Borba> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Estremoz> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Évora> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Montemor-o-Novo> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Mora> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Mourao> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Portel> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Redondo> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Reguengos_de_Monsaraz> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Vendas_Novas> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Viana_do_Alentejo> .
-<https://distrito/Évora> <https://distrito/pred/municipio> <https://municipio/Vila_Vicosa> .
+<https://distrito/Evora> <https://distrito/pred/iddistrito> "7".
+<https://distrito/Evora> <https://distrito/pred/nome> "Evora".
+<https://distrito/Evora> <https://distrito/pred/imagem> "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/025/263/medium/bc7e34afb1ab79c06f416e251b377cc1/portugal-evora-main-square-020719-ch.jpg".
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Alandroal> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Arraiolos> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Borba> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Estremoz> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Evora> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Montemor-o-Novo> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Mora> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Mourao> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Portel> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Redondo> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Reguengos_de_Monsaraz> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Vendas_Novas> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Viana_do_Alentejo> .
+<https://distrito/Evora> <https://distrito/pred/municipio> <https://municipio/Vila_Vicosa> .
 <https://distrito/Faro> <https://distrito/pred/iddistrito> "8".
 <https://distrito/Faro> <https://distrito/pred/nome> "Faro".
 <https://distrito/Faro> <https://distrito/pred/imagem> "http://blog.green-acres.com/wp-content/uploads/2018/02/op_76105_algarve.jpg".
@@ -130,7 +130,7 @@
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Aljezur> .
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Castro_Marim> .
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Faro> .
-<https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Lagoa> .
+<https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Lagoa_Algarve> .
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Lagos> .
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Loule> .
 <https://distrito/Faro> <https://distrito/pred/municipio> <https://municipio/Monchique> .
@@ -337,7 +337,7 @@
 <https://distrito/Madeira> <https://distrito/pred/iddistrito> "19".
 <https://distrito/Madeira> <https://distrito/pred/nome> "Madeira".
 <https://distrito/Madeira> <https://distrito/pred/imagem> "https://cdn.getyourguide.com/img/tour_img-2136002-146.jpg".
-<https://distrito/Madeira> <https://distrito/pred/municipio> <https://municipio/Calheta> .
+<https://distrito/Madeira> <https://distrito/pred/municipio> <https://municipio/Calheta_Madeira> .
 <https://distrito/Madeira> <https://distrito/pred/municipio> <https://municipio/Camara_de_Lobos> .
 <https://distrito/Madeira> <https://distrito/pred/municipio> <https://municipio/Ponta_do_Sol> .
 <https://distrito/Madeira> <https://distrito/pred/municipio> <https://municipio/Porto_Moniz> .
@@ -352,7 +352,7 @@
 <https://distrito/Acores> <https://distrito/pred/nome> "Acores".
 <https://distrito/Acores> <https://distrito/pred/imagem> "https://linktoleaders.com/wp-content/uploads/2019/07/Acores.jpg".
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Vila_do_Porto> .
-<https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Lagoa> .
+<https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Lagoa_Acores> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Nordeste> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Ponta_Delgada> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Povoacao> .
@@ -361,7 +361,7 @@
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Angra_do_Heroismo> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Praia_da_Vitoria> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Santa_Cruz_da_Graciosa> .
-<https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Calheta> .
+<https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Calheta_Acores> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Velas> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Lajes_do_Pico> .
 <https://distrito/Acores> <https://distrito/pred/municipio> <https://municipio/Madalena> .
@@ -403,7 +403,7 @@
 <https://municipio/Aveiro> <https://municipio/pred/denspop> "366".
 <https://municipio/Aveiro> <https://municipio/pred/interesse> <https://interesse/Salinas_de_Aveiro> .
 <https://municipio/Castelo_de_Paiva> <https://municipio/pred/idmun> "6".
-<https://municipio/Castelo_de_Paiva> <https://municipio/pred/nome> "Castelo_de_Paiva".
+<https://municipio/Castelo_de_Paiva> <https://municipio/pred/nome> "Castelo de Paiva".
 <https://municipio/Castelo_de_Paiva> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Castelo_de_Paiva> <https://municipio/pred/area> "114.67".
 <https://municipio/Castelo_de_Paiva> <https://municipio/pred/pop> "16785".
@@ -441,13 +441,13 @@
 <https://municipio/Murtosa> <https://municipio/pred/pop> "9847".
 <https://municipio/Murtosa> <https://municipio/pred/denspop> "134".
 <https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/idmun> "12".
-<https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/nome> "Oliveira_de_Azemeis".
+<https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/nome> "Oliveira de Azemeis".
 <https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/area> "163.41".
 <https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/pop> "71210".
 <https://municipio/Oliveira_de_Azemeis> <https://municipio/pred/denspop> "436".
 <https://municipio/Oliveira_do_Bairro> <https://municipio/pred/idmun> "13".
-<https://municipio/Oliveira_do_Bairro> <https://municipio/pred/nome> "Oliveira_do_Bairro".
+<https://municipio/Oliveira_do_Bairro> <https://municipio/pred/nome> "Oliveira do Bairro".
 <https://municipio/Oliveira_do_Bairro> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Oliveira_do_Bairro> <https://municipio/pred/area> "87.28".
 <https://municipio/Oliveira_do_Bairro> <https://municipio/pred/pop> "23504".
@@ -460,20 +460,20 @@
 <https://municipio/Ovar> <https://municipio/pred/denspop> "393".
 <https://municipio/Ovar> <https://municipio/pred/interesse> <https://interesse/Pao-de-lo_de_Ovar> .
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/idmun> "15".
-<https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/nome> "Santa_Maria_da_Feira".
+<https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/nome> "Santa Maria da Feira".
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/area> "213.45".
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/pop> "147406".
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/denspop> "691".
 <https://municipio/Santa_Maria_da_Feira> <https://municipio/pred/interesse> <https://interesse/Castelo_de_Santa_Maria_da_Feira> .
 <https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/idmun> "16".
-<https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/nome> "Sao_Joao_da_Madeira".
+<https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/nome> "Sao Joao da Madeira".
 <https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/area> "8.11".
 <https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/pop> "21762".
 <https://municipio/Sao_Joao_da_Madeira> <https://municipio/pred/denspop> "2683".
 <https://municipio/Sever_do_Vouga> <https://municipio/pred/idmun> "17".
-<https://municipio/Sever_do_Vouga> <https://municipio/pred/nome> "Sever_do_Vouga".
+<https://municipio/Sever_do_Vouga> <https://municipio/pred/nome> "Sever do Vouga".
 <https://municipio/Sever_do_Vouga> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Sever_do_Vouga> <https://municipio/pred/area> "129.85".
 <https://municipio/Sever_do_Vouga> <https://municipio/pred/pop> "12643".
@@ -485,7 +485,7 @@
 <https://municipio/Vagos> <https://municipio/pred/pop> "24107".
 <https://municipio/Vagos> <https://municipio/pred/denspop> "146".
 <https://municipio/Vale_de_Cambra> <https://municipio/pred/idmun> "19".
-<https://municipio/Vale_de_Cambra> <https://municipio/pred/nome> "Vale_de_Cambra".
+<https://municipio/Vale_de_Cambra> <https://municipio/pred/nome> "Vale de Cambra".
 <https://municipio/Vale_de_Cambra> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vale_de_Cambra> <https://municipio/pred/area> "146.21".
 <https://municipio/Vale_de_Cambra> <https://municipio/pred/pop> "24360".
@@ -523,7 +523,7 @@
 <https://municipio/Beja> <https://municipio/pred/denspop> "30".
 <https://municipio/Beja> <https://municipio/pred/interesse> <https://interesse/Gaspacho> .
 <https://municipio/Castro_Verde> <https://municipio/pred/idmun> "25".
-<https://municipio/Castro_Verde> <https://municipio/pred/nome> "Castro_Verde".
+<https://municipio/Castro_Verde> <https://municipio/pred/nome> "Castro Verde".
 <https://municipio/Castro_Verde> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Castro_Verde> <https://municipio/pred/area> "567.31".
 <https://municipio/Castro_Verde> <https://municipio/pred/pop> "7782".
@@ -535,7 +535,7 @@
 <https://municipio/Cuba> <https://municipio/pred/pop> "4674".
 <https://municipio/Cuba> <https://municipio/pred/denspop> "27".
 <https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/idmun> "27".
-<https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/nome> "Ferreira_do_Alentejo".
+<https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/nome> "Ferreira do Alentejo".
 <https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/area> "648.45".
 <https://municipio/Ferreira_do_Alentejo> <https://municipio/pred/pop> "8132".
@@ -599,13 +599,13 @@
 <https://municipio/Braga> <https://municipio/pred/denspop> "960".
 <https://municipio/Braga> <https://municipio/pred/interesse> <https://interesse/Bacalhau_a_Narcisa> .
 <https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/idmun> "37".
-<https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/nome> "Cabeceiras_de_Basto".
+<https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/nome> "Cabeceiras de Basto".
 <https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/area> "241.82".
 <https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/pop> "17635".
 <https://municipio/Cabeceiras_de_Basto> <https://municipio/pred/denspop> "73".
 <https://municipio/Celorico_de_Basto> <https://municipio/pred/idmun> "38".
-<https://municipio/Celorico_de_Basto> <https://municipio/pred/nome> "Celorico_de_Basto".
+<https://municipio/Celorico_de_Basto> <https://municipio/pred/nome> "Celorico de Basto".
 <https://municipio/Celorico_de_Basto> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Celorico_de_Basto> <https://municipio/pred/area> "181.07".
 <https://municipio/Celorico_de_Basto> <https://municipio/pred/pop> "19767".
@@ -630,33 +630,33 @@
 <https://municipio/Guimaraes> <https://municipio/pred/denspop> "675".
 <https://municipio/Guimaraes> <https://municipio/pred/interesse> <https://interesse/Paco_dos_Duques_de_Braganca> .
 <https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/idmun> "42".
-<https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/nome> "Povoa_de_Lanhoso".
+<https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/nome> "Povoa de Lanhoso".
 <https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/area> "134.65".
 <https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/pop> "24230".
 <https://municipio/Povoa_de_Lanhoso> <https://municipio/pred/denspop> "184".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/idmun> "43".
-<https://municipio/Terras_de_Bouro> <https://municipio/pred/nome> "Terras_de_Bouro".
+<https://municipio/Terras_de_Bouro> <https://municipio/pred/nome> "Terras de Bouro".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/area> "277.46".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/pop> "7506".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/denspop> "27".
 <https://municipio/Terras_de_Bouro> <https://municipio/pred/interesse> <https://interesse/Cascata_do_Arado> .
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/idmun> "44".
-<https://municipio/Vieira_do_Minho> <https://municipio/pred/nome> "Vieira_do_Minho".
+<https://municipio/Vieira_do_Minho> <https://municipio/pred/nome> "Vieira do Minho".
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/area> "216.44".
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/pop> "14077".
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/denspop> "65".
 <https://municipio/Vieira_do_Minho> <https://municipio/pred/interesse> <https://interesse/SantuArio_Nossa_Senhora_da_Lapa> .
 <https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/idmun> "45".
-<https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/nome> "Vila_Nova_de_Famalicao".
+<https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/nome> "Vila Nova de Famalicao".
 <https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/area> "201.59".
 <https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/pop> "134969".
 <https://municipio/Vila_Nova_de_Famalicao> <https://municipio/pred/denspop> "669".
 <https://municipio/Vila_Verde> <https://municipio/pred/idmun> "46".
-<https://municipio/Vila_Verde> <https://municipio/pred/nome> "Vila_Verde".
+<https://municipio/Vila_Verde> <https://municipio/pred/nome> "Vila Verde".
 <https://municipio/Vila_Verde> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Verde> <https://municipio/pred/area> "228.67".
 <https://municipio/Vila_Verde> <https://municipio/pred/pop> "49171".
@@ -668,7 +668,7 @@
 <https://municipio/Vizela> <https://municipio/pred/pop> "24477".
 <https://municipio/Vizela> <https://municipio/pred/denspop> "1023".
 <https://municipio/Alfandega_da_Fe> <https://municipio/pred/idmun> "48".
-<https://municipio/Alfandega_da_Fe> <https://municipio/pred/nome> "Alfandega_da_Fe".
+<https://municipio/Alfandega_da_Fe> <https://municipio/pred/nome> "Alfandega da Fe".
 <https://municipio/Alfandega_da_Fe> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Alfandega_da_Fe> <https://municipio/pred/area> "321.96".
 <https://municipio/Alfandega_da_Fe> <https://municipio/pred/pop> "5368".
@@ -681,26 +681,26 @@
 <https://municipio/Braganca> <https://municipio/pred/denspop> "29".
 <https://municipio/Braganca> <https://municipio/pred/interesse> <https://interesse/Castelo_de_Braganca> .
 <https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/idmun> "50".
-<https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/nome> "Carrazeda_de_Ansiaes".
+<https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/nome> "Carrazeda de Ansiaes".
 <https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/area> "280.91".
 <https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/pop> "6744".
 <https://municipio/Carrazeda_de_Ansiaes> <https://municipio/pred/denspop> "24".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/idmun> "51".
-<https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/nome> "Freixo_de_Espada_a_Cinta".
+<https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/nome> "Freixo de Espada a Cinta".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/area> "244.49".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/pop> "3834".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/denspop> "16".
 <https://municipio/Freixo_de_Espada_a_Cinta> <https://municipio/pred/interesse> <https://interesse/Gravuras_Ruprestres_de_Mazouco> .
 <https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/idmun> "52".
-<https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/nome> "Macedo_de_Cavaleiros".
+<https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/nome> "Macedo de Cavaleiros".
 <https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/area> "699.27".
 <https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/pop> "16766".
 <https://municipio/Macedo_de_Cavaleiros> <https://municipio/pred/denspop> "23".
 <https://municipio/Miranda_do_Douro> <https://municipio/pred/idmun> "53".
-<https://municipio/Miranda_do_Douro> <https://municipio/pred/nome> "Miranda_do_Douro".
+<https://municipio/Miranda_do_Douro> <https://municipio/pred/nome> "Miranda do Douro".
 <https://municipio/Miranda_do_Douro> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Miranda_do_Douro> <https://municipio/pred/area> "488.36".
 <https://municipio/Miranda_do_Douro> <https://municipio/pred/pop> "7295".
@@ -721,13 +721,13 @@
 <https://municipio/Mogadouro> <https://municipio/pred/denspop> "14".
 <https://municipio/Mogadouro> <https://municipio/pred/interesse> <https://interesse/Castelo_de_Mogadouro> .
 <https://municipio/Torre_de_Moncorvo> <https://municipio/pred/idmun> "56".
-<https://municipio/Torre_de_Moncorvo> <https://municipio/pred/nome> "Torre_de_Moncorvo".
+<https://municipio/Torre_de_Moncorvo> <https://municipio/pred/nome> "Torre de Moncorvo".
 <https://municipio/Torre_de_Moncorvo> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Torre_de_Moncorvo> <https://municipio/pred/area> "532.77".
 <https://municipio/Torre_de_Moncorvo> <https://municipio/pred/pop> "8829".
 <https://municipio/Torre_de_Moncorvo> <https://municipio/pred/denspop> "17".
 <https://municipio/Vila_Flor> <https://municipio/pred/idmun> "57".
-<https://municipio/Vila_Flor> <https://municipio/pred/nome> "Vila_Flor".
+<https://municipio/Vila_Flor> <https://municipio/pred/nome> "Vila Flor".
 <https://municipio/Vila_Flor> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Flor> <https://municipio/pred/area> "265.52".
 <https://municipio/Vila_Flor> <https://municipio/pred/pop> "7432".
@@ -753,7 +753,7 @@
 <https://municipio/Belmonte> <https://municipio/pred/denspop> "68".
 <https://municipio/Belmonte> <https://municipio/pred/interesse> <https://interesse/Castelo_de_Belmonte> .
 <https://municipio/Castelo_Branco> <https://municipio/pred/idmun> "61".
-<https://municipio/Castelo_Branco> <https://municipio/pred/nome> "Castelo_Branco".
+<https://municipio/Castelo_Branco> <https://municipio/pred/nome> "Castelo Branco".
 <https://municipio/Castelo_Branco> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Castelo_Branco> <https://municipio/pred/area> "1438.16".
 <https://municipio/Castelo_Branco> <https://municipio/pred/pop> "56109".
@@ -772,7 +772,7 @@
 <https://municipio/Fundao> <https://municipio/pred/area> "700.13".
 <https://municipio/Fundao> <https://municipio/pred/pop> "29213".
 <https://municipio/Fundao> <https://municipio/pred/denspop> "44".
-<https://municipio/Fundao> <https://municipio/pred/interesse> <https://interesse/Cereija_do_Fundao> .
+<https://municipio/Fundao> <https://municipio/pred/interesse> <https://interesse/Cereja_do_Fundao> .
 <https://municipio/Idanha-a-Nova> <https://municipio/pred/idmun> "64".
 <https://municipio/Idanha-a-Nova> <https://municipio/pred/nome> "Idanha-a-Nova".
 <https://municipio/Idanha-a-Nova> <https://municipio/pred/regiao> "Centro".
@@ -806,13 +806,13 @@
 <https://municipio/Serta> <https://municipio/pred/denspop> "35".
 <https://municipio/Serta> <https://municipio/pred/interesse> <https://interesse/Castelo_da_Serta> .
 <https://municipio/Vila_de_Rei> <https://municipio/pred/idmun> "69".
-<https://municipio/Vila_de_Rei> <https://municipio/pred/nome> "Vila_de_Rei".
+<https://municipio/Vila_de_Rei> <https://municipio/pred/nome> "Vila de Rei".
 <https://municipio/Vila_de_Rei> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Vila_de_Rei> <https://municipio/pred/area> "191.26".
 <https://municipio/Vila_de_Rei> <https://municipio/pred/pop> "3452".
 <https://municipio/Vila_de_Rei> <https://municipio/pred/denspop> "16".
 <https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/idmun> "70".
-<https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/nome> "Vila_Velha_de_Rodao".
+<https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/nome> "Vila Velha de Rodao".
 <https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/area> "329.93".
 <https://municipio/Vila_Velha_de_Rodao> <https://municipio/pred/pop> "3521".
@@ -842,14 +842,8 @@
 <https://municipio/Condeixa-a-Nova> <https://municipio/pred/area> "138.68".
 <https://municipio/Condeixa-a-Nova> <https://municipio/pred/pop> "17078".
 <https://municipio/Condeixa-a-Nova> <https://municipio/pred/denspop> "123.1".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/idmun> "104".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/nome> "Condeixa-a-Nova".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/regiao> "Centro".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/area> "138.68".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/pop> "17078".
-<https://municipio/Condeixa-a-Nova> <https://municipio/pred/denspop> "123.1".
 <https://municipio/Figueira_da_Foz> <https://municipio/pred/idmun> "105".
-<https://municipio/Figueira_da_Foz> <https://municipio/pred/nome> "Figueira_da_Foz".
+<https://municipio/Figueira_da_Foz> <https://municipio/pred/nome> "Figueira da Foz".
 <https://municipio/Figueira_da_Foz> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Figueira_da_Foz> <https://municipio/pred/area> "379.05".
 <https://municipio/Figueira_da_Foz> <https://municipio/pred/pop> "62125".
@@ -873,7 +867,7 @@
 <https://municipio/Mira> <https://municipio/pred/pop> "12465".
 <https://municipio/Mira> <https://municipio/pred/denspop> "100.5".
 <https://municipio/Miranda_do_Corvo> <https://municipio/pred/idmun> "109".
-<https://municipio/Miranda_do_Corvo> <https://municipio/pred/nome> "Miranda_do_Corvo".
+<https://municipio/Miranda_do_Corvo> <https://municipio/pred/nome> "Miranda do Corvo".
 <https://municipio/Miranda_do_Corvo> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Miranda_do_Corvo> <https://municipio/pred/area> "126.38".
 <https://municipio/Miranda_do_Corvo> <https://municipio/pred/pop> "13098".
@@ -885,13 +879,13 @@
 <https://municipio/Montemor-o-Velho> <https://municipio/pred/pop> "26171".
 <https://municipio/Montemor-o-Velho> <https://municipio/pred/denspop> "114.3".
 <https://municipio/Oliveira_do_Hospital> <https://municipio/pred/idmun> "111".
-<https://municipio/Oliveira_do_Hospital> <https://municipio/pred/nome> "Oliveira_do_Hospital".
+<https://municipio/Oliveira_do_Hospital> <https://municipio/pred/nome> "Oliveira do Hospital".
 <https://municipio/Oliveira_do_Hospital> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Oliveira_do_Hospital> <https://municipio/pred/area> "234.52".
 <https://municipio/Oliveira_do_Hospital> <https://municipio/pred/pop> "20855".
 <https://municipio/Oliveira_do_Hospital> <https://municipio/pred/denspop> "88.9".
 <https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/idmun> "112".
-<https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/nome> "Pampilhosa_da_Serra".
+<https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/nome> "Pampilhosa da Serra".
 <https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/area> "396.46".
 <https://municipio/Pampilhosa_da_Serra> <https://municipio/pred/pop> "4481".
@@ -915,13 +909,13 @@
 <https://municipio/Soure> <https://municipio/pred/pop> "19245".
 <https://municipio/Soure> <https://municipio/pred/denspop> "72.9".
 <https://municipio/TAbua> <https://municipio/pred/idmun> "116".
-<https://municipio/TAbua> <https://municipio/pred/nome> "TAbua".
+<https://municipio/TAbua> <https://municipio/pred/nome> "Tabua".
 <https://municipio/TAbua> <https://municipio/pred/regiao> "Centro".
 <https://municipio/TAbua> <https://municipio/pred/area> "199.79".
 <https://municipio/TAbua> <https://municipio/pred/pop> "12071".
 <https://municipio/TAbua> <https://municipio/pred/denspop> "60.4".
 <https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/idmun> "117".
-<https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/nome> "Vila_Nova_de_Poiares".
+<https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/nome> "Vila Nova de Poiares".
 <https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/area> "84.45".
 <https://municipio/Vila_Nova_de_Poiares> <https://municipio/pred/pop> "7281".
@@ -950,12 +944,12 @@
 <https://municipio/Estremoz> <https://municipio/pred/area> "513.80".
 <https://municipio/Estremoz> <https://municipio/pred/pop> "14318".
 <https://municipio/Estremoz> <https://municipio/pred/denspop> "27.9".
-<https://municipio/Évora> <https://municipio/pred/idmun> "122".
-<https://municipio/Évora> <https://municipio/pred/nome> "Évora".
-<https://municipio/Évora> <https://municipio/pred/regiao> "Alentejo".
-<https://municipio/Évora> <https://municipio/pred/area> "1307.08".
-<https://municipio/Évora> <https://municipio/pred/pop> "56596".
-<https://municipio/Évora> <https://municipio/pred/denspop> "43.3".
+<https://municipio/Evora> <https://municipio/pred/idmun> "122".
+<https://municipio/Evora> <https://municipio/pred/nome> "Evora".
+<https://municipio/Evora> <https://municipio/pred/regiao> "Alentejo".
+<https://municipio/Evora> <https://municipio/pred/area> "1307.08".
+<https://municipio/Evora> <https://municipio/pred/pop> "56596".
+<https://municipio/Evora> <https://municipio/pred/denspop> "43.3".
 <https://municipio/Montemor-o-Novo> <https://municipio/pred/idmun> "123".
 <https://municipio/Montemor-o-Novo> <https://municipio/pred/nome> "Montemor-o-Novo".
 <https://municipio/Montemor-o-Novo> <https://municipio/pred/regiao> "Alentejo".
@@ -987,25 +981,25 @@
 <https://municipio/Redondo> <https://municipio/pred/pop> "7031".
 <https://municipio/Redondo> <https://municipio/pred/denspop> "19".
 <https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/idmun> "128".
-<https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/nome> "Reguengos_de_Monsaraz".
+<https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/nome> "Reguengos de Monsaraz".
 <https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/area> "464.00".
 <https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/pop> "10828".
 <https://municipio/Reguengos_de_Monsaraz> <https://municipio/pred/denspop> "23.3".
 <https://municipio/Vendas_Novas> <https://municipio/pred/idmun> "129".
-<https://municipio/Vendas_Novas> <https://municipio/pred/nome> "Vendas_Novas".
+<https://municipio/Vendas_Novas> <https://municipio/pred/nome> "Vendas Novas".
 <https://municipio/Vendas_Novas> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Vendas_Novas> <https://municipio/pred/area> "222.39".
 <https://municipio/Vendas_Novas> <https://municipio/pred/pop> "11846".
 <https://municipio/Vendas_Novas> <https://municipio/pred/denspop> "53.3".
 <https://municipio/Viana_do_Alentejo> <https://municipio/pred/idmun> "130".
-<https://municipio/Viana_do_Alentejo> <https://municipio/pred/nome> "Viana_do_Alentejo".
+<https://municipio/Viana_do_Alentejo> <https://municipio/pred/nome> "Viana do Alentejo".
 <https://municipio/Viana_do_Alentejo> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Viana_do_Alentejo> <https://municipio/pred/area> "393.67".
 <https://municipio/Viana_do_Alentejo> <https://municipio/pred/pop> "5743".
 <https://municipio/Viana_do_Alentejo> <https://municipio/pred/denspop> "14.6".
 <https://municipio/Vila_Vicosa> <https://municipio/pred/idmun> "131".
-<https://municipio/Vila_Vicosa> <https://municipio/pred/nome> "Vila_Vicosa".
+<https://municipio/Vila_Vicosa> <https://municipio/pred/nome> "Vila Vicosa".
 <https://municipio/Vila_Vicosa> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Vila_Vicosa> <https://municipio/pred/area> "194.86".
 <https://municipio/Vila_Vicosa> <https://municipio/pred/pop> "6319".
@@ -1029,7 +1023,7 @@
 <https://municipio/Aljezur> <https://municipio/pred/pop> "5884".
 <https://municipio/Aljezur> <https://municipio/pred/denspop> "18.2".
 <https://municipio/Castro_Marim> <https://municipio/pred/idmun> "135".
-<https://municipio/Castro_Marim> <https://municipio/pred/nome> "Castro_Marim".
+<https://municipio/Castro_Marim> <https://municipio/pred/nome> "Castro Marim".
 <https://municipio/Castro_Marim> <https://municipio/pred/regiao> "Algarve".
 <https://municipio/Castro_Marim> <https://municipio/pred/area> "300.84".
 <https://municipio/Castro_Marim> <https://municipio/pred/pop> "6747".
@@ -1040,12 +1034,12 @@
 <https://municipio/Faro> <https://municipio/pred/area> "202.57".
 <https://municipio/Faro> <https://municipio/pred/pop> "64560".
 <https://municipio/Faro> <https://municipio/pred/denspop> "319.8".
-<https://municipio/Lagoa> <https://municipio/pred/idmun> "137".
-<https://municipio/Lagoa> <https://municipio/pred/nome> "Lagoa".
-<https://municipio/Lagoa> <https://municipio/pred/regiao> "Algarve".
-<https://municipio/Lagoa> <https://municipio/pred/area> "88.25".
-<https://municipio/Lagoa> <https://municipio/pred/pop> "22975".
-<https://municipio/Lagoa> <https://municipio/pred/denspop> "260.3".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/idmun> "137".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/nome> "Lagoa".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/regiao> "Algarve".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/area> "88.25".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/pop> "22975".
+<https://municipio/Lagoa_Algarve> <https://municipio/pred/denspop> "260.3".
 <https://municipio/Lagos> <https://municipio/pred/idmun> "138".
 <https://municipio/Lagos> <https://municipio/pred/nome> "Lagos".
 <https://municipio/Lagos> <https://municipio/pred/regiao> "Algarve".
@@ -1077,7 +1071,7 @@
 <https://municipio/Portimao> <https://municipio/pred/pop> "55614".
 <https://municipio/Portimao> <https://municipio/pred/denspop> "305.5".
 <https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/idmun> "143".
-<https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/nome> "Sao_BrAs_de_Alportel".
+<https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/nome> "Sao Bras de Alportel".
 <https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/regiao> "Algarve".
 <https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/area> "153.37".
 <https://municipio/Sao_BrAs_de_Alportel> <https://municipio/pred/pop> "10662".
@@ -1095,19 +1089,19 @@
 <https://municipio/Tavira> <https://municipio/pred/pop> "26167".
 <https://municipio/Tavira> <https://municipio/pred/denspop> "43.1".
 <https://municipio/Vila_do_Bispo> <https://municipio/pred/idmun> "146".
-<https://municipio/Vila_do_Bispo> <https://municipio/pred/nome> "Vila_do_Bispo".
+<https://municipio/Vila_do_Bispo> <https://municipio/pred/nome> "Vila do Bispo".
 <https://municipio/Vila_do_Bispo> <https://municipio/pred/regiao> "Algarve".
 <https://municipio/Vila_do_Bispo> <https://municipio/pred/area> "179.06".
 <https://municipio/Vila_do_Bispo> <https://municipio/pred/pop> "5258".
 <https://municipio/Vila_do_Bispo> <https://municipio/pred/denspop> "29.4".
 <https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/idmun> "147".
-<https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/nome> "Vila_Real_de_Santo_Antonio".
+<https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/nome> "Vila Real de Santo Antonio".
 <https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/regiao> "Algarve".
 <https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/area> "61.25".
 <https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/pop> "19156".
 <https://municipio/Vila_Real_de_Santo_Antonio> <https://municipio/pred/denspop> "312.8".
 <https://municipio/Aguiar_da_Beira> <https://municipio/pred/idmun> "148".
-<https://municipio/Aguiar_da_Beira> <https://municipio/pred/nome> "Aguiar_da_Beira".
+<https://municipio/Aguiar_da_Beira> <https://municipio/pred/nome> "Aguiar da Beira".
 <https://municipio/Aguiar_da_Beira> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Aguiar_da_Beira> <https://municipio/pred/area> "206.77".
 <https://municipio/Aguiar_da_Beira> <https://municipio/pred/pop> "5473".
@@ -1119,19 +1113,19 @@
 <https://municipio/Almeida> <https://municipio/pred/pop> "7242".
 <https://municipio/Almeida> <https://municipio/pred/denspop> "14".
 <https://municipio/Celorico_da_Beira> <https://municipio/pred/idmun> "150".
-<https://municipio/Celorico_da_Beira> <https://municipio/pred/nome> "Celorico_da_Beira".
+<https://municipio/Celorico_da_Beira> <https://municipio/pred/nome> "Celorico da Beira".
 <https://municipio/Celorico_da_Beira> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Celorico_da_Beira> <https://municipio/pred/area> "247.22".
 <https://municipio/Celorico_da_Beira> <https://municipio/pred/pop> "7693".
 <https://municipio/Celorico_da_Beira> <https://municipio/pred/denspop> "31.1".
 <https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/idmun> "151".
-<https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/nome> "Figueira_de_Castelo_Rodrigo".
+<https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/nome> "Figueira de Castelo Rodrigo".
 <https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/area> "508.58".
 <https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/pop> "6260".
 <https://municipio/Figueira_de_Castelo_Rodrigo> <https://municipio/pred/denspop> "12.3".
 <https://municipio/Fornos_de_Algodres> <https://municipio/pred/idmun> "152".
-<https://municipio/Fornos_de_Algodres> <https://municipio/pred/nome> "Fornos_de_Algodres".
+<https://municipio/Fornos_de_Algodres> <https://municipio/pred/nome> "Fornos de Algodres".
 <https://municipio/Fornos_de_Algodres> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Fornos_de_Algodres> <https://municipio/pred/area> "131.45".
 <https://municipio/Fornos_de_Algodres> <https://municipio/pred/pop> "4989".
@@ -1190,12 +1184,6 @@
 <https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/area> "398.15".
 <https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/pop> "7312".
 <https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/denspop> "18.4".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/idmun> "161".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/nome> "Vila_Nova_de_Foz_Coa".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/regiao> "Norte".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/area> "398.15".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/pop> "7312".
-<https://municipio/Vila_Nova_de_Foz_Coa> <https://municipio/pred/denspop> "18.4".
 <https://municipio/Alcobaca> <https://municipio/pred/idmun> "162".
 <https://municipio/Alcobaca> <https://municipio/pred/nome> "Alcobaca".
 <https://municipio/Alcobaca> <https://municipio/pred/regiao> "Centro".
@@ -1226,26 +1214,20 @@
 <https://municipio/Bombarral> <https://municipio/pred/area> "91.29".
 <https://municipio/Bombarral> <https://municipio/pred/pop> "13193".
 <https://municipio/Bombarral> <https://municipio/pred/denspop> "144.5".
-<https://municipio/Bombarral> <https://municipio/pred/idmun> "167".
-<https://municipio/Bombarral> <https://municipio/pred/nome> "Bombarral".
-<https://municipio/Bombarral> <https://municipio/pred/regiao> "Centro".
-<https://municipio/Bombarral> <https://municipio/pred/area> "91.29".
-<https://municipio/Bombarral> <https://municipio/pred/pop> "13193".
-<https://municipio/Bombarral> <https://municipio/pred/denspop> "144.5".
 <https://municipio/Caldas_da_Rainha> <https://municipio/pred/idmun> "168".
-<https://municipio/Caldas_da_Rainha> <https://municipio/pred/nome> "Caldas_da_Rainha".
+<https://municipio/Caldas_da_Rainha> <https://municipio/pred/nome> "Caldas da Rainha".
 <https://municipio/Caldas_da_Rainha> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Caldas_da_Rainha> <https://municipio/pred/area> "255.69".
 <https://municipio/Caldas_da_Rainha> <https://municipio/pred/pop> "51729".
 <https://municipio/Caldas_da_Rainha> <https://municipio/pred/denspop> "202.3".
 <https://municipio/Castanheira_de_Pera> <https://municipio/pred/idmun> "169".
-<https://municipio/Castanheira_de_Pera> <https://municipio/pred/nome> "Castanheira_de_Pera".
+<https://municipio/Castanheira_de_Pera> <https://municipio/pred/nome> "Castanheira de Pera".
 <https://municipio/Castanheira_de_Pera> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Castanheira_de_Pera> <https://municipio/pred/area> "66.78".
 <https://municipio/Castanheira_de_Pera> <https://municipio/pred/pop> "3191".
 <https://municipio/Castanheira_de_Pera> <https://municipio/pred/denspop> "47.8".
 <https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/idmun> "170".
-<https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/nome> "Figueiro_dos_Vinhos".
+<https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/nome> "Figueiro dos Vinhos".
 <https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/area> "173.44".
 <https://municipio/Figueiro_dos_Vinhos> <https://municipio/pred/pop> "6169".
@@ -1257,7 +1239,7 @@
 <https://municipio/Leiria> <https://municipio/pred/pop> "126897".
 <https://municipio/Leiria> <https://municipio/pred/denspop> "224.6".
 <https://municipio/Marinha_Grande> <https://municipio/pred/idmun> "172".
-<https://municipio/Marinha_Grande> <https://municipio/pred/nome> "Marinha_Grande".
+<https://municipio/Marinha_Grande> <https://municipio/pred/nome> "Marinha Grande".
 <https://municipio/Marinha_Grande> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Marinha_Grande> <https://municipio/pred/area> "187.25".
 <https://municipio/Marinha_Grande> <https://municipio/pred/pop> "38681".
@@ -1275,7 +1257,7 @@
 <https://municipio/Obidos> <https://municipio/pred/pop> "11772".
 <https://municipio/Obidos> <https://municipio/pred/denspop> "83.2".
 <https://municipio/Pedrogao_Grande> <https://municipio/pred/idmun> "175".
-<https://municipio/Pedrogao_Grande> <https://municipio/pred/nome> "Pedrogao_Grande".
+<https://municipio/Pedrogao_Grande> <https://municipio/pred/nome> "Pedrogao Grande".
 <https://municipio/Pedrogao_Grande> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Pedrogao_Grande> <https://municipio/pred/area> "128.75".
 <https://municipio/Pedrogao_Grande> <https://municipio/pred/pop> "3915".
@@ -1293,7 +1275,7 @@
 <https://municipio/Pombal> <https://municipio/pred/pop> "55217".
 <https://municipio/Pombal> <https://municipio/pred/denspop> "88.2".
 <https://municipio/Porto_de_Mos> <https://municipio/pred/idmun> "177".
-<https://municipio/Porto_de_Mos> <https://municipio/pred/nome> "Porto_de_Mos".
+<https://municipio/Porto_de_Mos> <https://municipio/pred/nome> "Porto de Mos".
 <https://municipio/Porto_de_Mos> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Porto_de_Mos> <https://municipio/pred/area> "261.83".
 <https://municipio/Porto_de_Mos> <https://municipio/pred/pop> "24342".
@@ -1306,12 +1288,12 @@
 <https://municipio/Alenquer> <https://municipio/pred/denspop> "142.2".
 <https://municipio/Amadora> <https://municipio/pred/idmun> "202".
 <https://municipio/Amadora> <https://municipio/pred/nome> "Amadora".
-<https://municipio/Amadora> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Amadora> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Amadora> <https://municipio/pred/area> "23.79".
 <https://municipio/Amadora> <https://municipio/pred/pop> "175136".
 <https://municipio/Amadora> <https://municipio/pred/denspop> "7361.7".
 <https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/idmun> "203".
-<https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/nome> "Arruada_dos_Vinhos".
+<https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/nome> "Arruada dos Vinhos".
 <https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/area> "77.96".
 <https://municipio/Arruada_dos_Vinhos> <https://municipio/pred/pop> "13391".
@@ -1330,7 +1312,7 @@
 <https://municipio/Cadaval> <https://municipio/pred/denspop> "81.4".
 <https://municipio/Cascais> <https://municipio/pred/idmun> "206".
 <https://municipio/Cascais> <https://municipio/pred/nome> "Cascais".
-<https://municipio/Cascais> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Cascais> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Cascais> <https://municipio/pred/area> "97.40".
 <https://municipio/Cascais> <https://municipio/pred/pop> "210889".
 <https://municipio/Cascais> <https://municipio/pred/denspop> "2165.18".
@@ -1342,7 +1324,7 @@
 <https://municipio/Lisboa> <https://municipio/pred/denspop> "5066.4".
 <https://municipio/Loures> <https://municipio/pred/idmun> "208".
 <https://municipio/Loures> <https://municipio/pred/nome> "Loures".
-<https://municipio/Loures> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Loures> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Loures> <https://municipio/pred/area> "167.24".
 <https://municipio/Loures> <https://municipio/pred/pop> "205054".
 <https://municipio/Loures> <https://municipio/pred/denspop> "1226.10".
@@ -1354,48 +1336,48 @@
 <https://municipio/Lourinha> <https://municipio/pred/denspop> "174.9".
 <https://municipio/Mafra> <https://municipio/pred/idmun> "210".
 <https://municipio/Mafra> <https://municipio/pred/nome> "Mafra".
-<https://municipio/Mafra> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Mafra> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Mafra> <https://municipio/pred/area> "291.66".
 <https://municipio/Mafra> <https://municipio/pred/pop> "76685".
 <https://municipio/Mafra> <https://municipio/pred/denspop> "262.9".
 <https://municipio/Odivelas> <https://municipio/pred/idmun> "211".
 <https://municipio/Odivelas> <https://municipio/pred/nome> "Odivelas".
-<https://municipio/Odivelas> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Odivelas> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Odivelas> <https://municipio/pred/area> "26.54".
 <https://municipio/Odivelas> <https://municipio/pred/pop> "144549".
 <https://municipio/Odivelas> <https://municipio/pred/denspop> "446.5".
 <https://municipio/Oeiras> <https://municipio/pred/idmun> "212".
 <https://municipio/Oeiras> <https://municipio/pred/nome> "Oeiras".
-<https://municipio/Oeiras> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Oeiras> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Oeiras> <https://municipio/pred/area> "45.88".
 <https://municipio/Oeiras> <https://municipio/pred/pop> "173149".
 <https://municipio/Oeiras> <https://municipio/pred/denspop> "3773.95".
 <https://municipio/Sintra> <https://municipio/pred/idmun> "213".
 <https://municipio/Sintra> <https://municipio/pred/nome> "Sintra".
-<https://municipio/Sintra> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Sintra> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Sintra> <https://municipio/pred/area> "319.23".
 <https://municipio/Sintra> <https://municipio/pred/pop> "381728".
 <https://municipio/Sintra> <https://municipio/pred/denspop> "1195.77".
 <https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/idmun> "214".
-<https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/nome> "Sobral_de_Monte_Agraco".
+<https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/nome> "Sobral de Monte Agraco".
 <https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/area> "52.10".
 <https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/pop> "10156".
 <https://municipio/Sobral_de_Monte_Agraco> <https://municipio/pred/denspop> "194.9".
 <https://municipio/Torres_Vedras> <https://municipio/pred/idmun> "215".
-<https://municipio/Torres_Vedras> <https://municipio/pred/nome> "Torres_Vedras".
+<https://municipio/Torres_Vedras> <https://municipio/pred/nome> "Torres Vedras".
 <https://municipio/Torres_Vedras> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Torres_Vedras> <https://municipio/pred/area> "407.15".
 <https://municipio/Torres_Vedras> <https://municipio/pred/pop> "79465".
 <https://municipio/Torres_Vedras> <https://municipio/pred/denspop> "195.2".
 <https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/idmun> "216".
-<https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/nome> "Vila_Franca_de_Xira".
-<https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/nome> "Vila Franca de Xira".
+<https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/area> "318.19".
 <https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/pop> "136886".
 <https://municipio/Vila_Franca_de_Xira> <https://municipio/pred/denspop> "430.2".
 <https://municipio/Alter_do_Chao> <https://municipio/pred/idmun> "217".
-<https://municipio/Alter_do_Chao> <https://municipio/pred/nome> "Alter_do_Chao".
+<https://municipio/Alter_do_Chao> <https://municipio/pred/nome> "Alter do Chao".
 <https://municipio/Alter_do_Chao> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Alter_do_Chao> <https://municipio/pred/area> "362.07".
 <https://municipio/Alter_do_Chao> <https://municipio/pred/pop> "3562".
@@ -1413,13 +1395,13 @@
 <https://municipio/Avis> <https://municipio/pred/pop> "4571".
 <https://municipio/Avis> <https://municipio/pred/denspop> "7.5".
 <https://municipio/Campo_Maior> <https://municipio/pred/idmun> "220".
-<https://municipio/Campo_Maior> <https://municipio/pred/nome> "Campo_Maior".
+<https://municipio/Campo_Maior> <https://municipio/pred/nome> "Campo Maior".
 <https://municipio/Campo_Maior> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Campo_Maior> <https://municipio/pred/area> "247.20".
 <https://municipio/Campo_Maior> <https://municipio/pred/pop> "8456".
 <https://municipio/Campo_Maior> <https://municipio/pred/denspop> "34.2".
 <https://municipio/Castelo_de_Vide> <https://municipio/pred/idmun> "221".
-<https://municipio/Castelo_de_Vide> <https://municipio/pred/nome> "Castelo_de_Vide".
+<https://municipio/Castelo_de_Vide> <https://municipio/pred/nome> "Castelo de Vide".
 <https://municipio/Castelo_de_Vide> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Castelo_de_Vide> <https://municipio/pred/area> "264.91".
 <https://municipio/Castelo_de_Vide> <https://municipio/pred/pop> "3407".
@@ -1467,7 +1449,7 @@
 <https://municipio/Nisa> <https://municipio/pred/pop> "7450".
 <https://municipio/Nisa> <https://municipio/pred/denspop> "12.9".
 <https://municipio/Ponte_de_Sor> <https://municipio/pred/idmun> "229".
-<https://municipio/Ponte_de_Sor> <https://municipio/pred/nome> "Ponte_de_Sor".
+<https://municipio/Ponte_de_Sor> <https://municipio/pred/nome> "Ponte de Sor".
 <https://municipio/Ponte_de_Sor> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Ponte_de_Sor> <https://municipio/pred/area> "839.71".
 <https://municipio/Ponte_de_Sor> <https://municipio/pred/pop> "16722".
@@ -1521,7 +1503,7 @@
 <https://municipio/Maia> <https://municipio/pred/pop> "135678".
 <https://municipio/Maia> <https://municipio/pred/denspop> "1634.9".
 <https://municipio/Marco_de_Canaveses> <https://municipio/pred/idmun> "238".
-<https://municipio/Marco_de_Canaveses> <https://municipio/pred/nome> "Marco_de_Canaveses".
+<https://municipio/Marco_de_Canaveses> <https://municipio/pred/nome> "Marco de Canaveses".
 <https://municipio/Marco_de_Canaveses> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Marco_de_Canaveses> <https://municipio/pred/area> "201.89".
 <https://municipio/Marco_de_Canaveses> <https://municipio/pred/pop> "53450".
@@ -1533,7 +1515,7 @@
 <https://municipio/Matosinhos> <https://municipio/pred/pop> "175478".
 <https://municipio/Matosinhos> <https://municipio/pred/denspop> "2811.2".
 <https://municipio/Pacos_de_Ferreira> <https://municipio/pred/idmun> "240".
-<https://municipio/Pacos_de_Ferreira> <https://municipio/pred/nome> "Pacos_de_Ferreira".
+<https://municipio/Pacos_de_Ferreira> <https://municipio/pred/nome> "Pacos de Ferreira".
 <https://municipio/Pacos_de_Ferreira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Pacos_de_Ferreira> <https://municipio/pred/area> "70.99".
 <https://municipio/Pacos_de_Ferreira> <https://municipio/pred/pop> "56340".
@@ -1557,13 +1539,13 @@
 <https://municipio/Porto> <https://municipio/pred/pop> "237591".
 <https://municipio/Porto> <https://municipio/pred/denspop> "5736.1".
 <https://municipio/Povoa_do_Varzim> <https://municipio/pred/idmun> "244".
-<https://municipio/Povoa_do_Varzim> <https://municipio/pred/nome> "Povoa_do_Varzim".
+<https://municipio/Povoa_do_Varzim> <https://municipio/pred/nome> "Povoa do Varzim".
 <https://municipio/Povoa_do_Varzim> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Povoa_do_Varzim> <https://municipio/pred/area> "82.21".
 <https://municipio/Povoa_do_Varzim> <https://municipio/pred/pop> "63408".
 <https://municipio/Povoa_do_Varzim> <https://municipio/pred/denspop> "771.3".
 <https://municipio/Santo_Tirso> <https://municipio/pred/idmun> "245".
-<https://municipio/Santo_Tirso> <https://municipio/pred/nome> "Santo_Tirso".
+<https://municipio/Santo_Tirso> <https://municipio/pred/nome> "Santo Tirso".
 <https://municipio/Santo_Tirso> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Santo_Tirso> <https://municipio/pred/area> "136.6".
 <https://municipio/Santo_Tirso> <https://municipio/pred/pop> "71530".
@@ -1581,13 +1563,13 @@
 <https://municipio/Valongo> <https://municipio/pred/pop> "93858".
 <https://municipio/Valongo> <https://municipio/pred/denspop> "1249.4".
 <https://municipio/Vila_do_Conde> <https://municipio/pred/idmun> "248".
-<https://municipio/Vila_do_Conde> <https://municipio/pred/nome> "Vila_do_Conde".
+<https://municipio/Vila_do_Conde> <https://municipio/pred/nome> "Vila do Conde".
 <https://municipio/Vila_do_Conde> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_do_Conde> <https://municipio/pred/area> "149.03".
 <https://municipio/Vila_do_Conde> <https://municipio/pred/pop> "79533".
 <https://municipio/Vila_do_Conde> <https://municipio/pred/denspop> "533.7".
 <https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/idmun> "249".
-<https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/nome> "Vila_Nova_de_Gaia".
+<https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/nome> "Vila Nova de Gaia".
 <https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/area> "168.46".
 <https://municipio/Vila_Nova_de_Gaia> <https://municipio/pred/pop> "301496".
@@ -1653,7 +1635,7 @@
 <https://municipio/Entroncamento> <https://municipio/pred/pop> "20206".
 <https://municipio/Entroncamento> <https://municipio/pred/denspop> "1471.7".
 <https://municipio/Ferreira_do_Zezere> <https://municipio/pred/idmun> "260".
-<https://municipio/Ferreira_do_Zezere> <https://municipio/pred/nome> "Ferreira_do_Zezere".
+<https://municipio/Ferreira_do_Zezere> <https://municipio/pred/nome> "Ferreira do Zezere".
 <https://municipio/Ferreira_do_Zezere> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Ferreira_do_Zezere> <https://municipio/pred/area> "190.38".
 <https://municipio/Ferreira_do_Zezere> <https://municipio/pred/pop> "8619".
@@ -1677,13 +1659,13 @@
 <https://municipio/Ourem> <https://municipio/pred/pop> "45932".
 <https://municipio/Ourem> <https://municipio/pred/denspop> "110.2".
 <https://municipio/Rio_Maior> <https://municipio/pred/idmun> "264".
-<https://municipio/Rio_Maior> <https://municipio/pred/nome> "Rio_Maior".
+<https://municipio/Rio_Maior> <https://municipio/pred/nome> "Rio Maior".
 <https://municipio/Rio_Maior> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Rio_Maior> <https://municipio/pred/area> "272.76".
 <https://municipio/Rio_Maior> <https://municipio/pred/pop> "21192".
 <https://municipio/Rio_Maior> <https://municipio/pred/denspop> "77.7".
 <https://municipio/Salvaterra_de_Magos> <https://municipio/pred/idmun> "265".
-<https://municipio/Salvaterra_de_Magos> <https://municipio/pred/nome> "Salvaterra_de_Magos".
+<https://municipio/Salvaterra_de_Magos> <https://municipio/pred/nome> "Salvaterra de Magos".
 <https://municipio/Salvaterra_de_Magos> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Salvaterra_de_Magos> <https://municipio/pred/area> "243.93".
 <https://municipio/Salvaterra_de_Magos> <https://municipio/pred/pop> "22159".
@@ -1707,38 +1689,38 @@
 <https://municipio/Tomar> <https://municipio/pred/pop> "41000".
 <https://municipio/Tomar> <https://municipio/pred/denspop> "116.74".
 <https://municipio/Torres_Novas> <https://municipio/pred/idmun> "269".
-<https://municipio/Torres_Novas> <https://municipio/pred/nome> "Torres_Novas".
+<https://municipio/Torres_Novas> <https://municipio/pred/nome> "Torres Novas".
 <https://municipio/Torres_Novas> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Torres_Novas> <https://municipio/pred/area> "270".
 <https://municipio/Torres_Novas> <https://municipio/pred/pop> "36338".
 <https://municipio/Torres_Novas> <https://municipio/pred/denspop> "134.6".
 <https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/idmun> "270".
-<https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/nome> "Vila_Nova_da_Barquinha".
+<https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/nome> "Vila Nova da Barquinha".
 <https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/area> "49.53".
 <https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/pop> "7322".
 <https://municipio/Vila_Nova_da_Barquinha> <https://municipio/pred/denspop> "147.8".
 <https://municipio/AlcAcer_do_Sal> <https://municipio/pred/idmun> "271".
-<https://municipio/AlcAcer_do_Sal> <https://municipio/pred/nome> "AlcAcer_do_Sal".
+<https://municipio/AlcAcer_do_Sal> <https://municipio/pred/nome> "AlcAcer do Sal".
 <https://municipio/AlcAcer_do_Sal> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/AlcAcer_do_Sal> <https://municipio/pred/area> "1499.87".
 <https://municipio/AlcAcer_do_Sal> <https://municipio/pred/pop> "13046".
 <https://municipio/AlcAcer_do_Sal> <https://municipio/pred/denspop> "8.7".
 <https://municipio/Alcochete> <https://municipio/pred/idmun> "272".
 <https://municipio/Alcochete> <https://municipio/pred/nome> "Alcochete".
-<https://municipio/Alcochete> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Alcochete> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Alcochete> <https://municipio/pred/area> "128.36".
 <https://municipio/Alcochete> <https://municipio/pred/pop> "17569".
 <https://municipio/Alcochete> <https://municipio/pred/denspop> "136.9".
 <https://municipio/Almada> <https://municipio/pred/idmun> "273".
 <https://municipio/Almada> <https://municipio/pred/nome> "Almada".
-<https://municipio/Almada> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Almada> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Almada> <https://municipio/pred/area> "70.21".
 <https://municipio/Almada> <https://municipio/pred/pop> "168027".
 <https://municipio/Almada> <https://municipio/pred/denspop> "2393.2".
 <https://municipio/Barreiro> <https://municipio/pred/idmun> "274".
 <https://municipio/Barreiro> <https://municipio/pred/nome> "Barreiro".
-<https://municipio/Barreiro> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Barreiro> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Barreiro> <https://municipio/pred/area> "36.39".
 <https://municipio/Barreiro> <https://municipio/pred/pop> "78764".
 <https://municipio/Barreiro> <https://municipio/pred/denspop> "2164.44".
@@ -1750,43 +1732,43 @@
 <https://municipio/Grandola> <https://municipio/pred/denspop> "18".
 <https://municipio/Moita> <https://municipio/pred/idmun> "276".
 <https://municipio/Moita> <https://municipio/pred/nome> "Moita".
-<https://municipio/Moita> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Moita> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Moita> <https://municipio/pred/area> "55.26".
 <https://municipio/Moita> <https://municipio/pred/pop> "66029".
 <https://municipio/Moita> <https://municipio/pred/denspop> "1194.9".
 <https://municipio/Montijo> <https://municipio/pred/idmun> "277".
 <https://municipio/Montijo> <https://municipio/pred/nome> "Montijo".
-<https://municipio/Montijo> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Montijo> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Montijo> <https://municipio/pred/area> "348.62".
 <https://municipio/Montijo> <https://municipio/pred/pop> "57543".
 <https://municipio/Montijo> <https://municipio/pred/denspop> "165.1".
 <https://municipio/Palmela> <https://municipio/pred/idmun> "278".
 <https://municipio/Palmela> <https://municipio/pred/nome> "Palmela".
-<https://municipio/Palmela> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Palmela> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Palmela> <https://municipio/pred/area> "465.12".
 <https://municipio/Palmela> <https://municipio/pred/pop> "62831".
 <https://municipio/Palmela> <https://municipio/pred/denspop> "135.1".
 <https://municipio/Santiago_do_Cacem> <https://municipio/pred/idmun> "279".
-<https://municipio/Santiago_do_Cacem> <https://municipio/pred/nome> "Santiago_do_Cacem".
+<https://municipio/Santiago_do_Cacem> <https://municipio/pred/nome> "Santiago do Cacem".
 <https://municipio/Santiago_do_Cacem> <https://municipio/pred/regiao> "Alentejo".
 <https://municipio/Santiago_do_Cacem> <https://municipio/pred/area> "1059.77".
 <https://municipio/Santiago_do_Cacem> <https://municipio/pred/pop> "29749".
 <https://municipio/Santiago_do_Cacem> <https://municipio/pred/denspop> "28.1".
 <https://municipio/Seixal> <https://municipio/pred/idmun> "280".
 <https://municipio/Seixal> <https://municipio/pred/nome> "Seixal".
-<https://municipio/Seixal> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Seixal> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Seixal> <https://municipio/pred/area> "95.50".
 <https://municipio/Seixal> <https://municipio/pred/pop> "158269".
 <https://municipio/Seixal> <https://municipio/pred/denspop> "1657.3".
 <https://municipio/Sesimbra> <https://municipio/pred/idmun> "281".
 <https://municipio/Sesimbra> <https://municipio/pred/nome> "Sesimbra".
-<https://municipio/Sesimbra> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Sesimbra> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Sesimbra> <https://municipio/pred/area> "195.47".
 <https://municipio/Sesimbra> <https://municipio/pred/pop> "49500".
 <https://municipio/Sesimbra> <https://municipio/pred/denspop> "253.23".
 <https://municipio/Setubal> <https://municipio/pred/idmun> "282".
 <https://municipio/Setubal> <https://municipio/pred/nome> "Setubal".
-<https://municipio/Setubal> <https://municipio/pred/regiao> "Area_Metropolitana_de_Lisboa".
+<https://municipio/Setubal> <https://municipio/pred/regiao> "Area Metropolitana de Lisboa".
 <https://municipio/Setubal> <https://municipio/pred/area> "230.33".
 <https://municipio/Setubal> <https://municipio/pred/pop> "116330".
 <https://municipio/Setubal> <https://municipio/pred/denspop> "505.1".
@@ -1797,7 +1779,7 @@
 <https://municipio/Sines> <https://municipio/pred/pop> "14238".
 <https://municipio/Sines> <https://municipio/pred/denspop> "107.5".
 <https://municipio/Viana_do_Castelo> <https://municipio/pred/idmun> "301".
-<https://municipio/Viana_do_Castelo> <https://municipio/pred/nome> "Viana_do_Castelo".
+<https://municipio/Viana_do_Castelo> <https://municipio/pred/nome> "Viana do Castelo".
 <https://municipio/Viana_do_Castelo> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Viana_do_Castelo> <https://municipio/pred/area> "319.02".
 <https://municipio/Viana_do_Castelo> <https://municipio/pred/pop> "88725".
@@ -1809,7 +1791,7 @@
 <https://municipio/Valenca> <https://municipio/pred/pop> "14127".
 <https://municipio/Valenca> <https://municipio/pred/denspop> "120.6".
 <https://municipio/Arcos_de_Valdevez> <https://municipio/pred/idmun> "303".
-<https://municipio/Arcos_de_Valdevez> <https://municipio/pred/nome> "Arcos_de_Valdevez".
+<https://municipio/Arcos_de_Valdevez> <https://municipio/pred/nome> "Arcos de Valdevez".
 <https://municipio/Arcos_de_Valdevez> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Arcos_de_Valdevez> <https://municipio/pred/area> "447.60".
 <https://municipio/Arcos_de_Valdevez> <https://municipio/pred/pop> "22847".
@@ -1833,25 +1815,25 @@
 <https://municipio/Moncao> <https://municipio/pred/pop> "19230".
 <https://municipio/Moncao> <https://municipio/pred/denspop> "91".
 <https://municipio/Paredes_de_Coura> <https://municipio/pred/idmun> "307".
-<https://municipio/Paredes_de_Coura> <https://municipio/pred/nome> "Paredes_de_Coura".
+<https://municipio/Paredes_de_Coura> <https://municipio/pred/nome> "Paredes de Coura".
 <https://municipio/Paredes_de_Coura> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Paredes_de_Coura> <https://municipio/pred/area> "138.19".
 <https://municipio/Paredes_de_Coura> <https://municipio/pred/pop> "9198".
 <https://municipio/Paredes_de_Coura> <https://municipio/pred/denspop> "66.6".
 <https://municipio/Ponte_da_Barca> <https://municipio/pred/idmun> "308".
-<https://municipio/Ponte_da_Barca> <https://municipio/pred/nome> "Ponte_da_Barca".
+<https://municipio/Ponte_da_Barca> <https://municipio/pred/nome> "Ponte da Barca".
 <https://municipio/Ponte_da_Barca> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Ponte_da_Barca> <https://municipio/pred/area> "184.76".
 <https://municipio/Ponte_da_Barca> <https://municipio/pred/pop> "12061".
 <https://municipio/Ponte_da_Barca> <https://municipio/pred/denspop> "65.3".
 <https://municipio/Ponte_de_Lima> <https://municipio/pred/idmun> "309".
-<https://municipio/Ponte_de_Lima> <https://municipio/pred/nome> "Ponte_de_Lima".
+<https://municipio/Ponte_de_Lima> <https://municipio/pred/nome> "Ponte de Lima".
 <https://municipio/Ponte_de_Lima> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Ponte_de_Lima> <https://municipio/pred/area> "320.25".
 <https://municipio/Ponte_de_Lima> <https://municipio/pred/pop> "43498".
 <https://municipio/Ponte_de_Lima> <https://municipio/pred/denspop> "135.8".
 <https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/idmun> "310".
-<https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/nome> "Vila_Nova_de_Cerveira".
+<https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/nome> "Vila Nova de Cerveira".
 <https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/area> "108.47".
 <https://municipio/Vila_Nova_de_Cerveira> <https://municipio/pred/pop> "9253".
@@ -1875,13 +1857,13 @@
 <https://municipio/Chaves> <https://municipio/pred/pop> "41243".
 <https://municipio/Chaves> <https://municipio/pred/denspop> "69.8".
 <https://municipio/Mesao_Frio> <https://municipio/pred/idmun> "314".
-<https://municipio/Mesao_Frio> <https://municipio/pred/nome> "Mesao_Frio".
+<https://municipio/Mesao_Frio> <https://municipio/pred/nome> "Mesao Frio".
 <https://municipio/Mesao_Frio> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Mesao_Frio> <https://municipio/pred/area> "26.65".
 <https://municipio/Mesao_Frio> <https://municipio/pred/pop> "4433".
 <https://municipio/Mesao_Frio> <https://municipio/pred/denspop> "166.3".
 <https://municipio/Mondim_de_Basto> <https://municipio/pred/idmun> "315".
-<https://municipio/Mondim_de_Basto> <https://municipio/pred/nome> "Mondim_de_Basto".
+<https://municipio/Mondim_de_Basto> <https://municipio/pred/nome> "Mondim de Basto".
 <https://municipio/Mondim_de_Basto> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Mondim_de_Basto> <https://municipio/pred/area> "172.08".
 <https://municipio/Mondim_de_Basto> <https://municipio/pred/pop> "7493".
@@ -1899,13 +1881,13 @@
 <https://municipio/Murca> <https://municipio/pred/pop> "5952".
 <https://municipio/Murca> <https://municipio/pred/denspop> "31.4".
 <https://municipio/Peso_da_Regua> <https://municipio/pred/idmun> "318".
-<https://municipio/Peso_da_Regua> <https://municipio/pred/nome> "Peso_da_Regua".
+<https://municipio/Peso_da_Regua> <https://municipio/pred/nome> "Peso da Regua".
 <https://municipio/Peso_da_Regua> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Peso_da_Regua> <https://municipio/pred/area> "94.86".
 <https://municipio/Peso_da_Regua> <https://municipio/pred/pop> "17131".
 <https://municipio/Peso_da_Regua> <https://municipio/pred/denspop> "180.6".
 <https://municipio/Ribeira_de_Pena> <https://municipio/pred/idmun> "319".
-<https://municipio/Ribeira_de_Pena> <https://municipio/pred/nome> "Ribeira_de_Pena".
+<https://municipio/Ribeira_de_Pena> <https://municipio/pred/nome> "Ribeira de Pena".
 <https://municipio/Ribeira_de_Pena> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Ribeira_de_Pena> <https://municipio/pred/area> "217.46".
 <https://municipio/Ribeira_de_Pena> <https://municipio/pred/pop> "6544".
@@ -1917,7 +1899,7 @@
 <https://municipio/Sabrosa> <https://municipio/pred/pop> "6361".
 <https://municipio/Sabrosa> <https://municipio/pred/denspop> "40.5".
 <https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/idmun> "321".
-<https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/nome> "Santa_Marta_de_Penaguiao".
+<https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/nome> "Santa Marta de Penaguiao".
 <https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/area> "69.28".
 <https://municipio/Santa_Marta_de_Penaguiao> <https://municipio/pred/pop> "7356".
@@ -1929,13 +1911,13 @@
 <https://municipio/Valpacos> <https://municipio/pred/pop> "16882".
 <https://municipio/Valpacos> <https://municipio/pred/denspop> "30.76".
 <https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/idmun> "323".
-<https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/nome> "Vila_Pouca_de_Aguiar".
+<https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/nome> "Vila Pouca de Aguiar".
 <https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/area> "437.07".
 <https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/pop> "13187".
 <https://municipio/Vila_Pouca_de_Aguiar> <https://municipio/pred/denspop> "30.2".
 <https://municipio/Vila_Real> <https://municipio/pred/idmun> "324".
-<https://municipio/Vila_Real> <https://municipio/pred/nome> "Vila_Real".
+<https://municipio/Vila_Real> <https://municipio/pred/nome> "Vila Real".
 <https://municipio/Vila_Real> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Vila_Real> <https://municipio/pred/area> "378.80".
 <https://municipio/Vila_Real> <https://municipio/pred/pop> "51850".
@@ -1947,7 +1929,7 @@
 <https://municipio/Armamar> <https://municipio/pred/pop> "6297".
 <https://municipio/Armamar> <https://municipio/pred/denspop> "53.7".
 <https://municipio/Carregal_do_Sal> <https://municipio/pred/idmun> "326".
-<https://municipio/Carregal_do_Sal> <https://municipio/pred/nome> "Carregal_do_Sal".
+<https://municipio/Carregal_do_Sal> <https://municipio/pred/nome> "Carregal do Sal".
 <https://municipio/Carregal_do_Sal> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Carregal_do_Sal> <https://municipio/pred/area> "116.89".
 <https://municipio/Carregal_do_Sal> <https://municipio/pred/pop> "9835".
@@ -1977,7 +1959,7 @@
 <https://municipio/Mangualde> <https://municipio/pred/pop> "19880".
 <https://municipio/Mangualde> <https://municipio/pred/denspop> "90.7".
 <https://municipio/Moimenta_da_Beira> <https://municipio/pred/idmun> "331".
-<https://municipio/Moimenta_da_Beira> <https://municipio/pred/nome> "Moimenta_da_Beira".
+<https://municipio/Moimenta_da_Beira> <https://municipio/pred/nome> "Moimenta da Beira".
 <https://municipio/Moimenta_da_Beira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Moimenta_da_Beira> <https://municipio/pred/area> "219.97".
 <https://municipio/Moimenta_da_Beira> <https://municipio/pred/pop> "10201".
@@ -1995,13 +1977,13 @@
 <https://municipio/Nelas> <https://municipio/pred/pop> "14037".
 <https://municipio/Nelas> <https://municipio/pred/denspop> "111.7".
 <https://municipio/Oliveira_de_Frades> <https://municipio/pred/idmun> "334".
-<https://municipio/Oliveira_de_Frades> <https://municipio/pred/nome> "Oliveira_de_Frades".
+<https://municipio/Oliveira_de_Frades> <https://municipio/pred/nome> "Oliveira de Frades".
 <https://municipio/Oliveira_de_Frades> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Oliveira_de_Frades> <https://municipio/pred/area> "147.45".
 <https://municipio/Oliveira_de_Frades> <https://municipio/pred/pop> "10261".
 <https://municipio/Oliveira_de_Frades> <https://municipio/pred/denspop> "69.6".
 <https://municipio/Penalva_do_Castelo> <https://municipio/pred/idmun> "335".
-<https://municipio/Penalva_do_Castelo> <https://municipio/pred/nome> "Penalva_do_Castelo".
+<https://municipio/Penalva_do_Castelo> <https://municipio/pred/nome> "Penalva do Castelo".
 <https://municipio/Penalva_do_Castelo> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Penalva_do_Castelo> <https://municipio/pred/area> "134.34".
 <https://municipio/Penalva_do_Castelo> <https://municipio/pred/pop> "7956".
@@ -2019,25 +2001,25 @@
 <https://municipio/Resende> <https://municipio/pred/pop> "11364".
 <https://municipio/Resende> <https://municipio/pred/denspop> "92.1".
 <https://municipio/Santa_Comba_Dao> <https://municipio/pred/idmun> "338".
-<https://municipio/Santa_Comba_Dao> <https://municipio/pred/nome> "Santa_Comba_Dao".
+<https://municipio/Santa_Comba_Dao> <https://municipio/pred/nome> "Santa Comba Dao".
 <https://municipio/Santa_Comba_Dao> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Santa_Comba_Dao> <https://municipio/pred/area> "111.95".
 <https://municipio/Santa_Comba_Dao> <https://municipio/pred/pop> "11597".
 <https://municipio/Santa_Comba_Dao> <https://municipio/pred/denspop> "103.6".
 <https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/idmun> "339".
-<https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/nome> "Sao_Joao_da_Pesqueira".
+<https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/nome> "Sao Joao da Pesqueira".
 <https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/regiao> "Norte".
 <https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/area> "266.11".
 <https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/pop> "7874".
 <https://municipio/Sao_Joao_da_Pesqueira> <https://municipio/pred/denspop> "29.6".
 <https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/idmun> "340".
-<https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/nome> "Sao_Pedro_do_Sul".
+<https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/nome> "Sao Pedro do Sul".
 <https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/area> "348.68".
 <https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/pop> "16851".
 <https://municipio/Sao_Pedro_do_Sul> <https://municipio/pred/denspop> "48.3".
 <https://municipio/SAtao> <https://municipio/pred/idmun> "341".
-<https://municipio/SAtao> <https://municipio/pred/nome> "SAtao".
+<https://municipio/SAtao> <https://municipio/pred/nome> "Satao".
 <https://municipio/SAtao> <https://municipio/pred/regiao> "Centro".
 <https://municipio/SAtao> <https://municipio/pred/area> "201.94".
 <https://municipio/SAtao> <https://municipio/pred/pop> "12444".
@@ -2067,7 +2049,7 @@
 <https://municipio/Tondela> <https://municipio/pred/pop> "28946".
 <https://municipio/Tondela> <https://municipio/pred/denspop> "78".
 <https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/idmun> "346".
-<https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/nome> "Vila_Nova_de_Paiva".
+<https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/nome> "Vila Nova de Paiva".
 <https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/regiao> "Centro".
 <https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/area> "175.53".
 <https://municipio/Vila_Nova_de_Paiva> <https://municipio/pred/pop> "5176".
@@ -2084,183 +2066,183 @@
 <https://municipio/Vouzela> <https://municipio/pred/area> "193.69".
 <https://municipio/Vouzela> <https://municipio/pred/pop> "10564".
 <https://municipio/Vouzela> <https://municipio/pred/denspop> "54.5".
-<https://municipio/Calheta> <https://municipio/pred/idmun> "349".
-<https://municipio/Calheta> <https://municipio/pred/nome> "Calheta".
-<https://municipio/Calheta> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
-<https://municipio/Calheta> <https://municipio/pred/area> "111.52".
-<https://municipio/Calheta> <https://municipio/pred/pop> "11521".
-<https://municipio/Calheta> <https://municipio/pred/denspop> "103.31".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/idmun> "349".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/nome> "Calheta".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/area> "111.52".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/pop> "11521".
+<https://municipio/Calheta_Madeira> <https://municipio/pred/denspop> "103.31".
 <https://municipio/Camara_de_Lobos> <https://municipio/pred/idmun> "350".
-<https://municipio/Camara_de_Lobos> <https://municipio/pred/nome> "Camara_de_Lobos".
-<https://municipio/Camara_de_Lobos> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Camara_de_Lobos> <https://municipio/pred/nome> "Camara de Lobos".
+<https://municipio/Camara_de_Lobos> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Camara_de_Lobos> <https://municipio/pred/area> "52.15".
 <https://municipio/Camara_de_Lobos> <https://municipio/pred/pop> "35666".
 <https://municipio/Camara_de_Lobos> <https://municipio/pred/denspop> "683.91".
 <https://municipio/Ponta_do_Sol> <https://municipio/pred/idmun> "351".
-<https://municipio/Ponta_do_Sol> <https://municipio/pred/nome> "Ponta_do_Sol".
-<https://municipio/Ponta_do_Sol> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Ponta_do_Sol> <https://municipio/pred/nome> "Ponta do Sol".
+<https://municipio/Ponta_do_Sol> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Ponta_do_Sol> <https://municipio/pred/area> "46.19".
 <https://municipio/Ponta_do_Sol> <https://municipio/pred/pop> "8862".
 <https://municipio/Ponta_do_Sol> <https://municipio/pred/denspop> "191.86".
 <https://municipio/Porto_Moniz> <https://municipio/pred/idmun> "352".
-<https://municipio/Porto_Moniz> <https://municipio/pred/nome> "Porto_Moniz".
-<https://municipio/Porto_Moniz> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Porto_Moniz> <https://municipio/pred/nome> "Porto Moniz".
+<https://municipio/Porto_Moniz> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Porto_Moniz> <https://municipio/pred/area> "82.93".
 <https://municipio/Porto_Moniz> <https://municipio/pred/pop> "2711".
 <https://municipio/Porto_Moniz> <https://municipio/pred/denspop> "32.69".
 <https://municipio/Ribeira_Brava> <https://municipio/pred/idmun> "353".
-<https://municipio/Ribeira_Brava> <https://municipio/pred/nome> "Ribeira_Brava".
-<https://municipio/Ribeira_Brava> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Ribeira_Brava> <https://municipio/pred/nome> "Ribeira Brava".
+<https://municipio/Ribeira_Brava> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Ribeira_Brava> <https://municipio/pred/area> "65.40".
 <https://municipio/Ribeira_Brava> <https://municipio/pred/pop> "13375".
 <https://municipio/Ribeira_Brava> <https://municipio/pred/denspop> "204.51".
 <https://municipio/Santana> <https://municipio/pred/idmun> "354".
 <https://municipio/Santana> <https://municipio/pred/nome> "Santana".
-<https://municipio/Santana> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Santana> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Santana> <https://municipio/pred/area> "95.56".
 <https://municipio/Santana> <https://municipio/pred/pop> "7719".
 <https://municipio/Santana> <https://municipio/pred/denspop> "80.78".
 <https://municipio/Sao_Vicente> <https://municipio/pred/idmun> "355".
-<https://municipio/Sao_Vicente> <https://municipio/pred/nome> "Sao_Vicente".
-<https://municipio/Sao_Vicente> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Sao_Vicente> <https://municipio/pred/nome> "Sao Vicente".
+<https://municipio/Sao_Vicente> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Sao_Vicente> <https://municipio/pred/area> "78.82".
 <https://municipio/Sao_Vicente> <https://municipio/pred/pop> "5723".
 <https://municipio/Sao_Vicente> <https://municipio/pred/denspop> "72.61".
 <https://municipio/Funchal> <https://municipio/pred/idmun> "356".
 <https://municipio/Funchal> <https://municipio/pred/nome> "Funchal".
-<https://municipio/Funchal> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Funchal> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Funchal> <https://municipio/pred/area> "76.15".
 <https://municipio/Funchal> <https://municipio/pred/pop> "111892".
 <https://municipio/Funchal> <https://municipio/pred/denspop> "1469.36".
 <https://municipio/Machico> <https://municipio/pred/idmun> "357".
 <https://municipio/Machico> <https://municipio/pred/nome> "Machico".
-<https://municipio/Machico> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Machico> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Machico> <https://municipio/pred/area> "68.31".
 <https://municipio/Machico> <https://municipio/pred/pop> "21828".
 <https://municipio/Machico> <https://municipio/pred/denspop> "319.54".
 <https://municipio/Porto_Santo> <https://municipio/pred/idmun> "358".
-<https://municipio/Porto_Santo> <https://municipio/pred/nome> "Porto_Santo".
-<https://municipio/Porto_Santo> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Porto_Santo> <https://municipio/pred/nome> "Porto Santo".
+<https://municipio/Porto_Santo> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Porto_Santo> <https://municipio/pred/area> "42.48".
 <https://municipio/Porto_Santo> <https://municipio/pred/pop> "5483".
 <https://municipio/Porto_Santo> <https://municipio/pred/denspop> "129.07".
 <https://municipio/Santa_Cruz> <https://municipio/pred/idmun> "359".
-<https://municipio/Santa_Cruz> <https://municipio/pred/nome> "Santa_Cruz".
-<https://municipio/Santa_Cruz> <https://municipio/pred/regiao> "Regiao_Autonoma_da_Madeira".
+<https://municipio/Santa_Cruz> <https://municipio/pred/nome> "Santa Cruz".
+<https://municipio/Santa_Cruz> <https://municipio/pred/regiao> "Regiao Autonoma da Madeira".
 <https://municipio/Santa_Cruz> <https://municipio/pred/area> "81.50".
 <https://municipio/Santa_Cruz> <https://municipio/pred/pop> "43005".
 <https://municipio/Santa_Cruz> <https://municipio/pred/denspop> "527.67".
 <https://municipio/Vila_do_Porto> <https://municipio/pred/idmun> "360".
-<https://municipio/Vila_do_Porto> <https://municipio/pred/nome> "Vila_do_Porto".
-<https://municipio/Vila_do_Porto> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Vila_do_Porto> <https://municipio/pred/nome> "Vila do Porto".
+<https://municipio/Vila_do_Porto> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Vila_do_Porto> <https://municipio/pred/area> "97.2".
 <https://municipio/Vila_do_Porto> <https://municipio/pred/pop> "5547".
 <https://municipio/Vila_do_Porto> <https://municipio/pred/denspop> "57.1".
-<https://municipio/Lagoa> <https://municipio/pred/idmun> "361".
-<https://municipio/Lagoa> <https://municipio/pred/nome> "Lagoa".
-<https://municipio/Lagoa> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
-<https://municipio/Lagoa> <https://municipio/pred/area> "45.6".
-<https://municipio/Lagoa> <https://municipio/pred/pop> "14430".
-<https://municipio/Lagoa> <https://municipio/pred/denspop> "316.4".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/idmun> "361".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/nome> "Lagoa".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/area> "45.6".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/pop> "14430".
+<https://municipio/Lagoa_Acores> <https://municipio/pred/denspop> "316.4".
 <https://municipio/Nordeste> <https://municipio/pred/idmun> "362".
 <https://municipio/Nordeste> <https://municipio/pred/nome> "Nordeste".
-<https://municipio/Nordeste> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Nordeste> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Nordeste> <https://municipio/pred/area> "99.9".
 <https://municipio/Nordeste> <https://municipio/pred/pop> "4920".
 <https://municipio/Nordeste> <https://municipio/pred/denspop> "49.2".
 <https://municipio/Ponta_Delgada> <https://municipio/pred/idmun> "363".
-<https://municipio/Ponta_Delgada> <https://municipio/pred/nome> "Ponta_Delgada".
-<https://municipio/Ponta_Delgada> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Ponta_Delgada> <https://municipio/pred/nome> "Ponta Delgada".
+<https://municipio/Ponta_Delgada> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Ponta_Delgada> <https://municipio/pred/area> "233.0".
 <https://municipio/Ponta_Delgada> <https://municipio/pred/pop> "68748".
 <https://municipio/Ponta_Delgada> <https://municipio/pred/denspop> "295.1".
 <https://municipio/Povoacao> <https://municipio/pred/idmun> "364".
 <https://municipio/Povoacao> <https://municipio/pred/nome> "Povoacao".
-<https://municipio/Povoacao> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Povoacao> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Povoacao> <https://municipio/pred/area> "108.0".
 <https://municipio/Povoacao> <https://municipio/pred/pop> "6314".
 <https://municipio/Povoacao> <https://municipio/pred/denspop> "58.5".
 <https://municipio/Ribeira_Grande> <https://municipio/pred/idmun> "365".
-<https://municipio/Ribeira_Grande> <https://municipio/pred/nome> "Ribeira_Grande".
-<https://municipio/Ribeira_Grande> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Ribeira_Grande> <https://municipio/pred/nome> "Ribeira Grande".
+<https://municipio/Ribeira_Grande> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Ribeira_Grande> <https://municipio/pred/area> "180.2".
 <https://municipio/Ribeira_Grande> <https://municipio/pred/pop> "32032".
 <https://municipio/Ribeira_Grande> <https://municipio/pred/denspop> "177.8".
 <https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/idmun> "366".
-<https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/nome> "Vila_Franca_do_Campo".
-<https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/nome> "Vila Franca do Campo".
+<https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/area> "78.0".
 <https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/pop> "11255".
 <https://municipio/Vila_Franca_do_Campo> <https://municipio/pred/denspop> "144.3".
 <https://municipio/Angra_do_Heroismo> <https://municipio/pred/idmun> "367".
-<https://municipio/Angra_do_Heroismo> <https://municipio/pred/nome> "Angra_do_Heroismo".
-<https://municipio/Angra_do_Heroismo> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Angra_do_Heroismo> <https://municipio/pred/nome> "Angra do Heroismo".
+<https://municipio/Angra_do_Heroismo> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Angra_do_Heroismo> <https://municipio/pred/area> "241.0".
 <https://municipio/Angra_do_Heroismo> <https://municipio/pred/pop> "34976".
 <https://municipio/Angra_do_Heroismo> <https://municipio/pred/denspop> "145.1".
 <https://municipio/Praia_da_Vitoria> <https://municipio/pred/idmun> "368".
-<https://municipio/Praia_da_Vitoria> <https://municipio/pred/nome> "Praia_da_Vitoria".
-<https://municipio/Praia_da_Vitoria> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Praia_da_Vitoria> <https://municipio/pred/nome> "Praia da Vitoria".
+<https://municipio/Praia_da_Vitoria> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Praia_da_Vitoria> <https://municipio/pred/area> "161.3".
 <https://municipio/Praia_da_Vitoria> <https://municipio/pred/pop> "21086".
 <https://municipio/Praia_da_Vitoria> <https://municipio/pred/denspop> "130.7".
 <https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/idmun> "369".
-<https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/nome> "Santa_Cruz_da_Graciosa".
-<https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/nome> "Santa Cruz da Graciosa".
+<https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/area> "61.2".
 <https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/pop> "4393".
 <https://municipio/Santa_Cruz_da_Graciosa> <https://municipio/pred/denspop> "71.8".
-<https://municipio/Calheta> <https://municipio/pred/idmun> "370".
-<https://municipio/Calheta> <https://municipio/pred/nome> "Calheta".
-<https://municipio/Calheta> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
-<https://municipio/Calheta> <https://municipio/pred/area> "126.3".
-<https://municipio/Calheta> <https://municipio/pred/pop> "3617".
-<https://municipio/Calheta> <https://municipio/pred/denspop> "28.6".
+<https://municipio/Calheta_Acores> <https://municipio/pred/idmun> "370".
+<https://municipio/Calheta_Acores> <https://municipio/pred/nome> "Calheta".
+<https://municipio/Calheta_Acores> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
+<https://municipio/Calheta_Acores> <https://municipio/pred/area> "126.3".
+<https://municipio/Calheta_Acores> <https://municipio/pred/pop> "3617".
+<https://municipio/Calheta_:Acores> <https://municipio/pred/denspop> "28.6".
 <https://municipio/Velas> <https://municipio/pred/idmun> "371".
 <https://municipio/Velas> <https://municipio/pred/nome> "Velas".
-<https://municipio/Velas> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Velas> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Velas> <https://municipio/pred/area> "117.4".
 <https://municipio/Velas> <https://municipio/pred/pop> "5381".
 <https://municipio/Velas> <https://municipio/pred/denspop> "45.8".
 <https://municipio/Lajes_do_Pico> <https://municipio/pred/idmun> "372".
-<https://municipio/Lajes_do_Pico> <https://municipio/pred/nome> "Lajes_do_Pico".
-<https://municipio/Lajes_do_Pico> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Lajes_do_Pico> <https://municipio/pred/nome> "Lajes do Pico".
+<https://municipio/Lajes_do_Pico> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Lajes_do_Pico> <https://municipio/pred/area> "155.3".
 <https://municipio/Lajes_do_Pico> <https://municipio/pred/pop> "4701".
 <https://municipio/Lajes_do_Pico> <https://municipio/pred/denspop> "30.3".
 <https://municipio/Madalena> <https://municipio/pred/idmun> "373".
 <https://municipio/Madalena> <https://municipio/pred/nome> "Madalena".
-<https://municipio/Madalena> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Madalena> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Madalena> <https://municipio/pred/area> "147.1".
 <https://municipio/Madalena> <https://municipio/pred/pop> "6049".
 <https://municipio/Madalena> <https://municipio/pred/denspop> "41.1".
 <https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/idmun> "374".
-<https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/nome> "Sao_Roque_do_Pico".
-<https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/nome> "Sao Roque do Pico".
+<https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/area> "142.4".
 <https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/pop> "3394".
 <https://municipio/Sao_Roque_do_Pico> <https://municipio/pred/denspop> "23.8".
 <https://municipio/Horta> <https://municipio/pred/idmun> "375".
 <https://municipio/Horta> <https://municipio/pred/nome> "Horta".
-<https://municipio/Horta> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Horta> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Horta> <https://municipio/pred/area> "173.1".
 <https://municipio/Horta> <https://municipio/pred/pop> "15038".
 <https://municipio/Horta> <https://municipio/pred/denspop> "86.9".
 <https://municipio/Lajes_das_Flores> <https://municipio/pred/idmun> "376".
-<https://municipio/Lajes_das_Flores> <https://municipio/pred/nome> "Lajes_das_Flores".
-<https://municipio/Lajes_das_Flores> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Lajes_das_Flores> <https://municipio/pred/nome> "Lajes das Flores".
+<https://municipio/Lajes_das_Flores> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Lajes_das_Flores> <https://municipio/pred/area> "70.0".
 <https://municipio/Lajes_das_Flores> <https://municipio/pred/pop> "1503".
 <https://municipio/Lajes_das_Flores> <https://municipio/pred/denspop> "21.5".
 <https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/idmun> "377".
-<https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/nome> "Santa_Cruz_das_Flores".
-<https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/nome> "Santa Cruz das Flores".
+<https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/area> "70.9".
 <https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/pop> "2288".
 <https://municipio/Santa_Cruz_das_Flores> <https://municipio/pred/denspop> "32.3".
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/idmun> "378".
-<https://municipio/Vila_do_Corvo> <https://municipio/pred/nome> "Vila_do_Corvo".
-<https://municipio/Vila_do_Corvo> <https://municipio/pred/regiao> "Regiao_Autonoma_dos_Acores".
+<https://municipio/Vila_do_Corvo> <https://municipio/pred/nome> "Vila do Corvo".
+<https://municipio/Vila_do_Corvo> <https://municipio/pred/regiao> "Regiao Autonoma dos Acores".
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/area> "17.1".
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/pop> "430".
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/denspop> "25.1".
@@ -2268,83 +2250,83 @@
 <https://interesse/Passadicos_do_Paiva> <https://interesse/pred/nome> "Passadicos_do_Paiva".
 <https://interesse/Passadicos_do_Paiva> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Salinas_de_Aveiro> <https://interesse/pred/idint> "4".
-<https://interesse/Salinas_de_Aveiro> <https://interesse/pred/nome> "Salinas_de_Aveiro".
+<https://interesse/Salinas_de_Aveiro> <https://interesse/pred/nome> "Salinas de Aveiro".
 <https://interesse/Salinas_de_Aveiro> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/idint> "6".
 <https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/nome> "Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre".
 <https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/tipo> "Cultura".
 <https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/idint> "9".
-<https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/nome> "PalAcio_do_Bucaco".
+<https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/nome> "Palacio do Bucaco".
 <https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/idint> "10".
-<https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/nome> "Pao-de-lo_de_Ovar".
-<https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/tipo> "Gastronomia_e_vinhos".
+<https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/nome> "Pao de lo de Ovar".
+<https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/idint> "11".
-<https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/nome> "Castelo_de_Santa_Maria_da_Feira".
+<https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/nome> "Castelo de_Santa Maria da Feira".
 <https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Alvito> <https://interesse/pred/idint> "12".
 <https://interesse/Alvito> <https://interesse/pred/nome> "Alvito".
 <https://interesse/Alvito> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Gaspacho> <https://interesse/pred/idint> "16".
 <https://interesse/Gaspacho> <https://interesse/pred/nome> "Gaspacho".
-<https://interesse/Gaspacho> <https://interesse/pred/tipo> "Gastronomia_e_vinho".
+<https://interesse/Gaspacho> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Parque_Natural_do_Vale_do_Guadiana> <https://interesse/pred/idint> "18".
-<https://interesse/Parque_Natural_do_Vale_do_Guadiana> <https://interesse/pred/nome> "Parque_Natural_do_Vale_do_Guadiana".
+<https://interesse/Parque_Natural_do_Vale_do_Guadiana> <https://interesse/pred/nome> "Parque Natural do Vale do Guadiana".
 <https://interesse/Parque_Natural_do_Vale_do_Guadiana> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Praia_da_Zambujeira_do_Mar> <https://interesse/pred/idint> "20".
-<https://interesse/Praia_da_Zambujeira_do_Mar> <https://interesse/pred/nome> "Praia_da_Zambujeira_do_Mar".
+<https://interesse/Praia_da_Zambujeira_do_Mar> <https://interesse/pred/nome> "Praia da Zambujeira do Mar".
 <https://interesse/Praia_da_Zambujeira_do_Mar> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Galo_de_Barcelos> <https://interesse/pred/idint> "21".
-<https://interesse/Galo_de_Barcelos> <https://interesse/pred/nome> "Galo_de_Barcelos".
+<https://interesse/Galo_de_Barcelos> <https://interesse/pred/nome> "Galo de Barcelos".
 <https://interesse/Galo_de_Barcelos> <https://interesse/pred/tipo> "Cultura".
 <https://interesse/Bacalhau_a_Narcisa> <https://interesse/pred/idint> "24".
-<https://interesse/Bacalhau_a_Narcisa> <https://interesse/pred/nome> "Bacalhau_a_Narcisa".
-<https://interesse/Bacalhau_a_Narcisa> <https://interesse/pred/tipo> "Gastronomia_e_vinho".
+<https://interesse/Bacalhau_a_Narcisa> <https://interesse/pred/nome> "Bacalhau a Narcisa".
+<https://interesse/Bacalhau_a_Narcisa> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Paco_dos_Duques_de_Braganca> <https://interesse/pred/idint> "27".
-<https://interesse/Paco_dos_Duques_de_Braganca> <https://interesse/pred/nome> "Paco_dos_Duques_de_Braganca".
+<https://interesse/Paco_dos_Duques_de_Braganca> <https://interesse/pred/nome> "Paco dos Duques de Braganca".
 <https://interesse/Paco_dos_Duques_de_Braganca> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Cascata_do_Arado> <https://interesse/pred/idint> "28".
-<https://interesse/Cascata_do_Arado> <https://interesse/pred/nome> "Cascata_do_Arado".
+<https://interesse/Cascata_do_Arado> <https://interesse/pred/nome> "Cascata do Arado".
 <https://interesse/Cascata_do_Arado> <https://interesse/pred/tipo> "Lazer".
-<https://interesse/SantuArio_Nossa_Senhora_da_Lapa> <https://interesse/pred/idint> "29".
-<https://interesse/SantuArio_Nossa_Senhora_da_Lapa> <https://interesse/pred/nome> "SantuArio_Nossa_Senhora_da_Lapa".
-<https://interesse/SantuArio_Nossa_Senhora_da_Lapa> <https://interesse/pred/tipo> "Patrimonio".
+<https://interesse/Santuario_Nossa_Senhora_da_Lapa> <https://interesse/pred/idint> "29".
+<https://interesse/Santuario_Nossa_Senhora_da_Lapa> <https://interesse/pred/nome> "Santuario Nossa Senhora da Lapa".
+<https://interesse/Santuario_Nossa_Senhora_da_Lapa> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Castelo_de_Braganca> <https://interesse/pred/idint> "30".
-<https://interesse/Castelo_de_Braganca> <https://interesse/pred/nome> "Castelo_de_Braganca".
+<https://interesse/Castelo_de_Braganca> <https://interesse/pred/nome> "Castelo de Braganca".
 <https://interesse/Castelo_de_Braganca> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Gravuras_Ruprestres_de_Mazouco> <https://interesse/pred/idint> "33".
-<https://interesse/Gravuras_Ruprestres_de_Mazouco> <https://interesse/pred/nome> "Gravuras_Ruprestres_de_Mazouco".
+<https://interesse/Gravuras_Ruprestres_de_Mazouco> <https://interesse/pred/nome> "Gravuras Ruprestres de Mazouco".
 <https://interesse/Gravuras_Ruprestres_de_Mazouco> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Pauliteiros_de_Miranda> <https://interesse/pred/idint> "35".
-<https://interesse/Pauliteiros_de_Miranda> <https://interesse/pred/nome> "Pauliteiros_de_Miranda".
+<https://interesse/Pauliteiros_de_Miranda> <https://interesse/pred/nome> "Pauliteiros de Miranda".
 <https://interesse/Pauliteiros_de_Miranda> <https://interesse/pred/tipo> "Cultura".
 <https://interesse/Alheira> <https://interesse/pred/idint> "36".
 <https://interesse/Alheira> <https://interesse/pred/nome> "Alheira".
-<https://interesse/Alheira> <https://interesse/pred/tipo> "Gastronomia_e_vinhos".
+<https://interesse/Alheira> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Castelo_de_Mogadouro> <https://interesse/pred/idint> "37".
-<https://interesse/Castelo_de_Mogadouro> <https://interesse/pred/nome> "Castelo_de_Mogadouro".
+<https://interesse/Castelo_de_Mogadouro> <https://interesse/pred/nome> "Castelo de Mogadouro".
 <https://interesse/Castelo_de_Mogadouro> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Butelo> <https://interesse/pred/idint> "39".
 <https://interesse/Butelo> <https://interesse/pred/nome> "Butelo".
-<https://interesse/Butelo> <https://interesse/pred/tipo> "Gastronomia_e_vinho".
+<https://interesse/Butelo> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Castelo_de_Belmonte> <https://interesse/pred/idint> "40".
-<https://interesse/Castelo_de_Belmonte> <https://interesse/pred/nome> "Castelo_de_Belmonte".
+<https://interesse/Castelo_de_Belmonte> <https://interesse/pred/nome> "Castelo de Belmonte".
 <https://interesse/Castelo_de_Belmonte> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Castelo_de_Castelo_Branco> <https://interesse/pred/idint> "41".
-<https://interesse/Castelo_de_Castelo_Branco> <https://interesse/pred/nome> "Castelo_de_Castelo_Branco".
+<https://interesse/Castelo_de_Castelo_Branco> <https://interesse/pred/nome> "Castelo de Castelo Branco".
 <https://interesse/Castelo_de_Castelo_Branco> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Aldeia_de_Sao_Francisco_de_Assis> <https://interesse/pred/idint> "43".
-<https://interesse/Aldeia_de_Sao_Francisco_de_Assis> <https://interesse/pred/nome> "Aldeia_de_Sao_Francisco_de_Assis".
+<https://interesse/Aldeia_de_Sao_Francisco_de_Assis> <https://interesse/pred/nome> "Aldeia de Sao Francisco de Assis".
 <https://interesse/Aldeia_de_Sao_Francisco_de_Assis> <https://interesse/pred/tipo> "Patrimonio".
-<https://interesse/Cereija_do_Fundao> <https://interesse/pred/idint> "45".
-<https://interesse/Cereija_do_Fundao> <https://interesse/pred/nome> "Cereija_do_Fundao".
-<https://interesse/Cereija_do_Fundao> <https://interesse/pred/tipo> "Gastronomia_e_vinho".
+<https://interesse/Cereja_do_Fundao> <https://interesse/pred/idint> "45".
+<https://interesse/Cereja_do_Fundao> <https://interesse/pred/nome> "Cereja do Fundao".
+<https://interesse/Cereja_do_Fundao> <https://interesse/pred/tipo> "Gastronomia e vinho".
 <https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/idint> "46".
 <https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/nome> "Reserva_Natural_da_Serra_da_Malcata".
 <https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Castelo_da_Serta> <https://interesse/pred/idint> "47".
-<https://interesse/Castelo_da_Serta> <https://interesse/pred/nome> "Castelo_da_Serta".
+<https://interesse/Castelo_da_Serta> <https://interesse/pred/nome> "Castelo da Serta".
 <https://interesse/Castelo_da_Serta> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Postas_de_Rodao> <https://interesse/pred/idint> "48".
-<https://interesse/Postas_de_Rodao> <https://interesse/pred/nome> "Postas_de_Rodao".
+<https://interesse/Postas_de_Rodao> <https://interesse/pred/nome> "Postas de Rodao".
 <https://interesse/Postas_de_Rodao> <https://interesse/pred/tipo> "Lazer".
