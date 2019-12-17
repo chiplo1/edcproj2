@@ -23,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../plswork" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -139,7 +140,7 @@
       <workItem from="1576583293813" duration="9827000" />
       <workItem from="1576599957334" duration="29000" />
       <workItem from="1576600032685" duration="81000" />
-      <workItem from="1576600147398" duration="595000" />
+      <workItem from="1576600147398" duration="1652000" />
     </task>
     <servers />
   </component>

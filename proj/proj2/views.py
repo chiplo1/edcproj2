@@ -54,19 +54,19 @@ def distritos(request):
 def distritoDetail(request):
     data = request.GET
     distrito = data['distrito']
-    #print(data)
-    print(data['distrito'])
+
     endpoint = "http://localhost:7200"
     repo_name = "edcproj2"
     client = ApiClient(endpoint=endpoint)
     accessor = GraphDBApi(client)
+    f = distrito.replace('_',' ')
 
     query = """
     prefix ns0: <https://distrito/pred/>
     prefix ns1: <https://municipio/pred/>
     select ?distrito ?nome ?idmunicipio ?img ?nomedist ?area ?pop
     where { 
-        ?distrito ns0:nome '""" +distrito+ """'.
+        ?distrito ns0:nome '""" +f+ """'.
         ?distrito ns0:municipio ?nomemunicipio.
         ?nomemunicipio ns1:nome ?nome.
         ?nomemunicipio ns1:idmun ?idmunicipio.
@@ -88,8 +88,8 @@ def distritoDetail(request):
     pop = 0
 
     for e in res['results']['bindings']:
-        print(e)
-        municipios[e['nome']['value']] = e['nome']['value']
+        nome2 = e['nome']['value'].replace(' ', '_')
+        municipios[nome2] = e['nome']['value']
         area = area + float((e['area']['value']))
         pop = pop + float((e['pop']['value']))
 
@@ -107,23 +107,23 @@ def distritoDetail(request):
         prefix int: <https://interesse/pred/>
         prefix m: <https://municipio/pred/>
         prefix d: <https://distrito/pred/>
-        select ?nome_int ?idint
+        select ?nome_int
         where {
-           ?d d:distrito '"""+distrito+"""'.
+           ?d d:nome '"""+distrito+"""'.
            ?d d:municipio ?s_nome.
            ?s_nome m:interesse ?s_int.
            ?s_int int:nome ?nome_int.
-           ?s_int int:idint ?idint
         }order by asc(?nome_int)
     """
+    print(query)
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
                                  repo_name=repo_name)
     res = json.loads(res)
 
     for e in res['results']['bindings']:
-
-        interesses[e['idint']['value']] = e['nome_int']['value']
+        nome2 = e['nome_int']['value'].replace(' ', '_')
+        interesses[nome2] = e['nome_int']['value']
 
     codes = {
         "Aveiro": 'Q485581',
@@ -167,7 +167,6 @@ def distritoDetail(request):
     tz = ""
     img = ""
     for result in results['results']['bindings']:
-        print(result)
         if 'coordinates' in result:
             coord = result['coordinates']['value']
         if 'imagemLabel' in result:
@@ -183,5 +182,4 @@ def distritoDetail(request):
     data['img'] = img
     data['tz'] = tz
     data['borders'] = borders
-
     return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses,"data":data})
