@@ -127,13 +127,13 @@
       <h3><span class="tab">Wikidata:</span></h3>
       <br>
       {% for key,value in data.items %}
-            {% if  key == "coord" and value != None %}
+            {% if  key == "coord" and value != None and value != "" %}
                 <h4><span class="minortab"> As coordenadas do distrito são: {{value}} .</span></h4>
-            {% elif key == "img" and value != None %}
+            {% elif key == "img" and value != None and value != "" %}
                 <h4><span class="minortab"><a target="_blank" rel="noopener noreferrer" href={{ value }}>Localização do distrito</a></span></h4>
-            {% elif key == "tz" and value != None %}
+            {% elif key == "tz" and value != None and value != "" %}
                 <h4><span class="minortab"> O fuso horário do distrito é: {{value}} .</span></h4>
-            {% elif key == "borders" and value != None %}
+            {% elif key == "borders" and value != None and value != "" %}
                 <h4 ><span class="minortab"> O distrito faz fronteiras com: </span></h4>
                 <span class="minortab">
                     <ul>

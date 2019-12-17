@@ -144,7 +144,7 @@ def distritoDetail(request):
         "17": 'Q503856',
         "18": 'Q117676',
     }
-    sparql = SPARQLWrapper("http://query.wikidata.org/sparql")
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql", agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')
     sparql.setQuery("""
               SELECT DISTINCT ?coordinates ?imagemLabel ?timezoneLabel ?borderLabel
               WHERE {
@@ -162,15 +162,25 @@ def distritoDetail(request):
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
     borders = []
+    coord = ""
+    tz = ""
+    img = ""
     for result in results['results']['bindings']:
-        coord = result['coordinates']['value']
-        img = result['imagemLabel']['value']
-        tz = result['timezoneLabel']['value']
-        borders.append(result['borderLabel']['value'])
+        print(result)
+        if 'coordinates' in result:
+            coord = result['coordinates']['value']
+        if 'imagemLabel' in result:
+            if img == "":
+                img = result['imagemLabel']['value']
+        if 'timezoneLabel' in result:
+            tz = result['timezoneLabel']['value']
+        if 'borderLabel' in result:
+            if result['borderLabel']['value'] not in borders:
+                borders.append(result['borderLabel']['value'])
     data = {}
     data['coord'] = coord
     data['img'] = img
     data['tz'] = tz
     data['borders'] = borders
-
+    print(data)
     return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses,"data":data})
