@@ -2,7 +2,6 @@ from django.shortcuts import render
 
 # Create your views here.
 import json
-from lxml import etree
 import xmltodict
 from BaseXClient import BaseXClient
 from s4api.graphdb_api import GraphDBApi
@@ -12,33 +11,46 @@ def main(request):
     return render(request, 'newmain.html')
 
 def distritos(request):
-    doc = etree.parse("portugal.xml")
-    search = doc.xpath("//distrito")
-    # create session
-    session = BaseXClient.Session('localhost', 1984, 'admin', 'admin')
-    send = {}
-    infoportugal = {}
-    for s in search:
-        send[s.find("nomedistrito").text] = s.find("iddistrito").text
+    endpoint = "http://localhost:7200"
+    repo_name = "edcproj2"
+    client = ApiClient(endpoint=endpoint)
+    accessor = GraphDBApi(client)
+    query = """
+    prefix ns0: <https://municipio/pred/>
+    prefix ns1: <https://distrito/pred/>
+    SELECT ?municipio ?idmun ?nome ?regiao ?area ?pop  ?denspop
+    WHERE {        
+                   ?municipio ns0:idmun ?idmun .
+                    ?municipio ns0:nome ?nome .
+                   ?municipio ns0:regiao ?regiao .
+                   ?municipio ns0:area ?area .
+                   ?municipio ns0:pop ?pop .
+                   ?municipio ns0:denspop ?denspop .
 
-    try:
-        input = '''
-            for $i in doc("portugal")
-            let $dados := $i//municipio
-            let $totalpop := sum($dados/populacao)
-            let $totalarea := sum($dados/area)
-            let $densidadeportugal := $totalpop div $totalarea
-            return <portugal>{<totalpop>{xs:integer($totalpop)}</totalpop>, <totalarea>{$totalarea}</totalarea>, <densidadeportugal>{$densidadeportugal}</densidadeportugal>}</portugal>'''
-        query = session.query(input)
-        search = xmltodict.parse(query.execute())['portugal']
-        query.close()
-    finally:
-        if session:
-            infoportugal['totalpop'] = search['totalpop']
-            infoportugal['totalarea'] = search['totalarea']
-            infoportugal['densidadeportugal'] = search['densidadeportugal']
-            session.close()
-    return render(request, 'distritos.html', {"send": send, "infoportugal": infoportugal})
+               }
+    """
+    payload_query = {"query": query}
+    res = accessor.sparql_select(body=payload_query,
+                                 repo_name=repo_name)
+    res = json.loads(res)
+    area = 0
+    pop = 0
+    for e in res['results']['bindings']:
+        # print(e)
+        area = area + float((e['area']['value']))
+        pop = pop + float((e['pop']['value']))
+        # print(e['nome']['value'])
+        # print(e['area']['value'])
+        # print(e['pop']['value'])
+    denspop = round(pop / area, 2)
+    pop = round(pop, 2)
+    area = round(area, 2)
+    infoportugal = {}
+    infoportugal['totalpop'] = pop
+    infoportugal['totalarea'] = area
+    infoportugal['densidadeportugal'] = denspop
+    print(infoportugal)
+    return render(request, 'distritos.html', {"infoportugal": infoportugal})
 
 def distritoDetail(request):
     endpoint = "http://localhost:7200"
