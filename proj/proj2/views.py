@@ -53,7 +53,9 @@ def distritos(request):
 
 def distritoDetail(request):
     data = request.GET
-    id = data['id']
+    distrito = data['distrito']
+    #print(data)
+    print(data['distrito'])
     endpoint = "http://localhost:7200"
     repo_name = "edcproj2"
     client = ApiClient(endpoint=endpoint)
@@ -64,7 +66,7 @@ def distritoDetail(request):
     prefix ns1: <https://municipio/pred/>
     select ?distrito ?nome ?idmunicipio ?img ?nomedist ?area ?pop
     where { 
-        ?distrito ns0:iddistrito '""" +id+ """'.
+        ?distrito ns0:nome '""" +distrito+ """'.
         ?distrito ns0:municipio ?nomemunicipio.
         ?nomemunicipio ns1:nome ?nome.
         ?nomemunicipio ns1:idmun ?idmunicipio.
@@ -76,7 +78,6 @@ def distritoDetail(request):
     }
     order by asc(?nome)
     """
-
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
     repo_name=repo_name)
@@ -87,7 +88,8 @@ def distritoDetail(request):
     pop = 0
 
     for e in res['results']['bindings']:
-        municipios[e['idmunicipio']['value']] = e['nome']['value']
+        print(e)
+        municipios[e['nome']['value']] = e['nome']['value']
         area = area + float((e['area']['value']))
         pop = pop + float((e['pop']['value']))
 
@@ -107,14 +109,13 @@ def distritoDetail(request):
         prefix d: <https://distrito/pred/>
         select ?nome_int ?idint
         where {
-           ?d d:iddistrito '"""+id+"""'.
+           ?d d:distrito '"""+distrito+"""'.
            ?d d:municipio ?s_nome.
            ?s_nome m:interesse ?s_int.
            ?s_int int:nome ?nome_int.
            ?s_int int:idint ?idint
         }order by asc(?nome_int)
     """
-
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
                                  repo_name=repo_name)
@@ -125,32 +126,32 @@ def distritoDetail(request):
         interesses[e['idint']['value']] = e['nome_int']['value']
 
     codes = {
-        "1": 'Q485581',
-        "2": 'Q213251',
-        "3": 'Q83247',
-        "4": 'Q768261',
-        "5": 'Q12899232',
-        "6": 'Q45412',
-        "7": 'Q179948',
-        "8": 'Q159457',
-        "9": 'Q750594',
-        "10": 'Q206933',
-        "11": 'Q597',
-        "12": 'Q622819',
-        "13": 'Q36433',
-        "14": 'Q273877',
-        "15": 'Q173699',
-        "16": 'Q208158',
-        "17": 'Q503856',
-        "18": 'Q117676',
+        "Aveiro": 'Q485581',
+        "Beja": 'Q213251',
+        "Braga": 'Q83247',
+        "Braganca": 'Q768261',
+        "Castelo_Branco": 'Q12899232',
+        "Coimbra": 'Q45412',
+        "Evora": 'Q179948',
+        "Faro": 'Q159457',
+        "Guarda": 'Q750594',
+        "Leiria": 'Q206933',
+        "Lisboa": 'Q597',
+        "Portalegre": 'Q622819',
+        "Porto": 'Q36433',
+        "Santarem": 'Q273877',
+        "Setubal": 'Q173699',
+        "Viana_do_Castelo": 'Q208158',
+        "Vila_Real": 'Q503856',
+        "Viseu": 'Q117676',
     }
-    sparql = SPARQLWrapper("http://query.wikidata.org/sparql")
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql", agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')
     sparql.setQuery("""
               SELECT DISTINCT ?coordinates ?imagemLabel ?timezoneLabel ?borderLabel
               WHERE {
                 ?distrito wdt:P17 wd:Q45 .
                 ?distrito wdt:P31 wd:Q41806065 .
-                ?distrito wdt:P36 wd:"""+ codes.get(id) +""" .
+                ?distrito wdt:P36 wd:"""+ codes.get(distrito) +""" .
                 ?distrito wdt:P625 ?coordinates .
                 OPTIONAL { ?distrito wdt:P2046 ?areaDistrito .}
                 OPTIONAL { ?distrito wdt:P242 ?imagem .}
@@ -172,5 +173,5 @@ def distritoDetail(request):
     data['img'] = img
     data['tz'] = tz
     data['borders'] = borders
-
+    print(municipios)
     return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses,"data":data})

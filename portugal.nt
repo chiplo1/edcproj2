@@ -71,7 +71,7 @@
 <https://distrito/Braganca> <https://distrito/pred/municipio> <https://municipio/Vimioso> .
 <https://distrito/Braganca> <https://distrito/pred/municipio> <https://municipio/Vinhais> .
 <https://distrito/Castelo_Branco> <https://distrito/pred/iddistrito> "5".
-<https://distrito/Castelo_Branco> <https://distrito/pred/nome> "Castelo_Branco".
+<https://distrito/Castelo_Branco> <https://distrito/pred/nome> "Castelo Branco".
 <https://distrito/Castelo_Branco> <https://distrito/pred/imagem> "https://i0.wp.com/www.vortexmag.net/wp-content/uploads/2016/02/jardimcastelo1-e1487074483876.jpg".
 <https://distrito/Castelo_Branco> <https://distrito/pred/municipio> <https://municipio/Belmonte> .
 <https://distrito/Castelo_Branco> <https://distrito/pred/municipio> <https://municipio/Castelo_Branco> .
@@ -278,7 +278,7 @@
 <https://distrito/Setubal> <https://distrito/pred/municipio> <https://municipio/Setubal> .
 <https://distrito/Setubal> <https://distrito/pred/municipio> <https://municipio/Sines> .
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/iddistrito> "16".
-<https://distrito/Viana_do_Castelo> <https://distrito/pred/nome> "Viana_do_Castelo".
+<https://distrito/Viana_do_Castelo> <https://distrito/pred/nome> "Viana do Castelo".
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/imagem> "https://i.ytimg.com/vi/zqKfGVdQ-wo/maxresdefault.jpg".
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> <https://municipio/Viana_do_Castelo> .
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> <https://municipio/Valenca> .
@@ -291,7 +291,7 @@
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> <https://municipio/Ponte_de_Lima> .
 <https://distrito/Viana_do_Castelo> <https://distrito/pred/municipio> <https://municipio/Vila_Nova_de_Cerveira> .
 <https://distrito/Vila_Real> <https://distrito/pred/iddistrito> "17".
-<https://distrito/Vila_Real> <https://distrito/pred/nome> "Vila_Real".
+<https://distrito/Vila_Real> <https://distrito/pred/nome> "Vila Real".
 <https://distrito/Vila_Real> <https://distrito/pred/imagem> "https://i.ytimg.com/vi/3NokbWCIeDY/maxresdefault.jpg".
 <https://distrito/Vila_Real> <https://distrito/pred/municipio> <https://municipio/Alijo> .
 <https://distrito/Vila_Real> <https://distrito/pred/municipio> <https://municipio/Boticas> .
