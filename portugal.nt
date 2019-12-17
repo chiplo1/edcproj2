@@ -426,7 +426,7 @@
 <https://municipio/Ilhavo> <https://municipio/pred/area> "75.05".
 <https://municipio/Ilhavo> <https://municipio/pred/pop> "41271".
 <https://municipio/Ilhavo> <https://municipio/pred/denspop> "550".
-<https://municipio/Ilhavo> <https://municipio/pred/interesse> <https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> .
+<https://municipio/Ilhavo> <https://municipio/pred/interesse> <https://interesse/Museu_Maritmo_de_Ilhavo_Navio_de_Santo_Andre> .
 <https://municipio/Mealhada> <https://municipio/pred/idmun> "10".
 <https://municipio/Mealhada> <https://municipio/pred/nome> "Mealhada".
 <https://municipio/Mealhada> <https://municipio/pred/regiao> "Centro".
@@ -2247,14 +2247,14 @@
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/pop> "430".
 <https://municipio/Vila_do_Corvo> <https://municipio/pred/denspop> "25.1".
 <https://interesse/Passadicos_do_Paiva> <https://interesse/pred/idint> "1".
-<https://interesse/Passadicos_do_Paiva> <https://interesse/pred/nome> "Passadicos_do_Paiva".
+<https://interesse/Passadicos_do_Paiva> <https://interesse/pred/nome> "Passadicos do Paiva".
 <https://interesse/Passadicos_do_Paiva> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Salinas_de_Aveiro> <https://interesse/pred/idint> "4".
 <https://interesse/Salinas_de_Aveiro> <https://interesse/pred/nome> "Salinas de Aveiro".
 <https://interesse/Salinas_de_Aveiro> <https://interesse/pred/tipo> "Patrimonio".
-<https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/idint> "6".
-<https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/nome> "Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre".
-<https://interesse/Museu_Maritmo_de_Ilhavo,_Navio_de_Santo_Andre> <https://interesse/pred/tipo> "Cultura".
+<https://interesse/Museu_Maritmo_de_Ilhavo_Navio_de_Santo_Andre> <https://interesse/pred/idint> "6".
+<https://interesse/Museu_Maritmo_de_Ilhavo_Navio_de_Santo_Andre> <https://interesse/pred/nome> "Museu Maritmo de Ilhavo Navio de Santo Andre".
+<https://interesse/Museu_Maritmo_de_Ilhavo_Navio_de_Santo_Andre> <https://interesse/pred/tipo> "Cultura".
 <https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/idint> "9".
 <https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/nome> "Palacio do Bucaco".
 <https://interesse/PalAcio_do_Bucaco> <https://interesse/pred/tipo> "Patrimonio".
@@ -2262,7 +2262,7 @@
 <https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/nome> "Pao de lo de Ovar".
 <https://interesse/Pao-de-lo_de_Ovar> <https://interesse/pred/tipo> "Gastronomia e Vinho".
 <https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/idint> "11".
-<https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/nome> "Castelo de_Santa Maria da Feira".
+<https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/nome> "Castelo de Santa Maria da Feira".
 <https://interesse/Castelo_de_Santa_Maria_da_Feira> <https://interesse/pred/tipo> "Patrimonio".
 <https://interesse/Alvito> <https://interesse/pred/idint> "12".
 <https://interesse/Alvito> <https://interesse/pred/nome> "Alvito".
@@ -2322,7 +2322,7 @@
 <https://interesse/Cereja_do_Fundao> <https://interesse/pred/nome> "Cereja do Fundao".
 <https://interesse/Cereja_do_Fundao> <https://interesse/pred/tipo> "Gastronomia e vinho".
 <https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/idint> "46".
-<https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/nome> "Reserva_Natural_da_Serra_da_Malcata".
+<https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/nome> "Reserva Natural da Serra da Malcata".
 <https://interesse/Reserva_Natural_da_Serra_da_Malcata> <https://interesse/pred/tipo> "Lazer".
 <https://interesse/Castelo_da_Serta> <https://interesse/pred/idint> "47".
 <https://interesse/Castelo_da_Serta> <https://interesse/pred/nome> "Castelo da Serta".
