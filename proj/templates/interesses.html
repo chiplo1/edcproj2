@@ -84,31 +84,31 @@
               <h4><span class="minortab">Norte:</span></h4>
                 {% for key, value in send.cultura.items %}
                     {% if value.1 == 'Norte' %}
-                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="tab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
               <h4><span class="minortab">Centro:</span></h4>
                 {% for key, value in send.cultura.items %}
                     {% if value.1 == 'Centro' %}
-                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="tab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
               <h4><span class="minortab">Área Metropolitana de Lisboa:</span></h4>
                 {% for key, value in send.cultura.items %}
                     {% if value.1 == 'Área Metropolitana de Lisboa' %}
-                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="tab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
               <h4><span class="minortab">Alentejo:</span></h4>
                 {% for key, value in send.cultura.items %}
                     {% if value.1 == 'Alentejo' %}
-                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="tab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
               <h4><span class="minortab">Algarve:</span></h4>
                 {% for key, value in send.cultura.items %}
                     {% if value.1 == 'Algarve' %}
-                        <h4><span class="tab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="tab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
           </form>
@@ -121,68 +121,68 @@
                 <h4>Norte:</h4>
                 {% for key, value in send.lazer.items %}
                     {% if value.1 == 'Norte' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Centro:</h4>
                 {% for key, value in send.lazer.items %}
                     {% if value.1 == 'Centro' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Área Metropolitana de Lisboa:</h4>
                 {% for key, value in send.lazer.items %}
                     {% if value.1 == 'Área Metropolitana de Lisboa' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Alentejo:</h4>
                 {% for key, value in send.lazer.items %}
                     {% if value.1 == 'Alentejo' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Algarve:</h4>
                 {% for key, value in send.lazer.items %}
                     {% if value.1 == 'Algarve' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
             </form>
       </div>
       <div class="column" style="background-color:#FFFFFF;">
       <br><br><br><br>
-           <img src=http://fcsh.unl.pt/ensino/mestrados/banner_int_mestrado_patrimonio.png style="width:80%" class="center" alt="Image">
+           <img src=http://travelcare.pt/wp-content/uploads/2017/09/travelcare-agencia-viagens-dmc-portugal-patrimonio-mundial-2.jpg style="width:80%" class="center" alt="Image">
            <h3><span class="minortab">Património:</span></h3>
            <form action="/interesseDetail/" method='get'>
                 <h4>Norte:</h4>
                 {% for key, value in send.patrimonio.items %}
                     {% if value.1 == 'Norte' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Centro:</h4>
                 {% for key, value in send.patrimonio.items %}
                     {% if value.1 == 'Centro' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Área Metropolitana de Lisboa:</h4>
                 {% for key, value in send.patrimonio.items %}
                     {% if value.1 == 'Área Metropolitana de Lisboa' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Alentejo:</h4>
                 {% for key, value in send.patrimonio.items %}
                     {% if value.1 == 'Alentejo' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Algarve:</h4>
                 {% for key, value in send.patrimonio.items %}
                     {% if value.1 == 'Algarve' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
            </form>
@@ -195,31 +195,31 @@
                 <h4>Norte:</h4>
                 {% for key, value in send.gastronomia.items %}
                     {% if value.1 == 'Norte' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Centro:</h4>
                 {% for key, value in send.gastronomia.items %}
                     {% if value.1 == 'Centro' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Área Metropolitana de Lisboa:</h4>
                 {% for key, value in send.gastronomia.items %}
                     {% if value.1 == 'Área Metropolitana de Lisboa' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Alentejo:</h4>
                 {% for key, value in send.gastronomia.items %}
                     {% if value.1 == 'Alentejo' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Algarve:</h4>
                 {% for key, value in send.gastronomia.items %}
                     {% if value.1 == 'Algarve' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.0}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.0}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
             </form>

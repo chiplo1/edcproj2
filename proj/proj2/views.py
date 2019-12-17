@@ -36,12 +36,9 @@ def distritos(request):
     area = 0
     pop = 0
     for e in res['results']['bindings']:
-        # print(e)
         area = area + float((e['area']['value']))
         pop = pop + float((e['pop']['value']))
-        # print(e['nome']['value'])
-        # print(e['area']['value'])
-        # print(e['pop']['value'])
+
     denspop = round(pop / area, 2)
     pop = round(pop, 2)
     area = round(area, 2)
@@ -115,7 +112,6 @@ def distritoDetail(request):
            ?s_int int:nome ?nome_int.
         }order by asc(?nome_int)
     """
-    print(query)
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
                                  repo_name=repo_name)
@@ -183,3 +179,141 @@ def distritoDetail(request):
     data['tz'] = tz
     data['borders'] = borders
     return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses,"data":data})
+
+def interesseDetail(request):
+    data = request.GET
+    interesse = data['interesse']
+
+    endpoint = "http://localhost:7200"
+    repo_name = "edcproj2"
+    client = ApiClient(endpoint=endpoint)
+    accessor = GraphDBApi(client)
+    f = interesse.replace('_', ' ')
+
+    query = """
+        prefix int: <https://interesse/pred/>
+        prefix m: <https://municipio/pred/>
+        prefix d: <https://distrito/pred/>
+        select ?tipo ?nomemunicipio ?nomedistrito
+        where { 
+           ?s_int int:nome '"""+ f +"""'.
+           ?s_int int:tipo ?tipo.
+           ?s_m m:interesse ?s_int.
+           ?s_m m:nome ?nomemunicipio.
+           ?distrito d:municipio ?s_m.
+           ?distrito d:nome ?nomedistrito.
+        }
+        """
+    payload_query = {"query": query}
+    res = accessor.sparql_select(body=payload_query,
+                                 repo_name=repo_name)
+    res = json.loads(res)
+
+    print(res)
+
+    send = {}
+
+    send = {'nome':f,
+            'tipo':res['results']['bindings'][0]['tipo']['value'],
+            'nomeconcelho':res['results']['bindings'][0]['nomemunicipio']['value'],
+            'nomedistrito':res['results']['bindings'][0]['nomedistrito']['value']}
+
+    return render(request, 'interesseDetail.html', {"send": send})
+
+def municipioDetail(request):
+    data = request.GET
+    municipio = data['municipio']
+
+    endpoint = "http://localhost:7200"
+    repo_name = "edcproj2"
+    client = ApiClient(endpoint=endpoint)
+    accessor = GraphDBApi(client)
+    f = municipio.replace('_', ' ')
+
+    query = """
+        prefix m: <https://municipio/pred/>
+        prefix int: <https://interesse/pred/>
+        select ?regiao ?area ?pop ?denspop ?nomeint ?tipo
+        where{
+            ?municipio m:nome '"""+ f +"""'.
+            ?municipio m:regiao ?regiao.
+            ?municipio m:area ?area.
+            ?municipio m:pop ?pop.
+            ?municipio m:denspop ?denspop.
+            ?municipio m:interesse ?s_int.
+            ?s_int int:nome ?nomeint.
+            ?s_int int:tipo ?tipo
+        }
+        """
+    payload_query = {"query": query}
+    res = accessor.sparql_select(body=payload_query,
+                                 repo_name=repo_name)
+    res = json.loads(res)
+    send = {}
+    listanomes = {}
+    send["nomeconcelho"] = municipio
+    send["regiao"] = res['results']['bindings'][0]['regiao']['value']
+    send["area"] = res['results']['bindings'][0]['area']['value']
+    send["populacao"] = res['results']['bindings'][0]['pop']['value']
+    send["densidadepopulacional"] = res['results']['bindings'][0]['denspop']['value']
+
+    if len(res['results']['bindings'])>1:
+        for ints in res['results']['bindings']:
+            listanomes[ints['nomeint']['value'].replace(' ', '_')] = {
+                "nome": ints['nomeint']['value'],
+                "tipo": ints['tipo']['value']}
+    else:
+        listanomes[res['results']['bindings'][0]['nomeint']['value'].replace(' ', '_')] = {
+            "nome": res['results']['bindings'][0]['nomeint']['value'],
+            "tipo": res['results']['bindings'][0]['tipo']['value']}
+
+    return render(request, 'municipioDetail.html', {"send": send, "interesses": listanomes})
+
+def interesses(request):
+
+    endpoint = "http://localhost:7200"
+    repo_name = "edcproj2"
+    client = ApiClient(endpoint=endpoint)
+    accessor = GraphDBApi(client)
+
+    query = """
+        prefix int: <https://interesse/pred/>
+        prefix m: <https://municipio/pred/>
+        select ?nome ?tipo ?regiao
+        where {
+            ?s_int int:nome ?nome.
+            ?s_int int:tipo ?tipo.
+            ?s_m m:interesse ?s_int.
+            ?s_m m:regiao ?regiao.
+        }
+        """
+    payload_query = {"query": query}
+    res = accessor.sparql_select(body=payload_query,
+                                 repo_name=repo_name)
+    res = json.loads(res)
+
+    send = {}
+    cultura = {}
+    lazer = {}
+    gastronomia = {}
+    patrimonio = {}
+
+    for i in res['results']['bindings']:
+        nomeint = i['nome']['value']
+        tipoint = i['tipo']['value']
+        regiaoint = i['regiao']['value']
+        if tipoint=='Lazer':
+            lazer[nomeint.replace(' ', '_')] = [nomeint, regiaoint]
+        if tipoint=='Cultura':
+            cultura[nomeint.replace(' ', '_')] = [nomeint, regiaoint]
+        if tipoint=='Gastronomia e Vinho':
+            gastronomia[nomeint.replace(' ', '_')] = [nomeint, regiaoint]
+        if tipoint=='Patrimonio':
+            patrimonio[nomeint.replace(' ', '_')] = [nomeint, regiaoint]
+
+    send['cultura'] = cultura
+    send['lazer'] = lazer
+    send['gastronomia'] = gastronomia
+    send['patrimonio'] = patrimonio
+
+    return render(request, 'interesses.html', {"send": send})

@@ -99,25 +99,25 @@
                 <h4>Cultura:</h4>
                 {% for key, value in interesses.items %}
                     {% if value.tipo == 'cultura' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Lazer:</h4>
                 {% for key, value in interesses.items %}
                     {% if value.tipo == 'Lazer' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Patrimonio:</h4>
                 {% for key, value in interesses.items %}
                     {% if value.tipo == 'Património' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
                 <h4>Gastronomia e Vinhos:</h4>
                 {% for key, value in interesses.items %}
                     {% if value.tipo == 'gastronomia' %}
-                        <h4><span class="minortab"><a href="/interesseDetail/?id={{ key }}" > {{value.nome}} </a></span></h4>
+                        <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
             </form>
