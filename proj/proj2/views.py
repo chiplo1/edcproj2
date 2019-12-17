@@ -49,71 +49,79 @@ def distritos(request):
     infoportugal['totalpop'] = pop
     infoportugal['totalarea'] = area
     infoportugal['densidadeportugal'] = denspop
-    print(infoportugal)
     return render(request, 'distritos.html', {"infoportugal": infoportugal})
 
 def distritoDetail(request):
+    data = request.GET
+    id = data['id']
     endpoint = "http://localhost:7200"
     repo_name = "edcproj2"
     client = ApiClient(endpoint=endpoint)
     accessor = GraphDBApi(client)
 
-
     query = """
     prefix ns0: <https://distrito/pred/>
-    prefix ns1: <https://distrito/pref/>
-    select ?distrito ?nomemunicipio
-    where{
-        ?distrito ns1:municipio ?nomemunicipio.
-        ?distrito ns0:nome 'Aveiro'.
+    prefix ns1: <https://municipio/pred/>
+    select ?distrito ?nome ?idmunicipio ?img ?nomedist ?area ?pop
+    where { 
+        ?distrito ns0:iddistrito '""" +id+ """'.
+        ?distrito ns0:municipio ?nomemunicipio.
+        ?nomemunicipio ns1:nome ?nome.
+        ?nomemunicipio ns1:idmun ?idmunicipio.
+        ?distrito ns0:imagem ?img.
+    	?distrito ns0:nome ?nomedist.
+    	?nomemunicipio ns1:area ?area.
+        ?nomemunicipio ns1:pop ?pop.
+       
     }
+    order by asc(?nome)
     """
+
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
     repo_name=repo_name)
     res = json.loads(res)
+    municipios = {}
+    interesses = {}
+    area = 0
+    pop = 0
+
     for e in res['results']['bindings']:
-        print(e['nomemunicipio']['value'])
+        municipios[e['idmunicipio']['value']] = e['nome']['value']
+        area = area + float((e['area']['value']))
+        pop = pop + float((e['pop']['value']))
 
-    return render(request, 'distritos.html', {})
+    denspop = round(pop / area, 2)
+    pop = round(pop, 2)
+    area = round(area, 2)
 
-def distritoDetail(request):
-    #create session
-    session = BaseXClient.Session('localhost', 1984, 'admin', 'admin')
-    data = request.GET
-    id = data['id']
-    try:
-        #create query instance
-        input = "import module namespace funcs = 'com.funcs.my.index';funcs:distrito({})".format(id)
-        query = session.query(input)
+    municipios['imagemdistrito'] = res['results']['bindings'][0]['img']['value']
+    municipios['nomedistrito'] = res['results']['bindings'][0]['nomedist']['value']
+    municipios['numpopulacao'] = pop
+    municipios['areatotal'] = area
+    municipios['densidadedistrito'] = denspop
 
-        response = query.execute()
+    query = """
+        prefix int: <https://interesse/pred/>
+        prefix m: <https://municipio/pred/>
+        prefix d: <https://distrito/pred/>
+        select ?nome_int ?idint
+        where {
+           ?d d:iddistrito '"""+id+"""'.
+           ?d d:municipio ?s_nome.
+           ?s_nome m:interesse ?s_int.
+           ?s_int int:nome ?nome_int.
+           ?s_int int:idint ?idint
+        }order by asc(?nome_int)
+    """
 
-        query.close()
+    payload_query = {"query": query}
+    res = accessor.sparql_select(body=payload_query,
+                                 repo_name=repo_name)
+    res = json.loads(res)
 
-        input = "import module namespace funcs = 'com.funcs.my.index';funcs:interesseDist({})".format(id)
-        query = session.query(input)
-        response2 = query.execute()
-        query.close()
-    finally:
-        if session:
-            municipios = {}
-            interesses = {}
-            search = xmltodict.parse(response)['distrito']
-            if not response2 == "<interesse/>":
-                search1 = xmltodict.parse(response2)['interesse']['interesse']
-            else:
-                search1 = ''
-            municipios['imagemdistrito'] = search['imagemdistrito']
-            municipios['nomedistrito'] = search['nomedistrito']
-            municipios['numpopulacao'] = search['numpopulacao']
-            municipios['areatotal'] = round(float(search['areatotal']), 2)
-            municipios['densidadedistrito'] = round(float(search['densidadedistrito']), 2)
+    for e in res['results']['bindings']:
 
-            for s in search['municipios']['municipio']:
-                municipios[s['idmunicipio']] = s['nomeconcelho']
-            for m in search1:
-                interesses[m['idinteresse']] = m['nome']
-            session.close()
+        interesses[e['idint']['value']] = e['nome_int']['value']
 
     return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses})
