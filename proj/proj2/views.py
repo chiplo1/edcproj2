@@ -1,5 +1,5 @@
 from django.shortcuts import render
-
+from SPARQLWrapper import SPARQLWrapper, JSON
 # Create your views here.
 import json
 import xmltodict
@@ -124,4 +124,53 @@ def distritoDetail(request):
 
         interesses[e['idint']['value']] = e['nome_int']['value']
 
-    return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses})
+    codes = {
+        "1": 'Q485581',
+        "2": 'Q213251',
+        "3": 'Q83247',
+        "4": 'Q768261',
+        "5": 'Q12899232',
+        "6": 'Q45412',
+        "7": 'Q179948',
+        "8": 'Q159457',
+        "9": 'Q750594',
+        "10": 'Q206933',
+        "11": 'Q597',
+        "12": 'Q622819',
+        "13": 'Q36433',
+        "14": 'Q273877',
+        "15": 'Q173699',
+        "16": 'Q208158',
+        "17": 'Q503856',
+        "18": 'Q117676',
+    }
+    sparql = SPARQLWrapper("http://query.wikidata.org/sparql")
+    sparql.setQuery("""
+              SELECT DISTINCT ?coordinates ?imagemLabel ?timezoneLabel ?borderLabel
+              WHERE {
+                ?distrito wdt:P17 wd:Q45 .
+                ?distrito wdt:P31 wd:Q41806065 .
+                ?distrito wdt:P36 wd:"""+ codes.get(id) +""" .
+                ?distrito wdt:P625 ?coordinates .
+                OPTIONAL { ?distrito wdt:P2046 ?areaDistrito .}
+                OPTIONAL { ?distrito wdt:P242 ?imagem .}
+                OPTIONAL { ?distrito wdt:P421 ?timezone .}
+                OPTIONAL { ?distrito wdt:P47 ?border .}
+                SERVICE wikibase:label { bd:serviceParam wikibase:language "en, pt". }
+              }
+          """)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+    borders = []
+    for result in results['results']['bindings']:
+        coord = result['coordinates']['value']
+        img = result['imagemLabel']['value']
+        tz = result['timezoneLabel']['value']
+        borders.append(result['borderLabel']['value'])
+    data = {}
+    data['coord'] = coord
+    data['img'] = img
+    data['tz'] = tz
+    data['borders'] = borders
+
+    return render(request, 'distritoDetail.html', {"municipios":municipios,"interesses":interesses,"data":data})
