@@ -98,7 +98,7 @@
           <form action="/interesseDetail/" method='get'>
                 <h4>Cultura:</h4>
                 {% for key, value in interesses.items %}
-                    {% if value.tipo == 'cultura' %}
+                    {% if value.tipo == 'Cultura' %}
                         <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
@@ -110,60 +110,48 @@
                  {% endfor %}
                 <h4>Patrimonio:</h4>
                 {% for key, value in interesses.items %}
-                    {% if value.tipo == 'Património' %}
+                    {% if value.tipo == 'Patrimonio' %}
                         <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
-                <h4>Gastronomia e Vinhos:</h4>
+                <h4>Gastronomia e Vinho:</h4>
                 {% for key, value in interesses.items %}
-                    {% if value.tipo == 'gastronomia' %}
+                    {% if value.tipo == 'Gastronomia e Vinho' %}
                         <h4><span class="minortab"><a href="/interesseDetail/?interesse={{ key }}" > {{value.nome}} </a></span></h4>
                     {% endif %}
                  {% endfor %}
             </form>
             <br>
 
-            <h3>Inserir Interesses:</h3>
-            <h4>Por XML</h4>
-            <form method="post" >
-                {% csrf_token %}
-                <input id='xmldocument' name = 'xmldocument' type="file">
-                <button id='button' >Validar</button>
-            </form>
-            <form action="/municipioDetail/" method='get'>
-                {% for key,value in send.items %}
-                    {% if key == 'valid' and not empty %}
-                        <h5>{{ value }}</h5>
-                    {% endif %}
-                {% endfor %}
-            </form>
-
-  <br>
-            <h4>Manualmente</h4>
-            <button type="button" value="Inserir" onclick="visivel(this)">Adicionar interesse</button>
-      <br><br>
-         <form method="post" id="dvInserir" style="display: none">
+            <h4>Inserir Interesse:</h4>
+         <form method="post" id="dvInserir">
             {% csrf_token %}
-            <p>Nome: <input type="text" name="nomeinteresse"/></p>
-            <p>Tipo: <select name="tipo">
-            <option value="cultura">Cultura</option>
-            <option value="patrimonio">Patrimonio</option>
+             <div style="float: left;width: 40%;padding: 10px;">
+             <p>Nome: <input type="text" name="nomeinteresse"/></p>
+             <br>
+             <p>Tipo: <select name="tipo" style="height:32px; font-size: 16px">
+            <option value="Cultura">Cultura</option>
+            <option value="Patrimonio">Patrimonio</option>
             <option value="Lazer">Lazer</option>
-            <option value="gastronomia">Gastronomia e vinhos</option>
-        </select></p>
-             <p><input type="submit" value="Adicionar"/></p>
+            <option value="Gastronomia e Vinho">Gastronomia e Vinho</option>
+            </select></p>
+             <br>
+             <p><input onclick="document.reload(true)" type="submit" value="Adicionar interesse"/></p>
+             <br>
+            </div>
+            <div style="float: left;width: 60%;padding: 10px;">
+             <h4>Apagar Interesse:</h4>
+             <p><input type="text" name="nomeinteressedel"/></p>
+             <p><select name="nomeinteressedel" style="height:32px; font-size: 16px">
+                  {% for key, value in interesses.items %}
+                      <option value="{{value.nome}}">{{value.nome}}</option>
+                 {% endfor %}
+             </select></p>
+             <p><input onclick="document.reload(true)" type="submit" value="Apagar interesse"/></p>
+            </div>
         </form>
-
   </div>
-
 </div>
-
-<script>
-function visivel(btnInserir) {
-        var dvInserir = document.getElementById("dvInserir");
-        dvInserir.style.display = "Inserir" ? "block" : "none";
-}
-</script>
 
 </body>
 </html>

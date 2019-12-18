@@ -221,6 +221,8 @@ def interesseDetail(request):
     return render(request, 'interesseDetail.html', {"send": send})
 
 def municipioDetail(request):
+    nomeinteresse = None
+    tipo = None
     data = request.GET
     municipio = data['municipio']
 
@@ -230,43 +232,105 @@ def municipioDetail(request):
     accessor = GraphDBApi(client)
     f = municipio.replace('_', ' ')
 
+    # -----INSERIR INTERESSE----------
+    if 'nomeinteresse' in request.POST and 'tipo' in request.POST:
+        nomeinteresse = request.POST.get('nomeinteresse')
+        tipo = request.POST.get('tipo')
+
+    if nomeinteresse != None and tipo != None:
+        s_nomeinteresse = nomeinteresse.replace(' ', '_')
+        update = """
+           prefix int: <https://interesse/>
+           prefix p_int: <https://interesse/pred/>
+           insert data {
+               int:""" + s_nomeinteresse + """ p_int:nome '""" + nomeinteresse + """';
+                              p_int:tipo '""" + tipo + """'.
+           }"""
+        playload_query2 = {"update": update}
+        res = accessor.sparql_update(body=playload_query2, repo_name=repo_name)
+
+        update2 = """
+           prefix m: <https://municipio/pred/>
+           prefix int: <https://interesse/>
+           insert{
+               ?s m:interesse int:""" + s_nomeinteresse + """
+           }where{
+               ?s m:nome '""" + f + """'.
+           }"""
+        #print(update)
+        #print(update2)
+        playload_query3 = {"update": update2}
+        res = accessor.sparql_update(body=playload_query3, repo_name=repo_name)
+    # ------------------------------------------------------------------------------
+    # -----DELETE INTERESSE---------
+    intdelete = None
+    if 'nomeinteressedel' in request.POST != None:
+        intdelete = request.POST.get('nomeinteressedel')
+    if intdelete != None:
+        updatedel = """prefix int: <https://interesse/pred/>
+           delete {?s ?p ?o}
+           where { 
+              ?s int:nome '""" + intdelete + """'.
+              ?s ?p ?o.
+           }"""
+        playload_querydel = {"update": updatedel}
+        resdel = accessor.sparql_update(body=playload_querydel, repo_name=repo_name)
+# -----------------------------------------------------------------------------------------
+    #imprime toda a informaçao associado a um determinado municipio
     query = """
         prefix m: <https://municipio/pred/>
         prefix int: <https://interesse/pred/>
-        select ?regiao ?area ?pop ?denspop ?nomeint ?tipo
+        select ?regiao ?area ?pop ?denspop 
         where{
             ?municipio m:nome '"""+ f +"""'.
             ?municipio m:regiao ?regiao.
             ?municipio m:area ?area.
             ?municipio m:pop ?pop.
             ?municipio m:denspop ?denspop.
-            ?municipio m:interesse ?s_int.
-            ?s_int int:nome ?nomeint.
-            ?s_int int:tipo ?tipo
         }
         """
     payload_query = {"query": query}
     res = accessor.sparql_select(body=payload_query,
                                  repo_name=repo_name)
     res = json.loads(res)
+
     send = {}
     listanomes = {}
-    send["nomeconcelho"] = municipio
+    send["nomeconcelho"] = f
     send["regiao"] = res['results']['bindings'][0]['regiao']['value']
     send["area"] = res['results']['bindings'][0]['area']['value']
     send["populacao"] = res['results']['bindings'][0]['pop']['value']
     send["densidadepopulacional"] = res['results']['bindings'][0]['denspop']['value']
-
-    if len(res['results']['bindings'])>1:
-        for ints in res['results']['bindings']:
-            listanomes[ints['nomeint']['value'].replace(' ', '_')] = {
+#-----------------------------------------------------------------------------------------
+    #resultado toda a informacao de interesses que um municipio tem
+    query2 = """
+            prefix m: <https://municipio/pred/>
+            prefix int: <https://interesse/pred/>
+            select ?nomeint ?tipo
+            where{
+                ?municipio m:nome '""" + f + """'.
+                ?municipio m:interesse ?s_int.
+                ?s_int int:nome ?nomeint.
+                ?s_int int:tipo ?tipo
+            }
+            """
+    payload_queryint = {"query": query2}
+    res = accessor.sparql_select(body=payload_queryint,
+                                 repo_name=repo_name)
+    res = json.loads(res)
+    tmp = res['results']['bindings']
+    if tmp != []:
+        if len(tmp)>1:
+           for ints in tmp:
+                listanomes[ints['nomeint']['value'].replace(' ', '_')] = {
                 "nome": ints['nomeint']['value'],
                 "tipo": ints['tipo']['value']}
-    else:
-        listanomes[res['results']['bindings'][0]['nomeint']['value'].replace(' ', '_')] = {
-            "nome": res['results']['bindings'][0]['nomeint']['value'],
-            "tipo": res['results']['bindings'][0]['tipo']['value']}
+        else:
+            listanomes[res['results']['bindings'][0]['nomeint']['value'].replace(' ', '_')] = {
+                "nome": res['results']['bindings'][0]['nomeint']['value'],
+                "tipo": res['results']['bindings'][0]['tipo']['value']}
 
+    #print(listanomes)
     return render(request, 'municipioDetail.html', {"send": send, "interesses": listanomes})
 
 def interesses(request):
