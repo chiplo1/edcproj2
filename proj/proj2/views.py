@@ -189,7 +189,6 @@ def interesseDetail(request):
     client = ApiClient(endpoint=endpoint)
     accessor = GraphDBApi(client)
     f = interesse.replace('_', ' ')
-
     query = """
         prefix int: <https://interesse/pred/>
         prefix m: <https://municipio/pred/>
@@ -209,14 +208,46 @@ def interesseDetail(request):
                                  repo_name=repo_name)
     res = json.loads(res)
 
-    print(res)
-
     send = {}
 
     send = {'nome':f,
             'tipo':res['results']['bindings'][0]['tipo']['value'],
             'nomeconcelho':res['results']['bindings'][0]['nomemunicipio']['value'],
             'nomedistrito':res['results']['bindings'][0]['nomedistrito']['value']}
+    # -----------------------------------------------------------
+    # ----------EDITAR INTERESSE---------
+    intdelete = None
+    newinteresse = None
+    newtipo = None
+    nomeconcelho = res['results']['bindings'][0]['nomemunicipio']['value'];
+    if 'nomeinteresse' in request.POST and 'newtipo' in request.POST:
+        intdelete = f
+        newinteresse = request.POST.get('nomeinteresse')
+        newtipo = request.POST.get('newtipo')
+    if intdelete != None and newinteresse != None and newtipo != None:
+        s_nomeinteresse = newinteresse.replace(' ', '_')
+        updateedit = """prefix int: <https://interesse/pred/>
+                    prefix p_int: <https://interesse/pred/>
+                   prefix m: <https://municipio/pred/>
+                   delete {?s ?p ?o}
+                   where { 
+                      ?s int:nome '""" + intdelete + """'.
+                      ?s ?p ?o.
+                   };
+                  insert data {
+                      int:""" + s_nomeinteresse + """ p_int:nome '""" + newinteresse + """';
+                                     p_int:tipo '""" + newtipo + """'.
+                  };
+                   insert{
+                       ?s m:interesse int:""" + s_nomeinteresse + """
+                   }where{
+                       ?s m:nome '""" + nomeconcelho + """'.
+                   }"""
+        playload_querydel = {"update": updateedit}
+        resedit = accessor.sparql_update(body=playload_querydel, repo_name=repo_name)
+        print(resedit)
+        print(updateedit)
+    # ------------------------------------------------------------
 
     return render(request, 'interesseDetail.html', {"send": send})
 
@@ -379,5 +410,7 @@ def interesses(request):
     send['lazer'] = lazer
     send['gastronomia'] = gastronomia
     send['patrimonio'] = patrimonio
-
     return render(request, 'interesses.html', {"send": send})
+
+def sobre(request):
+    return render(request, 'sobre.html')

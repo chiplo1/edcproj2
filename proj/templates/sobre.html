@@ -17,7 +17,6 @@
       border-radius: 0;
     }
 
-}
     /* Add a gray background color and some padding to the footer */
     footer {
       background-color: #f2f2f2;
@@ -44,17 +43,30 @@
         <li ><a href="/">Home</a></li>
         <li ><a href="/distritos">Portugal</a></li>
         <li ><a href="/interesses">Interesses</a></li>
-        <li ><a href="/rssFeed">rssFeed</a></li>
         <li ><a href="/sobre">Sobre o Site</a></li>
       </ul>
     </div>
   </div>
 </nav>
-
-{% autoescape off %}
-    <br><br><br>
-{{ sobre }}
-{% endautoescape %}
-
+<br><br><br>
+<h2 align="center">Esta aplicação web é o resultado do segundo projeto realizado no âmbito da unidade curricular Engenharia de Dados e Conhecimento.
+O tema, assim como no primeiro projeto, baseia-se na exposição de informação de dados geográficos sobre o país, juntamente com algumas das suas atrações turísticas.</h2>
+<br>
+<h3>Ferramentas utilizadas:</h3>
+<ul>
+    <li>Python/Django para programação da aplicação.</li>
+    <li>RDF(utilizado formato NT).</li>
+    <li>Triplestore GraphDB para repositório de dados.</li>
+    <li>SPARQL para pesquisa e alteração de dados na triplestore.</li>
+    <li>SPARQLwrapper para integração de dados da Wikidata, para complementar a informação do nosso repositório.</li>
+</ul>
+<br>
+<h3>Autores:</h3>
+<ul>
+    <li>Fábio Nunes Nº 80321</li>
+    <li>Guilherme Henriques Nº 80100</li>
+    <li>José Moreira Nº 79671</li>
+    <li>Mariana Pinheiro Nº 80186</li>
+</ul>
 </html>
 

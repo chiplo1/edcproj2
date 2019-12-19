@@ -66,7 +66,6 @@
         <li ><a href="/">Home</a></li>
         <li ><a href="/distritos">Portugal</a></li>
         <li ><a href="/interesses">Interesses</a></li>
-        <li ><a href="/rssFeed">rssFeed</a></li>
         <li ><a href="/sobre">Sobre o Site</a></li>
       </ul>
     </div>
@@ -76,7 +75,7 @@
   <div class="column" style="background-color:#FFFFFF;">
     <h2><span class="minortab">Detalhes:</span> </h2>
     <br>
-      {% for key,value in send.items %}
+    {% for key,value in send.items %}
           {% if key == "nome" %}
             <h4><span class="tab"> Nome: {{value}}</span></h4>
           {% elif key == "tipo" %}
@@ -87,6 +86,24 @@
              <h4><span class="tab"> Distrito: {{value}} </span></h4>
           {% endif %}
       {% endfor %}
+    <form method="post" id="dvEditar" style="display: none; margin-left: 40px; margin-top: 30px">
+        {% csrf_token %}
+        {% for key,value in send.items %}
+          {% if key == "nome" %}
+            <h4> Nome: <input  type="text" name="nomeinteresse" value="{{value}}"/></h4>
+          {% elif key == "tipo" %}
+             <h4><p>Tipo: <select name="newtipo" style="height:32px; font-size: 16px">
+            <option value="Cultura">Cultura</option>
+            <option value="Patrimonio">Patrimonio</option>
+            <option value="Lazer">Lazer</option>
+            <option value="Gastronomia e Vinho">Gastronomia e Vinho</option>
+            </select></p></h4>
+          {% endif %}
+        {% endfor %}
+    <input style="margin-left: 60px; margin-top: 20px" type="submit" value="Guardar" onclick="invisivel(this)"></p>
+    </form>
+  <p><button style="margin-left: 60px; margin-top: 20px" type="button" value="Editar" onclick="visivel(this)">Editar</button>
+
   </div>
 
 
@@ -95,6 +112,16 @@
   </div>
 
 </div>
-
+<script>
+function visivel(btnInserir) {
+        var dvEditar = document.getElementById("dvEditar");
+        dvEditar.style.display = "block";
+}
+function invisivel(btnInserir) {
+        document.history.go(-2);
+        var dvEditar = document.getElementById("dvEditar");
+        dvEditar.style.display = "none";
+}
+</script>
 </body>
 </html>
